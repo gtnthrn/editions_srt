@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8" />
+        <title>Edition_srt</title>
+
+<style>
+@font-face { font-family: classico; src: url('font/ClassicoURWTOT-Regular.otf'); } 
+</style>
+
+		<link rel="stylesheet" href="css/styles.css" type="text/css" />
+		<script src="js/jquery-3.2.1.slim.min.js"></script>
+            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+            <script src='js/drop-file.js'></script>
+
+    </head>
+
+    <script>
+// Load the xml file using ajax 
+$.ajax({
+    url: 'xml-file/srt.xml',
+    dataType: 'xml',
+    success: function (xml) {
+    	    // Parse the xml file and get data
+    	$(xml).find('body').each(function (){
+    		$('#contenu').append($(this).html());
+    	});
+    },
+    error: function (){
+    	$('#contenu').text('failed to load your file');
+    }
+});
+
+</script>
+<body>
+	<div id="dropfile">/!\ drag and drop system don't works, still in progress, please follow this guide for the moment.<br><div class='guide'>1. Convert your .srt file to .xml <a href='https://gotranscript.com/subtitle-converter'>here</a><br>2. Rename it 'srt.xml' and drop it in 'xml-file' folder</div></div>
+
+	<div class="page">
+		<div id="contenu">
+            
+		</div>
+	</div>
+</body>
+
+
+<script src="js/srt-books.js"></script>
+</html>

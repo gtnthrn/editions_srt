@@ -1,0 +1,1402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="33.232s" id="p0" end="38.132s">Ruy Blas</p>
+      <p begin="117.495s" id="p1" end="119.445s">Allons, hue! Tu as pourtant bien dormi!</p>
+      <p begin="120.908s" id="p2" end="122.828s">Comment peux-tu me faire une chose pareille...!</p>
+      <p begin="122.954s" id="p3" end="124.494s">Tu n'as donc pas de coeur!</p>
+      <p begin="132.781s" id="p4" end="134.951s">Hé! hé! ma mule! Arrêtez! arrêtez!</p>
+      <p begin="135.312s" id="p5" end="136.422s">Arrêtez ma mule!</p>
+      <p begin="136.996s" id="p6" end="138.306s">Arrêtez!</p>
+      <p begin="144.888s" id="p7" end="146.808s">- Où allez-vous? - A Madrid.</p>
+      <p begin="146.931s" id="p8" end="149.191s">- Diable! Et d'où venez-vous? - De mon collège.</p>
+      <p begin="149.306s" id="p9" end="152.596s">- Montez en croupe. - Je ne veux pas quitter ma mule. C'est tout ce que j'ai.</p>
+      <p begin="152.72s" id="p10" end="155.17s">Va pour la mule! Nous prendrons le pas.</p>
+      <p begin="161.918s" id="p11" end="164.938s">Je suis enchanté, cher Monsieur, de notre rencontre.</p>
+      <p begin="165.064s" id="p12" end="166.584s">Nous allons faire route ensemble.</p>
+      <p begin="166.703s" id="p13" end="168.253s">- Vous vous appelez? - Ruy Blas.</p>
+      <p begin="168.367s" id="p14" end="169.727s">Je suis le duc d'Albe.</p>
+      <p begin="169.964s" id="p15" end="173.234s">Nous voilà  presque à  Madrid. Vous comptez y poursuivre vos études?</p>
+      <p begin="173.347s" id="p16" end="176.307s">Non, Monseigneur. Je m'étais cru, hélas, plus que je n'étais.</p>
+      <p begin="176.427s" id="p17" end="177.347s">J'y renonce.</p>
+      <p begin="177.473s" id="p18" end="178.423s">Plus que vous n'étiez?</p>
+      <p begin="178.536s" id="p19" end="181.666s">Je me croyais poète. Je ne l'étais pas.</p>
+      <p begin="181.791s" id="p20" end="183.311s">Qu'est-ce que vous comptez faire?</p>
+      <p begin="183.432s" id="p21" end="186.152s">Je prendrai le premier petit emploi qui s'offre.</p>
+      <p begin="186.269s" id="p22" end="189.169s">Venez me voir à  l'hôtel d'Albe. Je m'en charge.</p>
+      <p begin="189.287s" id="p23" end="190.967s">Merci, Monseigneur.</p>
+      <p begin="194.583s" id="p24" end="196.223s">Vous avez une maîtresse?</p>
+      <p begin="198.238s" id="p25" end="199.518s">Non, Monseigneur.</p>
+      <p begin="199.635s" id="p26" end="202.985s">Diable! Vous serez bien la seule personne à  Madrid à  vivre sans amour!</p>
+      <p begin="203.109s" id="p27" end="204.819s">La seule... avec la Reine.</p>
+      <p begin="206.128s" id="p28" end="207.118s">Mais...</p>
+      <p begin="207.239s" id="p29" end="208.699s">le Roi?</p>
+      <p begin="208.817s" id="p30" end="210.287s">Le Roi? Ah!... le Roi ... le Roi... C'est une ombre.</p>
+      <p begin="210.41s" id="p31" end="214.34s">Il habite l'Escurial. Il ne s'occupe pas plus de la Reine que du royaume...</p>
+      <p begin="214.459s" id="p32" end="217.119s">L'Espagne se porte mal, cher Monsieur, très mal.</p>
+      <p begin="217.237s" id="p33" end="220.397s">A Roi malade, pays malade. Il n'y a plus...</p>
+      <p begin="220.524s" id="p34" end="222.364s">Ne bougez pas. Levez les mains.</p>
+      <p begin="227.603s" id="p35" end="230.973s">Monseigneur, nous nous excusons de surgir ainsi à  l'improviste...</p>
+      <p begin="231.09s" id="p36" end="232.96s">Aux portes de Madrid? ...Je vous félicite.</p>
+      <p begin="233.082s" id="p37" end="235.252s">C'est un grand honneur que vous me faites, Monseigneur.</p>
+      <p begin="235.373s" id="p38" end="238.113s">Je suppose qu'il faut vous donner l'or que j'ai sur moi...</p>
+      <p begin="238.23s" id="p39" end="240.7s">Pour qui me prend Votre Altesse? Non, non,</p>
+      <p begin="240.816s" id="p40" end="242.856s">je prierai seulement Votre Altesse de nous suivre.</p>
+      <p begin="242.98s" id="p41" end="244.64s">Ah! la rançon.</p>
+      <p begin="244.761s" id="p42" end="248.071s">Votre Altesse ne manque pas de grands seigneurs qui peuvent répondre d'elle.</p>
+      <p begin="248.192s" id="p43" end="250.812s">Bien, très bien. Puis-je envoyer ce jeune homme à  Madrid?</p>
+      <p begin="252.765s" id="p44" end="256.245s">Je suppose, cher Monsieur, que vous consentirez à  me rendre ce service?</p>
+      <p begin="256.606s" id="p45" end="260.036s">- Vous montez à  cheval? - Je monte aussi à  cheval, Monseigneur.</p>
+      <p begin="261.183s" id="p46" end="262.293s">Qui êtes-vous?</p>
+      <p begin="262.41s" id="p47" end="265.05s">Un pauvre étudiant que M. le Duc a rencontré sur sa route.</p>
+      <p begin="265.54s" id="p48" end="267.04s">Mon nom est Ruy Blas.</p>
+      <p begin="267.163s" id="p49" end="269.783s">- à‡a par exemple! - Je n'ai rien dans mes poches.</p>
+      <p begin="269.904s" id="p50" end="270.994s">Je vous préviens.</p>
+      <p begin="271.107s" id="p51" end="272.747s">Parfait, la mule, parfait!</p>
+      <p begin="273.672s" id="p52" end="276.742s">Si Votre Seigneurie a confiance en ce jeune homme, j'accepte.</p>
+      <p begin="276.855s" id="p53" end="280.075s">Je lui indiquerai où Votre Seigneurie attendra son retour.</p>
+      <p begin="280.2s" id="p54" end="282.06s">Chef, mille ducats?</p>
+      <p begin="282.343s" id="p55" end="283.993s">Adressez-vous à  Monseigneur.</p>
+      <p begin="284.113s" id="p56" end="285.243s">C'est lui qui commande.</p>
+      <p begin="285.359s" id="p57" end="287.249s">Que Monseigneur décide lui-même la somme.</p>
+      <p begin="287.504s" id="p58" end="288.594s">Mille ducats?</p>
+      <p begin="288.708s" id="p59" end="290.038s">Mille ducats vous suffisent?</p>
+      <p begin="293.578s" id="p60" end="296.678s">Votre chiffre sera le nôtre, Monseigneur. Nous ne discutons jamais.</p>
+      <p begin="296.99s" id="p61" end="299.8s">Mille ducats. Vous irez au Palais Royal.</p>
+      <p begin="299.92s" id="p62" end="302.33s">Vous demandererz le marquis don Salluste de Bazan.</p>
+      <p begin="303.174s" id="p63" end="304.994s">Portez-lui ma Toison d'Or.</p>
+      <p begin="305.114s" id="p64" end="306.784s">Elle vous servira de preuve.</p>
+      <p begin="306.899s" id="p65" end="307.769s">Ecris:</p>
+      <p begin="311.555s" id="p66" end="313.495s">Remettez mille ducats...</p>
+      <p begin="314.643s" id="p67" end="317.523s">Remettez mille ducats à  Ruy Blas...</p>
+      <p begin="318.371s" id="p68" end="320.801s">le jeune homme qui vous apporte cette lettre...</p>
+      <p begin="320.921s" id="p69" end="322.961s">On te donnerait le Bon Dieu sans confession.</p>
+      <p begin="323.075s" id="p70" end="324.455s">Tu es formidable!</p>
+      <p begin="324.583s" id="p71" end="325.883s">Nous t'attendons où tu sais.</p>
+      <p begin="325.997s" id="p72" end="327.717s">Je vous le recommand.</p>
+      <p begin="327.945s" id="p73" end="331.635s">N'exercez contre lui aucun sévice.</p>
+      <p begin="332.576s" id="p74" end="333.836s">Il est de mes amis.</p>
+      <p begin="343.638s" id="p75" end="345.498s">Les choses sont-elles en ordre?</p>
+      <p begin="346.034s" id="p76" end="350.044s">Il est bien entendu, Monseigneur, que le jeune homme reviendra seul.</p>
+      <p begin="350.657s" id="p77" end="354.247s">Je ne voudrais pas qu'il arrive malheur à  Votre Seigneurie.</p>
+      <p begin="354.37s" id="p78" end="355.68s">Vous avez ma promesse.</p>
+      <p begin="355.801s" id="p79" end="358.261s">Vous avez entendu? Prenez le cheval de mon écuyer.</p>
+      <p begin="358.866s" id="p80" end="361.946s">- Je me porte garant de votre mule. - Merci, Monseigneur.</p>
+      <p begin="368.874s" id="p81" end="370.344s">Et où m'attendrez-vous?</p>
+      <p begin="370.456s" id="p82" end="372.816s">On vous guettera sur la route.</p>
+      <p begin="373.258s" id="p83" end="374.288s">En marche!</p>
+      <p begin="388.307s" id="p84" end="389.167s">Monseigneur!</p>
+      <p begin="389.528s" id="p85" end="391.408s">Bon chance! Et galopez!</p>
+      <p begin="391.533s" id="p86" end="392.623s">Messieurs.</p>
+      <p begin="425.696s" id="p87" end="427.086s">Par ici, Monseigneur.</p>
+      <p begin="428.556s" id="p88" end="430.596s">Vous enfermerez l'écuyer dans l'écurie.</p>
+      <p begin="430.718s" id="p89" end="431.968s">Surveillez-le.</p>
+      <p begin="439.919s" id="p90" end="441.229s">Où vais-je?</p>
+      <p begin="441.346s" id="p91" end="443.216s">Là -haut, dans la chambre du chef.</p>
+      <p begin="443.99s" id="p92" end="446.39s">Nous la réservons aux hôtes de marque.</p>
+      <p begin="457.888s" id="p93" end="460.278s">Vous avez plus de soldats que Sa Majesté.</p>
+      <p begin="460.402s" id="p94" end="462.182s">Nous payons mieux qu'elle.</p>
+      <p begin="468.715s" id="p95" end="470.265s">Excusez-moi, Monseigneur.</p>
+      <p begin="477.952s" id="p96" end="480.212s">Bravo pour la mule, Monsieur l'étudiant!</p>
+      <p begin="482.071s" id="p97" end="483.471s">Entrez, Monseigneur.</p>
+      <p begin="485.202s" id="p98" end="486.252s">Goulatromba.</p>
+      <p begin="486.366s" id="p99" end="487.716s">- Chef? - Lassez nous.</p>
+      <p begin="488.343s" id="p100" end="489.353s">Lassez nous!</p>
+      <p begin="489.473s" id="p101" end="491.713s">- Mais... - Il n'y a pas de mais! Laissez nous!</p>
+      <p begin="497.106s" id="p102" end="498.356s">Excusez-moi, Monsieur le Duc.</p>
+      <p begin="499.106s" id="p103" end="501.306s">Il n'y a plus de discipline en Espagne.</p>
+      <p begin="501.775s" id="p104" end="504.145s">Ne vous dérangez pas. Soupez.</p>
+      <p begin="504.273s" id="p105" end="507.543s">Vous devez avoir soif après cette longue route en plein soleil.</p>
+      <p begin="507.658s" id="p106" end="509.418s">C'est vous qui devez avoir soif, Monseigneur.</p>
+      <p begin="509.536s" id="p107" end="511.336s">Puis-je vous offrir un peu de Xérès?</p>
+      <p begin="511.455s" id="p108" end="514.095s">Moi, je ne suis guère à  plaindre, je n'ai pas quitté cette pièce.</p>
+      <p begin="514.224s" id="p109" end="517.614s">Je connaissais votre itinéraire, j'ai envoyé ma troupe à  votre rencontre.</p>
+      <p begin="517.733s" id="p110" end="519.813s">Je me suis contenté de vous attendre ici.</p>
+      <p begin="520.063s" id="p111" end="523.673s">Je serai donc beau joueur, car l'aventure m'amuse.</p>
+      <p begin="524.56s" id="p112" end="526.0s">Quel est votre vrai nom?</p>
+      <p begin="526.504s" id="p113" end="528.524s">Vous m'en demandez trop, Monsieur le Duc!</p>
+      <p begin="529.109s" id="p114" end="530.689s">Appelez-moi Zafari,</p>
+      <p begin="531.301s" id="p115" end="532.711s">comme tout le monde.</p>
+      <p begin="535.693s" id="p116" end="536.913s">A votre santé!</p>
+      <p begin="537.027s" id="p117" end="538.787s">A votre santé, Zafari.</p>
+      <p begin="539.4s" id="p118" end="541.78s">Et à  la santé de Ruy Blas!</p>
+      <p begin="543.669s" id="p119" end="546.069s">- Vous connaissez Ruy Blas? - Autant que vous.</p>
+      <p begin="546.517s" id="p120" end="547.697s">Par exemple!</p>
+      <p begin="548.336s" id="p121" end="549.596s">Oh!</p>
+      <p begin="549.716s" id="p122" end="551.826s">Oh ! Monsieur le Duc, voilà  une grande merveille.</p>
+      <p begin="552.726s" id="p123" end="555.186s">Imaginez que je le cherche depuis un an!</p>
+      <p begin="555.517s" id="p124" end="556.917s">Mais où est-il?</p>
+      <p begin="560.229s" id="p125" end="562.509s">Il devrait galoper vers Madrid.</p>
+      <p begin="562.731s" id="p126" end="564.231s">Il devrait y être.</p>
+      <p begin="564.516s" id="p127" end="567.816s">Il devrait demander ma rançon à  don Salluste de Bazan...</p>
+      <p begin="568.29s" id="p128" end="569.85s">A don Salluste de Bazan ?</p>
+      <p begin="570.2s" id="p129" end="572.77s">Vous avouerai-je, cher Monsieur Zafari,</p>
+      <p begin="573.056s" id="p130" end="576.276s">que je m'étonnais un peu de voir vos camarades accepter si vite</p>
+      <p begin="576.404s" id="p131" end="579.794s">que j'envoyasse le premier venu chez le ministre de la Police?</p>
+      <p begin="580.567s" id="p132" end="582.577s">Alors, la Police sera là  aujourd'hui...</p>
+      <p begin="582.872s" id="p133" end="584.502s">et Goulatromba est un imbécile!</p>
+      <p begin="585.169s" id="p134" end="588.479s">Il a été au même titre que vous, Monsieur le Duc, victime d'une ressemblance.</p>
+      <p begin="588.6s" id="p135" end="591.69s">- On ne saurait mieux dire.... - Je ne plaisante pas. Ruy Blas existe.</p>
+      <p begin="591.81s" id="p136" end="594.62s">Nous nous sommes liés très jeunes au collège à  cause de cette ressemblance étonnante.</p>
+      <p begin="594.741s" id="p137" end="597.481s">- On nous prenait l'un pour l'autre. - Difficile à  croire.</p>
+      <p begin="597.599s" id="p138" end="601.669s">Représentez-vous, Monseigneur, les services que cette ressemblance pourrait nous rendre!</p>
+      <p begin="604.339s" id="p139" end="605.609s">Quels alibis!</p>
+      <p begin="606.017s" id="p140" end="607.847s">J'aime ce qui est incroyable.</p>
+      <p begin="608.582s" id="p141" end="609.902s">Je vous crois.</p>
+      <p begin="610.254s" id="p142" end="614.254s">Si vous me laissez partir, je tâcherai d'atteindre don Salluste avant que votre sosie ne puisse le voir.</p>
+      <p begin="614.484s" id="p143" end="616.394s">Un service en vaut un autre.</p>
+      <p begin="616.733s" id="p144" end="617.603s">Mais...</p>
+      <p begin="617.723s" id="p145" end="619.683s">vous me retrouverez Ruy Blas?</p>
+      <p begin="620.574s" id="p146" end="622.424s">Vous lui direz de me rejoindre...</p>
+      <p begin="622.537s" id="p147" end="624.897s">à  la messe de ce soir, église Santa-Mayor.</p>
+      <p begin="625.018s" id="p148" end="628.438s">Puisque Ruy Blas il y a, je verrai votre Ruy Blas, et je le lui dirai,</p>
+      <p begin="628.559s" id="p149" end="631.859s">- foi de gentilhomme. Suis-je libre? - Une minute, Monsieur le Duc.</p>
+      <p begin="632.737s" id="p150" end="634.747s">Je m'excuse...</p>
+      <p begin="635.347s" id="p151" end="636.997s">nous devons changer de costume...</p>
+      <p begin="637.12s" id="p152" end="638.35s">si j'ose dire.</p>
+      <p begin="638.945s" id="p153" end="642.645s">C'est que ... le pourpoint que je porte me plaît beaucoup.</p>
+      <p begin="643.022s" id="p154" end="643.972s">A moi aussi.</p>
+      <p begin="645.375s" id="p155" end="646.395s">Il soit.</p>
+      <p begin="658.969s" id="p156" end="661.439s">- Non, non! - A qui la botte?</p>
+      <p begin="662.26s" id="p157" end="664.37s">Voleurs! Sales voleurs!</p>
+      <p begin="664.493s" id="p158" end="665.773s">Assassins!</p>
+      <p begin="665.887s" id="p159" end="667.507s">Pas mes chausses!</p>
+      <p begin="670.231s" id="p160" end="671.181s">Décrochez-moi!</p>
+      <p begin="671.3s" id="p161" end="672.27s">Décrochez-moi!</p>
+      <p begin="672.385s" id="p162" end="674.565s">On te décroche, Monseigneur!</p>
+      <p begin="688.724s" id="p163" end="690.384s">Et les billets doux? J'en ai plein mes poches.</p>
+      <p begin="690.497s" id="p164" end="692.957s">Laissez-les moi, Monsieur le Duc. Ils me tiendront chaud l'hiver.</p>
+      <p begin="693.077s" id="p165" end="694.377s">Vous êtes un drôle de voleur.</p>
+      <p begin="694.501s" id="p166" end="696.411s">Vous m'envoyez Ruy Blas? Chose promise?</p>
+      <p begin="696.53s" id="p167" end="698.93s">Chose promise: messe du soir, Santa-Mayor.</p>
+      <p begin="702.87s" id="p168" end="703.82s">Vous permettez?</p>
+      <p begin="707.289s" id="p169" end="710.639s">Je vais vous montrer un secret que mes collègues ignorent.</p>
+      <p begin="720.281s" id="p170" end="721.361s">Suivez-moi...</p>
+      <p begin="724.426s" id="p171" end="725.876s">Vous vous méfiez, Monseigneur.</p>
+      <p begin="726.166s" id="p172" end="726.996s">C'est mal.</p>
+      <p begin="754.416s" id="p173" end="755.686s">Où sont-ils?</p>
+      <p begin="778.512s" id="p174" end="780.702s">Le Majordome de Sa Majesté la Reine!</p>
+      <p begin="783.912s" id="p175" end="785.432s">Je vous dérange?</p>
+      <p begin="785.791s" id="p176" end="787.851s">Je vous attendais, Guritan.</p>
+      <p begin="787.971s" id="p177" end="791.081s">Je sais que la Reine vous charge de toutes ses commissions désagréables...</p>
+      <p begin="793.99s" id="p178" end="796.22s">et, en outre, je n'étais pas convoqué à  l'audience.</p>
+      <p begin="796.339s" id="p179" end="799.249s">- La Reine m'exile? - Quel grand mot, Salluste!</p>
+      <p begin="799.369s" id="p180" end="803.319s">La Reine aimerait vous voir faire un long séjour dans vos terres.</p>
+      <p begin="803.594s" id="p181" end="806.014s">Pour une suivante que j'ai séduite et que je refuse d'épouser,</p>
+      <p begin="806.132s" id="p182" end="808.562s">qui a été se traîner avec son enfant chez le Roi, moi,</p>
+      <p begin="808.675s" id="p183" end="810.245s">marquis de Finlas, chef de la Maison de Bazan,</p>
+      <p begin="810.37s" id="p184" end="811.89s">ministre de la Police, vingt ans de charge,</p>
+      <p begin="812.008s" id="p185" end="813.838s">on me chasse comme un domestique!</p>
+      <p begin="814.623s" id="p186" end="815.943s">La Reine me hait.</p>
+      <p begin="816.058s" id="p187" end="817.038s">Elle a trouvé ce prétexte.</p>
+      <p begin="817.161s" id="p188" end="819.301s">La Reine ne hait personne, don Salluste.</p>
+      <p begin="819.529s" id="p189" end="821.849s">Mais cette fille est venue avec elle de Neubourg.</p>
+      <p begin="821.965s" id="p190" end="823.585s">Mon nom seul effrayait l'Espagne.</p>
+      <p begin="823.705s" id="p191" end="825.605s">Et je m'écroulerai au milieu d'un éclat de rire.</p>
+      <p begin="825.73s" id="p192" end="827.28s">Non, non, non, non!</p>
+      <p begin="827.396s" id="p193" end="830.316s">Sa Majesté ne veut surtout pas de scandale...</p>
+      <p begin="831.113s" id="p194" end="832.663s">Elle vous conseille...</p>
+      <p begin="833.091s" id="p195" end="834.281s">Elle vous prie...</p>
+      <p begin="834.395s" id="p196" end="837.135s">de rester encore une huitaine à  la Cour</p>
+      <p begin="837.262s" id="p197" end="840.362s">et d'annoncer que vous faites un voyage.</p>
+      <p begin="840.476s" id="p198" end="841.976s">Je suis à  ses ordres!</p>
+      <p begin="844.537s" id="p199" end="846.107s">La Reine est si bonne.</p>
+      <p begin="847.214s" id="p200" end="848.304s">Elle oubliera.</p>
+      <p begin="848.42s" id="p201" end="849.91s">Il y a des choses, Guritan,</p>
+      <p begin="850.034s" id="p202" end="851.344s">qu'on n'oublie jamais.</p>
+      <p begin="858.773s" id="p203" end="859.643s">Et voilà !</p>
+      <p begin="859.756s" id="p204" end="861.276s">Vous avez entendu, Santa-Cruz?</p>
+      <p begin="861.496s" id="p205" end="863.106s">Je ne croyais pas qu'elle oserait.</p>
+      <p begin="863.232s" id="p206" end="865.212s">Vous conn~ssez mal cette petite Allemande.</p>
+      <p begin="865.327s" id="p207" end="867.707s">Et pourtant, vous ne l'aimez pas plus que moi.</p>
+      <p begin="868.005s" id="p208" end="869.715s">Qu'est-ce que vous comptez faire?</p>
+      <p begin="869.836s" id="p209" end="871.796s">Obéir, vous laisser ma charge,</p>
+      <p begin="871.916s" id="p210" end="873.146s">et me venger.</p>
+      <p begin="874.735s" id="p211" end="876.775s">- De la Reine? - Pourquoi pas?</p>
+      <p begin="877.515s" id="p212" end="879.985s">J'aurai besoin de vous à  la Cour, Santa-Cruz.</p>
+      <p begin="880.208s" id="p213" end="882.238s">Je reviendrai au pouvoir, songez-y.</p>
+      <p begin="882.362s" id="p214" end="884.212s">- Monseigneur! - Qu'est-ce que c'est?</p>
+      <p begin="884.43s" id="p215" end="886.19s">Un envoyé du duc d'Albe.</p>
+      <p begin="886.434s" id="p216" end="887.674s">Recevez-le...</p>
+      <p begin="887.982s" id="p217" end="889.332s">Parti du Roi.</p>
+      <p begin="895.097s" id="p218" end="896.997s">Quoi? ...Vous osez venir au Palais de Madrid! Chez moi!</p>
+      <p begin="897.115s" id="p219" end="898.735s">Quel est ce prétexte du duc d'Albe</p>
+      <p begin="898.856s" id="p220" end="899.986s">et ce déguisement ridicule?</p>
+      <p begin="900.106s" id="p221" end="901.296s">- Mais Monseigneur! - Taisez-vous!</p>
+      <p begin="901.424s" id="p222" end="902.364s">Approchez.</p>
+      <p begin="902.478s" id="p223" end="903.138s">Je suis l'envoyé du...</p>
+      <p begin="903.259s" id="p224" end="905.249s">Où avez-vous volé cette Toison d'Or?</p>
+      <p begin="905.372s" id="p225" end="907.222s">- Cette Toison d'Or... - Silence!</p>
+      <p begin="907.344s" id="p226" end="908.534s">J'en ai assez!</p>
+      <p begin="911.468s" id="p227" end="913.238s">Voilà  une liasse de dossiers de police qui vous concerne.</p>
+      <p begin="913.362s" id="p228" end="914.822s">- Monsieur le Marquis, Je... - Silence!</p>
+      <p begin="914.937s" id="p229" end="916.397s">Je parle et je vous défends de m'interrompre!</p>
+      <p begin="917.267s" id="p230" end="918.307s">Vous êtes un bandit de grand chemin,</p>
+      <p begin="918.427s" id="p231" end="920.527s">vous rançonnez les voyageurs sur les routes d'Espagne!</p>
+      <p begin="920.646s" id="p232" end="922.006s">En France, on vous accuse entre autres</p>
+      <p begin="922.133s" id="p233" end="923.753s">d'avoir forcé la caisse des gabelles!</p>
+      <p begin="923.866s" id="p234" end="925.296s">Dans les Flandres, vous avez fait main basse sur l'argent du clergé</p>
+      <p begin="925.421s" id="p235" end="927.491s">que transportait don Paul Barthélémy!</p>
+      <p begin="927.606s" id="p236" end="928.926s">Vous traînez avec des filles!</p>
+      <p begin="929.051s" id="p237" end="930.351s">Et vous êtes un Bazan!</p>
+      <p begin="930.472s" id="p238" end="931.752s">Et vous vous appelez don César!</p>
+      <p begin="931.872s" id="p239" end="932.822s">Et vous êtes mon cousin!</p>
+      <p begin="932.935s" id="p240" end="934.575s">Et ce scandale est suspendu sur ma tête!</p>
+      <p begin="934.702s" id="p241" end="936.082s">J'en ai assez! M'entendez-vous? Assez!</p>
+      <p begin="936.195s" id="p242" end="938.305s">Mais, Monseigneur, je crois que vous vous trompez d'adresse... Je ne suis pas...</p>
+      <p begin="938.428s" id="p243" end="938.988s">Vous tairez-vous?</p>
+      <p begin="939.814s" id="p244" end="942.704s">Ne prenez pas cet air ahuri qui vous convient aussi mal que possible!</p>
+      <p begin="950.368s" id="p245" end="952.038s">Le duc d'Albe! le duc d'Albe!</p>
+      <p begin="952.16s" id="p246" end="954.28s">Qu'avez-vous à  faire avec le duc d'Albe?</p>
+      <p begin="954.402s" id="p247" end="955.702s">Sait-il seulement qui vous êtes?</p>
+      <p begin="956.379s" id="p248" end="957.329s">Mais oui.</p>
+      <p begin="957.447s" id="p249" end="959.457s">Comment "mais oui"? Ne bougez pas! Attendez.</p>
+      <p begin="961.926s" id="p250" end="962.986s">Santa-Cruz!</p>
+      <p begin="963.743s" id="p251" end="964.783s">Santa-Cruz!</p>
+      <p begin="966.127s" id="p252" end="967.217s">Approchez.</p>
+      <p begin="967.845s" id="p253" end="970.105s">Emmenez ce personnage chez vous et veillez à  ce qu'il y reste.</p>
+      <p begin="970.232s" id="p254" end="972.332s">Et ne lui laissez pas ouvrir la bouche. C'est un bavard terrible!</p>
+      <p begin="972.449s" id="p255" end="974.229s">J'avais une lettre pour Votre...</p>
+      <p begin="977.844s" id="p256" end="979.564s">Son Altesse le duc d'Albe.</p>
+      <p begin="982.725s" id="p257" end="985.515s">Alors, Salluste! On pille les gens en plein jour, aux portes même de Madrid?</p>
+      <p begin="985.636s" id="p258" end="987.646s">On les pille, on les enlève, on les relâche?</p>
+      <p begin="987.772s" id="p259" end="989.352s">Que me contez-vous là , Monsieur le Duc?</p>
+      <p begin="989.474s" id="p260" end="991.894s">- Faites l'étonné! Où est mon petit Ruy Blas? - Ruy Blas?</p>
+      <p begin="992.007s" id="p261" end="993.317s">Mon messager?</p>
+      <p begin="993.44s" id="p262" end="995.51s">Voilà  le message, le messager ne peut être loin!</p>
+      <p begin="995.629s" id="p263" end="997.619s">Un de mes hommes venait de me remettre cette Toison d'Or</p>
+      <p begin="997.74s" id="p264" end="998.97s">que j'ignorais être la vôtre...</p>
+      <p begin="999.091s" id="p265" end="1002.511s">et ce message que je m'apprêtais à  lire lorsque vous êtes entré chez moi.</p>
+      <p begin="1003.766s" id="p266" end="1006.046s">Il est timide et on lui a barré la porte. Tant mieux.</p>
+      <p begin="1006.169s" id="p267" end="1007.919s">Salluste, je crève de fatigue.</p>
+      <p begin="1008.421s" id="p268" end="1010.911s">J'ai galopé bride abattue à  cause d'un scrupule.</p>
+      <p begin="1011.032s" id="p269" end="1014.112s">Je vous ai dépêché mon jeune Ruy Blas avant de savoir que le chef de bande</p>
+      <p begin="1014.368s" id="p270" end="1017.908s">lui ressemblait d'une façon si incroyable qu'on pouvait les prendre l'un pour l'autre.</p>
+      <p begin="1019.114s" id="p271" end="1021.864s">Voilà  une histoire bien romanesque, Monsieur le Duc.</p>
+      <p begin="1021.984s" id="p272" end="1024.684s">- Mettriez-vous ma parole en doute? - Votre Altesse plaisante!</p>
+      <p begin="1025.295s" id="p273" end="1026.545s">Résumons-nous:</p>
+      <p begin="1026.665s" id="p274" end="1030.515s">vous avez craint que je ne connusse votre ravisseur, que je ne le confondisse avec...</p>
+      <p begin="1030.639s" id="p275" end="1031.649s">Ruy... Ruy Blas.</p>
+      <p begin="1031.769s" id="p276" end="1032.919s">Oui ...Avec Ruy Blas, et</p>
+      <p begin="1033.038s" id="p277" end="1035.848s">que je ne coffrasse votre jeune ami sans autre forme de procès!</p>
+      <p begin="1035.965s" id="p278" end="1038.965s">Monsieur le Duc, vous vous faites une étrange idée...</p>
+      <p begin="1039.089s" id="p279" end="1040.379s">de ma police.</p>
+      <p begin="1040.704s" id="p280" end="1044.474s">Je m'en fais l'idée d'un homme qui arrive à  Madrid et qu'on rançonne.</p>
+      <p begin="1044.591s" id="p281" end="1047.301s">Débrouillez-vous. Ruy Blas, Zafari, moi je m'y perds!</p>
+      <p begin="1047.416s" id="p282" end="1048.196s">Zafari?</p>
+      <p begin="1048.422s" id="p283" end="1050.562s">- Vous connaissez mon filou? - Il est sur mes listes.</p>
+      <p begin="1050.825s" id="p284" end="1053.735s">Drôle d'époque où les bandits ont l'air de Grands d'Espagne.</p>
+      <p begin="1054.08s" id="p285" end="1056.0s">Votre Zafari n'a gardé de moi que mon costume.</p>
+      <p begin="1056.121s" id="p286" end="1057.151s">Voilà  le sien.</p>
+      <p begin="1057.274s" id="p287" end="1059.444s">Ma Toison d'Or n'y fait pas si mal.</p>
+      <p begin="1068.66s" id="p288" end="1070.59s">Monsieur le Duc, je vous ai menti.</p>
+      <p begin="1070.707s" id="p289" end="1072.407s">Vous mentez donc quelquefois, Salluste?</p>
+      <p begin="1072.532s" id="p290" end="1073.972s">Le moins possible.</p>
+      <p begin="1075.457s" id="p291" end="1078.557s">Votre jeune messager se nomme don César de Bazan</p>
+      <p begin="1078.777s" id="p292" end="1080.417s">et il est mon cousin.</p>
+      <p begin="1080.539s" id="p293" end="1081.329s">Je rêve!</p>
+      <p begin="1081.454s" id="p294" end="1084.444s">Sous le nom de Ruy Blas, Je l'ai envoyé faire ses études en province.</p>
+      <p begin="1084.562s" id="p295" end="1086.432s">Me voilà  donc joué sur toute la ligne!</p>
+      <p begin="1086.545s" id="p296" end="1088.765s">Je connaissais cette ressemblance regrettable...</p>
+      <p begin="1088.887s" id="p297" end="1091.307s">Je crains toujours que ce Zafari n'en profite...</p>
+      <p begin="1091.43s" id="p298" end="1094.12s">Il ne s'est pas vanté devant vous d'être noble?</p>
+      <p begin="1094.237s" id="p299" end="1096.427s">Non, mais il mérite de l'être:</p>
+      <p begin="1097.356s" id="p300" end="1098.356s">il m'a relâché.</p>
+      <p begin="1098.795s" id="p301" end="1101.435s">Je cacherai César jusqu'à  ce qu'il puisse tenir son rang à  la Cour.</p>
+      <p begin="1101.562s" id="p302" end="1103.482s">Nous rirons ensemble de tout cela.</p>
+      <p begin="1104.009s" id="p303" end="1104.909s">Au fait,</p>
+      <p begin="1105.393s" id="p304" end="1107.363s">Zafari connaît votre cousin...</p>
+      <p begin="1110.115s" id="p305" end="1111.345s">Qu'avez-vous?</p>
+      <p begin="1112.783s" id="p306" end="1113.653s">Rien,</p>
+      <p begin="1114.015s" id="p307" end="1115.275s">on étouffe.</p>
+      <p begin="1115.398s" id="p308" end="1116.868s">Vous devriez prendre du repos...</p>
+      <p begin="1117.348s" id="p309" end="1118.468s">Je vais en prendre.</p>
+      <p begin="1120.139s" id="p310" end="1122.769s">Ah, j'ai oublié, Zafari cherche Ruy Blas...</p>
+      <p begin="1122.885s" id="p311" end="1125.645s">Sans doute vous déplaîrait-il maintenant qu'ils se rencontrassent...</p>
+      <p begin="1125.767s" id="p312" end="1129.057s">Zafari m'avait chargé de lui transmettre un rendez-vous à  la messe de ce soir,</p>
+      <p begin="1129.179s" id="p313" end="1130.579s">église Santa-Mayor.</p>
+      <p begin="1130.704s" id="p314" end="1133.034s">- Usez-en comme bon vous semble. - Merci.</p>
+      <p begin="1141.669s" id="p315" end="1144.439s">Une église est lieu d'asile, Salluste. Prenez-y garde!</p>
+      <p begin="1144.557s" id="p316" end="1148.257s">Je n'aimerais pas que par ma faute, il arrivât malheur à  mon filou.</p>
+      <p begin="1154.03s" id="p317" end="1155.18s">Santa-Cruz!</p>
+      <p begin="1165.279s" id="p318" end="1167.189s">Votre prisonnier n'a pas cherché à  fuir?</p>
+      <p begin="1167.313s" id="p319" end="1168.613s">Il est doux comme un mouton.</p>
+      <p begin="1168.732s" id="p320" end="1170.292s">Mes gens le surveillent.</p>
+      <p begin="1170.409s" id="p321" end="1172.079s">Conduisez-ce jeune homme à  ma petite maison en ville</p>
+      <p begin="1172.204s" id="p322" end="1174.564s">- et confiez-le à  mes noirs.. - Bien.</p>
+      <p begin="1293.517s" id="p323" end="1295.097s">Don César de Bazan?</p>
+      <p begin="1298.671s" id="p324" end="1300.831s">On vous ferait facilement vous trahir, mon cousin.</p>
+      <p begin="1302.448s" id="p325" end="1304.988s">Que faites-vous sous ce capuchon?</p>
+      <p begin="1306.223s" id="p326" end="1307.323s">Venez.</p>
+      <p begin="1307.438s" id="p327" end="1309.038s">On nous observe.</p>
+      <p begin="1328.857s" id="p328" end="1330.547s">Vous attendiez votre ami Ruy Blas.</p>
+      <p begin="1331.106s" id="p329" end="1332.576s">Je le remplace.</p>
+      <p begin="1332.699s" id="p330" end="1333.799s">Oh! Oh!</p>
+      <p begin="1334.256s" id="p331" end="1336.266s">C'est un crime d'avoir la même figure que moi.</p>
+      <p begin="1336.388s" id="p332" end="1337.808s">Vous l'avez mis sous les verrous?</p>
+      <p begin="1337.925s" id="p333" end="1338.745s">Pas le moins du monde,</p>
+      <p begin="1339.172s" id="p334" end="1340.572s">il est à  mon service.</p>
+      <p begin="1340.69s" id="p335" end="1342.97s">Il sait que je veux votre bien.</p>
+      <p begin="1343.497s" id="p336" end="1344.307s">Mon bien?</p>
+      <p begin="1345.058s" id="p337" end="1345.968s">Quel bien?</p>
+      <p begin="1346.401s" id="p338" end="1347.471s">Prenez garde!</p>
+      <p begin="1347.587s" id="p339" end="1348.927s">Agenouillez-vous.</p>
+      <p begin="1351.316s" id="p340" end="1352.266s">César!</p>
+      <p begin="1352.852s" id="p341" end="1355.812s">- Vous avez volé le pourpoint du duc d'Albe... - Moi?</p>
+      <p begin="1356.557s" id="p342" end="1358.187s">Il m'en a fait cadeau...</p>
+      <p begin="1358.308s" id="p343" end="1360.718s">Je veux vous tirer des ennuis où vous êtes.</p>
+      <p begin="1361.102s" id="p344" end="1363.042s">Dieu soit loué!</p>
+      <p begin="1363.158s" id="p345" end="1365.028s">Prenez déjà  ma bourse.</p>
+      <p begin="1366.022s" id="p346" end="1367.282s">Dieu vous la rende...</p>
+      <p begin="1380.868s" id="p347" end="1383.478s">Je ne mets à  vous sortir de cette boue qu'une condition.</p>
+      <p begin="1383.598s" id="p348" end="1384.438s">Parlez.</p>
+      <p begin="1384.564s" id="p349" end="1386.074s">La quête...</p>
+      <p begin="1386.185s" id="p350" end="1387.655s">Filons.</p>
+      <p begin="1388.268s" id="p351" end="1389.628s">Entrez, mon fils.</p>
+      <p begin="1389.751s" id="p352" end="1390.831s">Là ?</p>
+      <p begin="1390.953s" id="p353" end="1391.863s">Là .</p>
+      <p begin="1398.808s" id="p354" end="1400.028s">Vos conditions?</p>
+      <p begin="1400.152s" id="p355" end="1403.202s">- Vous connaissez tous les gueux de Madrid? - Je m'en vante.</p>
+      <p begin="1403.316s" id="p356" end="1405.856s">- Vous pourriez soulever une émeute? - Au besoin.</p>
+      <p begin="1406.244s" id="p357" end="1408.244s">Et travailler à  côté de moi dans l'ombre?</p>
+      <p begin="1408.356s" id="p358" end="1411.186s">- Je ne vous crois pas un homme scrupuleux. - De quoi s'agit-il?</p>
+      <p begin="1411.309s" id="p359" end="1412.359s">De me venger.</p>
+      <p begin="1412.483s" id="p360" end="1414.063s">- De qui? - D'une femme.</p>
+      <p begin="1414.183s" id="p361" end="1415.583s">Oh ça! Non!</p>
+      <p begin="1415.701s" id="p362" end="1417.531s">- César! - Cherchez ailleurs, cousin. Je vole, je pille, je tue,</p>
+      <p begin="1417.652s" id="p363" end="1419.082s">Je vole, je pille, je tue,</p>
+      <p begin="1419.2s" id="p364" end="1420.48s">je ne m'attaque pas aux femmes!</p>
+      <p begin="1420.596s" id="p365" end="1421.716s">Bravo, César!</p>
+      <p begin="1422.001s" id="p366" end="1425.411s">Je voulais savoir si vous étiez digne de reprendre votre rang à  la Cour.</p>
+      <p begin="1425.842s" id="p367" end="1426.732s">Vrai?</p>
+      <p begin="1426.848s" id="p368" end="1427.728s">Vrai.</p>
+      <p begin="1428.418s" id="p369" end="1430.658s">Vous paierez les dettes qui m'ont forcé à  quitter Madrid?</p>
+      <p begin="1430.775s" id="p370" end="1433.835s">On vous portera la somme demain, à  cette heure et à  cette place.</p>
+      <p begin="1434.186s" id="p371" end="1436.296s">Vous vous équiperez et vous vous présenterez chez moi.</p>
+      <p begin="1436.514s" id="p372" end="1438.294s">Vous revenez des Indes.</p>
+      <p begin="1438.943s" id="p373" end="1439.883s">Riche?</p>
+      <p begin="1440.81s" id="p374" end="1441.7s">Rich.</p>
+      <p begin="1442.019s" id="p375" end="1444.039s">Allez. Je reste.</p>
+      <p begin="1444.161s" id="p376" end="1446.271s">Il ne faut pas qu'on puisse nous voir sortir ensemble.</p>
+      <p begin="1497.85s" id="p377" end="1498.85s">Là -haute.</p>
+      <p begin="1499.2s" id="p378" end="1502.01s">Un voleur!</p>
+      <p begin="1502.592s" id="p379" end="1504.632s">Pas dans l'église! Droit d'asile!</p>
+      <p begin="1530.129s" id="p380" end="1532.289s">Descendez le lustre! Vite!</p>
+      <p begin="1554.5s" id="p381" end="1557.3s">Il fait s'echapper sur les toits. Faites l'entour! Vite!</p>
+      <p begin="1570.234s" id="p382" end="1571.924s">A qui le tour?</p>
+      <p begin="1572.044s" id="p383" end="1573.954s">- A qui le tour? - A moi!</p>
+      <p begin="1611.401s" id="p384" end="1612.751s">Bon pour les galères!</p>
+      <p begin="1647.148s" id="p385" end="1648.348s">Je vous ai fait peur?</p>
+      <p begin="1649.268s" id="p386" end="1651.038s">Le courrier est fini, Monseigneur.</p>
+      <p begin="1653.313s" id="p387" end="1654.793s">Ecriture excellente.</p>
+      <p begin="1654.907s" id="p388" end="1656.527s">La mienne est celle d'un chat.</p>
+      <p begin="1656.648s" id="p389" end="1658.488s">Je vous félicite.</p>
+      <p begin="1658.953s" id="p390" end="1660.283s">Vous voilà  mon secrétaire.</p>
+      <p begin="1661.292s" id="p391" end="1663.282s">Ruy Blas, mon jeune ami,</p>
+      <p begin="1663.699s" id="p392" end="1664.969s">nous n'en resterons pas là .</p>
+      <p begin="1665.085s" id="p393" end="1666.595s">Je vous emmène à  la Cour.</p>
+      <p begin="1667.153s" id="p394" end="1669.623s">- Mais, Monseigneur, je... - Qu'avez-vous?</p>
+      <p begin="1670.181s" id="p395" end="1671.831s">Vous êtes de ma suite.</p>
+      <p begin="1672.147s" id="p396" end="1676.457s">Et il faut qu'un jeune homme de 1695 connaisse le Palais de Charles-Quint.</p>
+      <p begin="1676.579s" id="p397" end="1677.519s">Hélas,</p>
+      <p begin="1677.766s" id="p398" end="1680.386s">sous Charles II, c'est presque une ruine.</p>
+      <p begin="1681.028s" id="p399" end="1682.838s">Il vous intéressera tout de même.</p>
+      <p begin="1682.961s" id="p400" end="1686.521s">- Je ne puis décemment suivre Votre Excellence... - Ah! C'est cela!</p>
+      <p begin="1690.795s" id="p401" end="1693.315s">Accompagnez Monsieur. Qu'on le coiffe. Qu'on l'habille.</p>
+      <p begin="1694.931s" id="p402" end="1698.801s">Obéissez-moi. Le duc d'Albe voulait vous trouver un emploi: je vous le trouve.</p>
+      <p begin="1702.572s" id="p403" end="1705.332s">Laissez-vous mener. Je ferai votre fortune.</p>
+      <p begin="1732.404s" id="p404" end="1733.554s">Où est don Salluste?</p>
+      <p begin="1733.668s" id="p405" end="1736.678s">Il part en voyage. Nous l'attendons, il vient faire ses adieux à  la Cour.</p>
+      <p begin="1736.8s" id="p406" end="1739.34s">- Un long voyage? - Plus long qu'il ne le voudrait...</p>
+      <p begin="1739.462s" id="p407" end="1741.382s">Salluste a des ennuis, Santa Cruz?</p>
+      <p begin="1741.504s" id="p408" end="1744.404s">Des ennuis de famille, my Lord, et de succession. Rien d'autre.</p>
+      <p begin="1744.509s" id="p409" end="1747.079s">- En Andalousie? - En Andalousie. Il y part demain.</p>
+      <p begin="1747.196s" id="p410" end="1748.976s">Tout le monde ait des ennuis.</p>
+      <p begin="1750.457s" id="p411" end="1752.177s">Tout le monde ait des ennuis!</p>
+      <p begin="1752.411s" id="p412" end="1755.411s">J'y vais demain besoin d'avoir à  la Roi à  la chasse à  l'Aranjuez.</p>
+      <p begin="1755.534s" id="p413" end="1756.684s">Oui. Sa Majesté se fatigue!</p>
+      <p begin="1756.804s" id="p414" end="1758.784s">Il tue peu, il dort beaucoup.</p>
+      <p begin="1758.902s" id="p415" end="1761.202s">Sa Majesté laisse une charge à  la Reine bien lourd.</p>
+      <p begin="1761.321s" id="p416" end="1763.321s">Elle vous at! Vous doivez porter-le pour elle.</p>
+      <p begin="1763.437s" id="p417" end="1765.587s">Son Excellence don Salluste de Bazan!</p>
+      <p begin="1772.134s" id="p418" end="1774.434s">Don César! Embrassons-nous!</p>
+      <p begin="1776.784s" id="p419" end="1778.294s">Nous sommes de vieux amis!</p>
+      <p begin="1780.033s" id="p420" end="1783.903s">Marquis, souffrez que je présente à  Votre Grâce le comte de Garofa,</p>
+      <p begin="1784.36s" id="p421" end="1785.74s">don César, mon cousin.</p>
+      <p begin="1785.86s" id="p422" end="1788.8s">Vous êtes le portrait de Madame votre Mère...</p>
+      <p begin="1789.121s" id="p423" end="1790.241s">que j'aimais fort.</p>
+      <p begin="1790.359s" id="p424" end="1791.879s">Dix ans d'absence...</p>
+      <p begin="1792.104s" id="p425" end="1793.834s">On le croyait mort!</p>
+      <p begin="1795.008s" id="p426" end="1798.888s">Et le voilà ! Don César. Alvar de Bazan y Benavides, marquis de Santa-Cruz</p>
+      <p begin="1799.595s" id="p427" end="1801.155s">- Monseigneur... - Appelez-moi cousin.</p>
+      <p begin="1801.282s" id="p428" end="1804.702s">Nous le sommes: vous êtes Aragon, je suis Portugal.</p>
+      <p begin="1804.82s" id="p429" end="1807.48s">A la Cour, vous serez le cousin de tout le monde. Vous n'avez pas fini de rire.</p>
+      <p begin="1807.602s" id="p430" end="1809.392s">- Vous le reconnaissez? - Je l'ai vu naître...</p>
+      <p begin="1809.506s" id="p431" end="1811.476s">Vous y pouvez tout. Je paye ses dettes. Il arrive des Indes.</p>
+      <p begin="1811.6s" id="p432" end="1812.4s">Sur une mule?</p>
+      <p begin="1812.522s" id="p433" end="1815.512s">Je l'ai fait voyager incognito et commun à  parcourir-lui en route aucun appareils.</p>
+      <p begin="1815.633s" id="p434" end="1818.413s">Votre Altesse doit comprendre pourquoi, mieux que quiconque...</p>
+      <p begin="1818.53s" id="p435" end="1820.06s">Et moi qui ai cru vous l'envoyer!</p>
+      <p begin="1820.175s" id="p436" end="1823.455s">Si je ne quittais pas Madrid, nous organiserions des fêtes sensationnelles.</p>
+      <p begin="1823.579s" id="p437" end="1826.069s">Il faut qu'il retrouverait un rapproche avec la Reine, Santa-Cruz.</p>
+      <p begin="1826.192s" id="p438" end="1829.372s">J'en parlerai en counseille de Castile, n'est pas, Arrias?</p>
+      <p begin="1830.931s" id="p439" end="1832.161s">C'est un dadais.</p>
+      <p begin="1832.281s" id="p440" end="1833.481s">La Reine!</p>
+      <p begin="1870.88s" id="p441" end="1872.27s">Couvrez-vous.</p>
+      <p begin="1873.94s" id="p442" end="1875.66s">Don César, votre chapeau...</p>
+      <p begin="1875.895s" id="p443" end="1877.375s">Vous êtes Grand d'Espagne.</p>
+      <p begin="1902.916s" id="p444" end="1905.216s">Casilda! Casilda! Casilda!</p>
+      <p begin="1907.504s" id="p445" end="1908.804s">Du calme, Madame.</p>
+      <p begin="1908.916s" id="p446" end="1910.016s">Du calme.</p>
+      <p begin="1910.14s" id="p447" end="1912.46s">Je n'en peux plus, je n'en peux plus!</p>
+      <p begin="1912.581s" id="p448" end="1914.741s">Don Salluste me hait, don Guritan m'assomme,</p>
+      <p begin="1914.859s" id="p449" end="1916.169s">tous ces vieillards m'écrasent!</p>
+      <p begin="1916.294s" id="p450" end="1918.494s">Je n'en peux plus, je n'en peux plus!</p>
+      <p begin="1919.033s" id="p451" end="1921.333s">Le Roi ne restera pas toujours à  l'Escurial, Madame.</p>
+      <p begin="1921.45s" id="p452" end="1923.5s">Le Roi se moque du trône et de sa femme.</p>
+      <p begin="1923.62s" id="p453" end="1925.52s">Il chasse ou il est malade.</p>
+      <p begin="1925.635s" id="p454" end="1927.595s">Quel roi! Quel mari!</p>
+      <p begin="1927.72s" id="p455" end="1929.74s">Je n'en peux plus!</p>
+      <p begin="1930.073s" id="p456" end="1931.873s">Vous êtes la Reine d'Espagne.</p>
+      <p begin="1931.994s" id="p457" end="1933.664s">Je ne l'ai pas demandé!</p>
+      <p begin="1934.389s" id="p458" end="1936.819s">On est m'apreuve de Neubourg. J'etais une enfante.</p>
+      <p begin="1936.941s" id="p459" end="1940.211s">Je ne comprenais rien. J'etais gai, j'etais libre...</p>
+      <p begin="1940.33s" id="p460" end="1941.73s">et je meurs.</p>
+      <p begin="1942.956s" id="p461" end="1944.706s">Que faire, Casilda?</p>
+      <p begin="1944.948s" id="p462" end="1946.238s">Que faire?</p>
+      <p begin="1946.868s" id="p463" end="1949.148s">- Attendre. - Attendre quoi?</p>
+      <p begin="1949.4s" id="p464" end="1952.6s">Non, non, ce palais de Madrid, cette poussière, ces intrigues...</p>
+      <p begin="1952.717s" id="p465" end="1954.707s">ce cérémonial absurde, ces vieillards...</p>
+      <p begin="1955.108s" id="p466" end="1956.658s">Je deviens folle! je deviens folle!</p>
+      <p begin="1957.108s" id="p467" end="1960.808s">Mon Dieu, Madame, ne vous mettez pas dans un état pareil!</p>
+      <p begin="1960.929s" id="p468" end="1963.279s">Laisse-moi, Casilda, laisse-moi.</p>
+      <p begin="1964.323s" id="p469" end="1965.883s">Je n'en sortirai jamais,</p>
+      <p begin="1966.956s" id="p470" end="1968.046s">jamais.</p>
+      <p begin="1974.936s" id="p471" end="1977.016s">Le Conseil des Ministres attend Votre Majesté.</p>
+      <p begin="1978.8s" id="p472" end="1979.78s">Tu vois.</p>
+      <p begin="1983.736s" id="p473" end="1984.956s">Essuyez vos yeux.</p>
+      <p begin="1987.962s" id="p474" end="1989.102s">Mouchez-vous.</p>
+      <p begin="1991.116s" id="p475" end="1992.566s">Tenez-vous droite.</p>
+      <p begin="1994.56s" id="p476" end="1995.64s">J'y vais.</p>
+      <p begin="2002.593s" id="p477" end="2003.923s">A qui la faute?</p>
+      <p begin="2004.457s" id="p478" end="2008.377s">Si le duc cl' Albe ne vous avait pas appelé don César, vous restiez Ruy Blas, mon secrétaire.</p>
+      <p begin="2008.909s" id="p479" end="2010.579s">Vous bénéficiez d'une ressemblance.</p>
+      <p begin="2010.703s" id="p480" end="2012.023s">Vous voilà  mon cousin.</p>
+      <p begin="2012.679s" id="p481" end="2013.719s">Asseyez-vous.</p>
+      <p begin="2013.967s" id="p482" end="2017.057s">Je regrette, Monseigneur. Il m'est impossible de jouer ce rôle.</p>
+      <p begin="2017.176s" id="p483" end="2019.046s">Je vous croyais à  mes ordres?</p>
+      <p begin="2019.165s" id="p484" end="2021.065s">Je vous demande ma liberté.</p>
+      <p begin="2021.432s" id="p485" end="2022.822s">Je dois quitter Madrid...</p>
+      <p begin="2022.935s" id="p486" end="2024.575s">Vous y êtes venu...</p>
+      <p begin="2024.991s" id="p487" end="2026.771s">Ce n'était pas pareil, Monseigneur.</p>
+      <p begin="2028.279s" id="p488" end="2029.949s">Vous avez un secret?</p>
+      <p begin="2030.915s" id="p489" end="2032.365s">Oui, Monseigneur.</p>
+      <p begin="2032.486s" id="p490" end="2033.776s">J'ai un secret...</p>
+      <p begin="2034.425s" id="p491" end="2036.595s">et il m'empêche de vous obéir.</p>
+      <p begin="2037.16s" id="p492" end="2038.47s">Un secret...</p>
+      <p begin="2039.397s" id="p493" end="2041.047s">Un refus d'obéir...</p>
+      <p begin="2041.622s" id="p494" end="2044.042s">C'est beaucoup chez le ministre de la Police.</p>
+      <p begin="2046.184s" id="p495" end="2047.104s">Mon Dieu!</p>
+      <p begin="2047.22s" id="p496" end="2048.31s">Hélà , hélà ...</p>
+      <p begin="2048.43s" id="p497" end="2049.96s">Ne me prenez pas pour un ogre.</p>
+      <p begin="2050.571s" id="p498" end="2052.131s">Je suis votre protector.</p>
+      <p begin="2053.01s" id="p499" end="2055.34s">Ce secret... ne pouvez-vous me le dire?</p>
+      <p begin="2055.46s" id="p500" end="2056.43s">Non, Monseigneur.</p>
+      <p begin="2056.922s" id="p501" end="2058.262s">- Jamais! - Jamais?</p>
+      <p begin="2059.182s" id="p502" end="2060.632s">Il faudra donc que je devine.</p>
+      <p begin="2060.745s" id="p503" end="2062.115s">C'est de ma charge.</p>
+      <p begin="2062.244s" id="p504" end="2063.704s">Cherchons ensemble...</p>
+      <p begin="2063.977s" id="p505" end="2067.757s">Il n'y a qu'une affaire d'amour qui puisse mettre un jeune homme dans l'état où vous êtes...</p>
+      <p begin="2068.848s" id="p506" end="2070.178s">J'ai touché juste!</p>
+      <p begin="2070.724s" id="p507" end="2072.774s">Ruy Blas, Ruy Blas, n'avez-vous pas confiance en moi?</p>
+      <p begin="2073.243s" id="p508" end="2075.123s">- Si, Monseigneur. - Alors?</p>
+      <p begin="2075.574s" id="p509" end="2076.804s">Voyons un peu:</p>
+      <p begin="2076.919s" id="p510" end="2080.609s">une affaire d'amour. .. que votre nouveau personnage complique?</p>
+      <p begin="2080.733s" id="p511" end="2082.033s">Vous me tortuez.</p>
+      <p begin="2082.149s" id="p512" end="2083.209s">Dieu m'en garde!</p>
+      <p begin="2083.333s" id="p513" end="2084.933s">Donc, vous êtes amoureux.</p>
+      <p begin="2085.223s" id="p514" end="2086.163s">De qui?</p>
+      <p begin="2086.783s" id="p515" end="2087.733s">De qui?</p>
+      <p begin="2088.294s" id="p516" end="2089.014s">De...</p>
+      <p begin="2089.126s" id="p517" end="2089.506s">qui?</p>
+      <p begin="2089.626s" id="p518" end="2090.766s">De qui...</p>
+      <p begin="2091.212s" id="p519" end="2092.632s">Vous voulez le savoir?</p>
+      <p begin="2093.257s" id="p520" end="2095.317s">Peu m'importe après tout.</p>
+      <p begin="2096.804s" id="p521" end="2098.124s">De la Reine.</p>
+      <p begin="2099.935s" id="p522" end="2101.125s">De la Reine!</p>
+      <p begin="2101.81s" id="p523" end="2106.38s">Mais Ruy Blas, vous l'avez vue ce matin pour la première fois... une minute.</p>
+      <p begin="2106.496s" id="p524" end="2109.066s">Non, Monseigneur. Je connais la Reine depuis toujours.</p>
+      <p begin="2112.056s" id="p525" end="2114.496s">Vous voulez dire que vous nourrissez pour elle, depuis toujours, le sentiment</p>
+      <p begin="2114.62s" id="p526" end="2116.5s">qui exalte toute la jeunesse d'Espagne?</p>
+      <p begin="2117.28s" id="p527" end="2118.56s">Allons! Relevez la tête!</p>
+      <p begin="2119.811s" id="p528" end="2121.021s">Là . Regardez-moi.</p>
+      <p begin="2121.144s" id="p529" end="2122.144s">Expliquez-vous.</p>
+      <p begin="2122.263s" id="p530" end="2124.483s">- Je suis né à  Neubourg. - Vous êtes Allemand?</p>
+      <p begin="2124.602s" id="p531" end="2126.662s">Non, Monseigneur. J'ai passé mon enfance à  Neubourg.</p>
+      <p begin="2126.781s" id="p532" end="2128.361s">Mon père y était garde-chasse...</p>
+      <p begin="2128.808s" id="p533" end="2130.138s">J'ai joué avec la Reine...</p>
+      <p begin="2131.181s" id="p534" end="2133.411s">Et quand elle a quitté Neubourg pour épouser le Roi Charles II...</p>
+      <p begin="2133.527s" id="p535" end="2135.697s">Vous ne pouviez vivre qu'en Espagne.</p>
+      <p begin="2136.167s" id="p536" end="2136.897s">Parfait.</p>
+      <p begin="2137.387s" id="p537" end="2139.787s">Et vous vous plaignez de pouvoir, grâce à  moi, approcher la Reine?</p>
+      <p begin="2139.907s" id="p538" end="2142.007s">- Je serai démasqué, chassé. - Par qui?</p>
+      <p begin="2142.125s" id="p539" end="2143.085s">Le règne s'effondre.</p>
+      <p begin="2143.211s" id="p540" end="2145.431s">Chacun pille, intrigue, se déprave, vole à  ses intérêts...</p>
+      <p begin="2145.548s" id="p541" end="2147.068s">Je vous pousse. La Reine s'ennuie.</p>
+      <p begin="2147.74s" id="p542" end="2149.64s">C'est une femme, Ruy Blas,</p>
+      <p begin="2149.887s" id="p543" end="2150.917s">et une femme très jeune.</p>
+      <p begin="2151.31s" id="p544" end="2153.72s">- Vous êtes beau. Courez votre chance! - Monseigneur...!</p>
+      <p begin="2153.837s" id="p545" end="2155.897s">- Monseigneur... - Que feriez-vous pour la Reine?</p>
+      <p begin="2156.508s" id="p546" end="2157.738s">Je me damnerais.</p>
+      <p begin="2157.857s" id="p547" end="2160.297s">On ne vous en demande pas tant. On vous demande de relever l'honneur d'une famille.</p>
+      <p begin="2161.867s" id="p548" end="2163.277s">Je pars pour l'Andalousie,</p>
+      <p begin="2163.28s" id="p549" end="2164.9s">Je m'efface.</p>
+      <p begin="2164.899s" id="p550" end="2166.869s">Je vous donne ma maison, mon personnel.</p>
+      <p begin="2166.872s" id="p551" end="2169.172s">je laisse un Bazan à  la Cour.</p>
+      <p begin="2169.17s" id="p552" end="2170.08s">C'est impossible!</p>
+      <p begin="2170.078s" id="p553" end="2171.608s">C'est vous qui êtes impossible.</p>
+      <p begin="2171.615s" id="p554" end="2173.155s">N'en parlons plus.</p>
+      <p begin="2173.163s" id="p555" end="2174.973s">Asseyez-vous.</p>
+      <p begin="2174.971s" id="p556" end="2177.781s">Je vais vous dicter une lettre...</p>
+      <p begin="2177.78s" id="p557" end="2179.51s">fort courte.</p>
+      <p begin="2184.049s" id="p558" end="2186.229s">"Au secours" point d'exclamation.</p>
+      <p begin="2191.528s" id="p559" end="2192.558s">C'est tout.</p>
+      <p begin="2193.833s" id="p560" end="2195.783s">Je n'ai plus votre âge, ni votre mine,</p>
+      <p begin="2195.897s" id="p561" end="2200.077s">et les dames aiment assez qu'un homme de ma puissance les appelle au secours.</p>
+      <p begin="2200.404s" id="p562" end="2201.664s">Vous signez, Monseigneur?</p>
+      <p begin="2201.782s" id="p563" end="2202.962s">Signez pour moi:</p>
+      <p begin="2203.5s" id="p564" end="2204.38s">"César".</p>
+      <p begin="2204.957s" id="p565" end="2205.857s">César?</p>
+      <p begin="2206.189s" id="p566" end="2207.719s">Tous les Bazan se nomment César.</p>
+      <p begin="2208.826s" id="p567" end="2210.526s">Vous avez encore beaucoup de choses à  apprendre.</p>
+      <p begin="2212.725s" id="p568" end="2213.505s">Parfait...</p>
+      <p begin="2216.816s" id="p569" end="2218.436s">Une dernière formalité.</p>
+      <p begin="2219.305s" id="p570" end="2220.385s">Je dicte:</p>
+      <p begin="2221.655s" id="p571" end="2223.085s">"Moi, Ruy Blas...</p>
+      <p begin="2223.644s" id="p572" end="2225.704s">je m'engage à  servir le marquis de Bazan...</p>
+      <p begin="2225.938s" id="p573" end="2227.008s">comme un bon domestique".</p>
+      <p begin="2227.87s" id="p574" end="2229.3s">"Domestique" vous étonne?</p>
+      <p begin="2229.421s" id="p575" end="2231.001s">C'est le terme de cour...</p>
+      <p begin="2231.952s" id="p576" end="2234.552s">Nous sommes tous les domestiques de Sa Majesté.</p>
+      <p begin="2235.432s" id="p577" end="2236.492s">La date....</p>
+      <p begin="2236.72s" id="p578" end="2237.43s">Signez...</p>
+      <p begin="2241.837s" id="p579" end="2243.087s">Nous sommes en règle.</p>
+      <p begin="2244.628s" id="p580" end="2246.338s">Etes-vous bon nageur?</p>
+      <p begin="2247.193s" id="p581" end="2248.003s">Oui...</p>
+      <p begin="2248.457s" id="p582" end="2251.917s">Il pousse dans les gorges de Caramanchel des fleurs bleues d'Allemagne.</p>
+      <p begin="2252.039s" id="p583" end="2253.649s">Elles ne sont pas faciles à  atteindre.</p>
+      <p begin="2253.771s" id="p584" end="2255.251s">La Reine les adore.</p>
+      <p begin="2255.462s" id="p585" end="2257.502s">Monseigneur... par pitié...</p>
+      <p begin="2258.868s" id="p586" end="2261.898s">- Je suis un lâche. - Il me faut vous aider malgré vous.</p>
+      <p begin="2262.81s" id="p587" end="2264.68s">Et puisque vous m'arrachez des ordres,</p>
+      <p begin="2264.799s" id="p588" end="2265.889s">je vous en donne.</p>
+      <p begin="2266.008s" id="p589" end="2268.758s">- Vous m'écoutez? - Oui, Monseigneur.</p>
+      <p begin="2268.884s" id="p590" end="2271.514s">- M'obéirez-vous? - Oui, Monseigneur.</p>
+      <p begin="2272.386s" id="p591" end="2273.806s">Le voilà  raisonnable.</p>
+      <p begin="2273.934s" id="p592" end="2276.364s">Et vous en aurez la récompense...</p>
+      <p begin="2276.476s" id="p593" end="2278.306s">Vous vous attendez au pire...</p>
+      <p begin="2278.431s" id="p594" end="2279.781s">Quel enfant!</p>
+      <p begin="2280.185s" id="p595" end="2282.905s">Voulez-vous savoir quel est cet ordre que je vous donne?</p>
+      <p begin="2283.032s" id="p596" end="2284.542s">J'obéirai.</p>
+      <p begin="2284.66s" id="p597" end="2286.98s">Je vous donne l'ordre de vous faire aimer de la Reine</p>
+      <p begin="2287.793s" id="p598" end="2289.383s">et de devenir son amant.</p>
+      <p begin="2486.373s" id="p599" end="2488.363s">Les fleurs bleues de Caramanchel!</p>
+      <p begin="2494.016s" id="p600" end="2495.316s">C'était trop beau!</p>
+      <p begin="2495.609s" id="p601" end="2498.189s">On sait que nous venons là  toutes les nuits.</p>
+      <p begin="2498.603s" id="p602" end="2500.853s">A Madrid, tout le monde ignore que j'aime ces fleurs.</p>
+      <p begin="2500.965s" id="p603" end="2503.925s">Tout le monde, sauf l'homme qui les a mises sur ce banc...</p>
+      <p begin="2507.537s" id="p604" end="2509.297s">Le jeune homme, Casilda,</p>
+      <p begin="2509.415s" id="p605" end="2510.515s">regarde!</p>
+      <p begin="2511.51s" id="p606" end="2512.82s">Du sang?</p>
+      <p begin="2513.646s" id="p607" end="2516.376s">Un de nos vieillards n'aurait pas risqué sa vie pour cueillir des fleurs.</p>
+      <p begin="2516.502s" id="p608" end="2517.922s">Risqué sa vie?</p>
+      <p begin="2518.039s" id="p609" end="2520.629s">Il faut traverser le torrent de Caramanchel...</p>
+      <p begin="2520.751s" id="p610" end="2522.321s">Mais c'est merveilleux!</p>
+      <p begin="2523.112s" id="p611" end="2525.862s">Un jeune homme inconnu, sans rien espérer,</p>
+      <p begin="2525.984s" id="p612" end="2530.094s">a risqué sa vie pour apporter les fleurs qu'elle aime à  la Reine d'Espagne.</p>
+      <p begin="2530.21s" id="p613" end="2532.55s">Je donnerais cher pour savoir qui c'est.</p>
+      <p begin="2532.673s" id="p614" end="2534.513s">Laisse-moi croire ce que je veux.</p>
+      <p begin="2539.653s" id="p615" end="2542.683s">Habitants de Madrid,</p>
+      <p begin="2542.975s" id="p616" end="2545.375s">il est minuit.</p>
+      <p begin="2545.495s" id="p617" end="2547.935s">Dormez en paix.</p>
+      <p begin="2548.207s" id="p618" end="2551.357s">Que le sommeil vous soit propice...</p>
+      <p begin="2551.482s" id="p619" end="2553.272s">- Bonsoir, Sereno! - Bonsoir.</p>
+      <p begin="2553.393s" id="p620" end="2556.243s">Adorez le Seigneur.</p>
+      <p begin="2556.359s" id="p621" end="2559.849s">Vénérez le Roi et la Reine.</p>
+      <p begin="2560.125s" id="p622" end="2563.545s">Que le Diable s'écarte de votre route.</p>
+      <p begin="2563.955s" id="p623" end="2567.195s">Soyez heureux.</p>
+      <p begin="2588.107s" id="p624" end="2590.067s">Dites-le, Madame, dites-le...</p>
+      <p begin="2594.424s" id="p625" end="2596.474s">Mesdames, apportez-moi une table, un lansquenet:</p>
+      <p begin="2596.593s" id="p626" end="2597.613s">Jouais.</p>
+      <p begin="2598.345s" id="p627" end="2599.725s">Ne bougez pas, Mesdames.</p>
+      <p begin="2602.984s" id="p628" end="2606.034s">Sa Majesté sait bien qu'elle ne peut jouer qu'avec des parents du Roi.</p>
+      <p begin="2606.148s" id="p629" end="2607.188s">Qu'on en fasse venir.</p>
+      <p begin="2607.311s" id="p630" end="2610.021s">Dieu, Madame, n'en a pas donné au Roi Charles II.</p>
+      <p begin="2614.421s" id="p631" end="2616.831s">C'est à  crever de rage!</p>
+      <p begin="2620.562s" id="p632" end="2622.832s">Casilda, mets-moi de ces fleurs dans les cheveux.</p>
+      <p begin="2626.807s" id="p633" end="2629.657s">Seules, les marquises del Basto et de Santa-Cruz</p>
+      <p begin="2629.781s" id="p634" end="2631.731s">ont le droit de toucher aux cheveux de la Reine.</p>
+      <p begin="2633.018s" id="p635" end="2636.378s">Si la Reine est à  la chasse, qu'elle tombe de cheval...</p>
+      <p begin="2636.501s" id="p636" end="2639.321s">et que son cheval emballé la tire par l'étrier,</p>
+      <p begin="2639.443s" id="p637" end="2642.163s">personne n'a le droit de voler à  son secours.</p>
+      <p begin="2642.279s" id="p638" end="2645.049s">C'est arrivé à  une Reine d'Espagne, Madame.</p>
+      <p begin="2645.649s" id="p639" end="2647.209s">Elle en est morte.</p>
+      <p begin="2647.909s" id="p640" end="2649.679s">Je voudrais être morte.</p>
+      <p begin="2654.063s" id="p641" end="2655.353s">Qu'est-ce que cela?</p>
+      <p begin="2658.879s" id="p642" end="2660.889s">Une Reine d'Espagne ne regarde pas par la fenêtre.</p>
+      <p begin="2661.13s" id="p643" end="2662.06s">Madame!</p>
+      <p begin="2662.175s" id="p644" end="2665.375s">Madame, je suis Camerera Mayor. Je remplis ma charge.</p>
+      <p begin="2670.794s" id="p645" end="2672.314s">Une lettre du Roi!</p>
+      <p begin="2689.211s" id="p646" end="2691.781s">Madame, l'usage veut que je lise d'abord.</p>
+      <p begin="2691.899s" id="p647" end="2693.239s">Eh bien, soit! Lisez.</p>
+      <p begin="2696.349s" id="p648" end="2698.059s">Aranjuez, ce mardi.</p>
+      <p begin="2698.176s" id="p649" end="2701.346s">"Madame, il fait grand vent, j'ai tué six loups...</p>
+      <p begin="2701.472s" id="p650" end="2702.652s">Signé: "Carlos".</p>
+      <p begin="2702.772s" id="p651" end="2703.882s">C'est tout?</p>
+      <p begin="2704.342s" id="p652" end="2705.412s">Oui, Seigneur Comte.</p>
+      <p begin="2708.168s" id="p653" end="2710.598s">- Si Sa Majesté veut lire... - Non.</p>
+      <p begin="2714.462s" id="p654" end="2716.442s">C'est vous, Monsieur, qui m'apportez cette lettre?</p>
+      <p begin="2716.914s" id="p655" end="2719.374s">C'est le Seigneur César de Bazan, comte de Garofa,</p>
+      <p begin="2719.488s" id="p656" end="2721.518s">un nouvel écuyer que le Roi donne à  la Reine,</p>
+      <p begin="2721.642s" id="p657" end="2722.722s">et que M. de Santa Cruz me recommande.</p>
+      <p begin="2725.217s" id="p658" end="2726.667s">Approchez, Monsieur.</p>
+      <p begin="2728.5s" id="p659" end="2729.59s">Approchez.</p>
+      <p begin="2733.159s" id="p660" end="2735.249s">Soyez le bienvenu au Palais de Madrid.</p>
+      <p begin="2735.961s" id="p661" end="2737.151s">J'espère que...</p>
+      <p begin="2739.67s" id="p662" end="2740.81s">Il est blessé!</p>
+      <p begin="2741.093s" id="p663" end="2742.023s">Blessé?</p>
+      <p begin="2743.601s" id="p664" end="2745.481s">Mais Monsieur, vous allez vous trouver mal!</p>
+      <p begin="2746.234s" id="p665" end="2748.034s">Il ne tient pas debout.</p>
+      <p begin="2758.282s" id="p666" end="2759.102s">Oh mon Dieu!</p>
+      <p begin="2759.22s" id="p667" end="2760.53s">C'est atroce...</p>
+      <p begin="2760.948s" id="p668" end="2762.368s">Ne restez pas stupides!</p>
+      <p begin="2762.485s" id="p669" end="2764.325s">Apportez-moi un linge, un mouchoir, n'importe quoi!</p>
+      <p begin="2764.446s" id="p670" end="2765.506s">Emportez-le.</p>
+      <p begin="2766.077s" id="p671" end="2769.427s">- On ne s'évanouit pas devant la Reine. - Eh bien, ce linge?</p>
+      <p begin="2770.348s" id="p672" end="2771.298s">Madame!</p>
+      <p begin="2773.65s" id="p673" end="2774.99s">Emportez ce jeune homme!</p>
+      <p begin="2775.108s" id="p674" end="2778.148s">Qu'on laisse ce jeune homme se reposer seul ici. Je l'exige.</p>
+      <p begin="2778.271s" id="p675" end="2779.921s">J'irai dans mon oratoire.</p>
+      <p begin="2833.951s" id="p676" end="2836.691s">Alors, jeune homme, vous voilà  remis?</p>
+      <p begin="2837.364s" id="p677" end="2840.424s">Vous avez fait une entrée sensationnelle.</p>
+      <p begin="2840.539s" id="p678" end="2842.159s">C'est ridicule...</p>
+      <p begin="2843.103s" id="p679" end="2844.663s">J'ai galopé,</p>
+      <p begin="2844.877s" id="p680" end="2846.597s">galopé au soleil...</p>
+      <p begin="2847.047s" id="p681" end="2848.927s">Je m'étais blessé à  la chasse</p>
+      <p begin="2849.047s" id="p682" end="2850.727s">et ma blessure s'est rouverte.</p>
+      <p begin="2851.329s" id="p683" end="2853.349s">J'ai dà» perdre pas mal de sang.</p>
+      <p begin="2854.389s" id="p684" end="2860.539s">Je n'aime pas beaucoup les godelureaux qui feignent de s'évanouir pour une égratignure,</p>
+      <p begin="2860.656s" id="p685" end="2862.066s">devant les femmes.</p>
+      <p begin="2862.194s" id="p686" end="2863.104s">Monsieur!</p>
+      <p begin="2863.892s" id="p687" end="2865.222s">Vous m'avez compris...</p>
+      <p begin="2866.231s" id="p688" end="2869.191s">On vous nomme, je crois, César?</p>
+      <p begin="2869.305s" id="p689" end="2872.675s">Je m'appelle don Gaspar Guritan y Guerera,</p>
+      <p begin="2872.969s" id="p690" end="2876.259s">Comte d'Onate, Majordome de Sa Majesté la Reine!</p>
+      <p begin="2876.383s" id="p691" end="2877.393s">A vos ordres.</p>
+      <p begin="2878.359s" id="p692" end="2880.509s">Régulerons cette affaire tout suite.</p>
+      <p begin="2885.69s" id="p693" end="2887.86s">Attrape-moi Guritan au passage.</p>
+      <p begin="2889.754s" id="p694" end="2890.904s">Don Guritan.</p>
+      <p begin="2891.551s" id="p695" end="2892.721s">Don Guritan!</p>
+      <p begin="2896.331s" id="p696" end="2898.381s">Sa Majesté vous réclame.</p>
+      <p begin="2898.783s" id="p697" end="2899.973s">Madame.</p>
+      <p begin="2903.791s" id="p698" end="2904.831s">Je vous cherchais.</p>
+      <p begin="2905.213s" id="p699" end="2907.323s">Sa Majesté me comble...</p>
+      <p begin="2907.871s" id="p700" end="2910.981s">Vous êtes-vous occupé de ce petit Bazan? Il n'a pas l'air solide.</p>
+      <p begin="2911.103s" id="p701" end="2914.433s">On s'en occupe, Madame, on s'en occupe...</p>
+      <p begin="2914.549s" id="p702" end="2917.179s">C'est une génération de femmelettes.</p>
+      <p begin="2917.295s" id="p703" end="2920.245s">Guritan, vous avez raison, le moindre voyage les tue.</p>
+      <p begin="2921.224s" id="p704" end="2923.454s">Vous, Guritan, que feriez-vous pour moi?</p>
+      <p begin="2923.57s" id="p705" end="2926.17s">J'irais, Madame, jusqu'au bout du monde.</p>
+      <p begin="2927.684s" id="p706" end="2930.274s">C'est presque ce que j'attends de vous.</p>
+      <p begin="2930.758s" id="p707" end="2934.058s">Je voudrais vous envoyer à  Neubourg porter une cassette à  mon père.</p>
+      <p begin="2934.182s" id="p708" end="2935.782s">Je n'ai confiance en personne.</p>
+      <p begin="2936.288s" id="p709" end="2937.348s">A Neubourg!</p>
+      <p begin="2937.712s" id="p710" end="2939.082s">600 lieues!</p>
+      <p begin="2939.204s" id="p711" end="2940.304s">Vous reculez?</p>
+      <p begin="2940.661s" id="p712" end="2941.781s">Demain?</p>
+      <p begin="2942.243s" id="p713" end="2943.373s">Tout de suite!</p>
+      <p begin="2944.717s" id="p714" end="2946.227s">Casilda, ma cassette!</p>
+      <p begin="2948.793s" id="p715" end="2950.063s">C'est que....</p>
+      <p begin="2950.182s" id="p716" end="2951.242s">Madame...</p>
+      <p begin="2951.358s" id="p717" end="2954.058s">une affaire... une affaire...</p>
+      <p begin="2954.183s" id="p718" end="2956.153s">Avez-vous d'autres affaires que les miennes?</p>
+      <p begin="2956.273s" id="p719" end="2958.383s">- Madame, je pourrais... - Chut!</p>
+      <p begin="2958.967s" id="p720" end="2960.717s">Taisez-vous une minute don Guritan.</p>
+      <p begin="2960.842s" id="p721" end="2963.572s">Sa Majesté a une chose très importante à  écrire.</p>
+      <p begin="2963.814s" id="p722" end="2969.024s">"Gardez ce vieux fou le plus longtemps possible" Maria</p>
+      <p begin="2977.244s" id="p723" end="2978.344s">Voilà .</p>
+      <p begin="2978.759s" id="p724" end="2980.789s">Mon père possède l'autre clef à  Neubourg.</p>
+      <p begin="2980.907s" id="p725" end="2983.697s">Sa Majesté croit-elle...</p>
+      <p begin="2983.82s" id="p726" end="2986.29s">Guritan, voulez-vous que je vous embrasse?</p>
+      <p begin="2990.469s" id="p727" end="2991.319s">Madame.</p>
+      <p begin="2992.169s" id="p728" end="2993.459s">je suis vaincu...</p>
+      <p begin="2993.58s" id="p729" end="2994.71s">Je l'espère bien.</p>
+      <p begin="2994.825s" id="p730" end="2995.805s">Bon voyage.</p>
+      <p begin="2995.926s" id="p731" end="2998.686s">Je vous donne les meilleurs chevaux des écuries du Roi.</p>
+      <p begin="2998.805s" id="p732" end="3001.805s">Ce n'est pas vous qui vous trouverez mal sur les routes!</p>
+      <p begin="3005.378s" id="p733" end="3007.678s">C'est un vieux tueur épouvantable!</p>
+      <p begin="3008.034s" id="p734" end="3009.564s">Il vous adore, Madame.</p>
+      <p begin="3010.172s" id="p735" end="3012.742s">Il ne faut pas qu'il assassine ce jeune homme.</p>
+      <p begin="3012.858s" id="p736" end="3015.118s">Votre inconnu n'est plus un inconnu.</p>
+      <p begin="3015.988s" id="p737" end="3019.498s">La Reine m'envoie en mission. Vous avez de la chance...</p>
+      <p begin="3019.615s" id="p738" end="3020.815s">Partie remise...</p>
+      <p begin="3023.73s" id="p739" end="3026.12s">Ne vous blessez plus aux mains, jeune homme...</p>
+      <p begin="3026.243s" id="p740" end="3027.893s">Et faites des armes!</p>
+      <p begin="3039.72s" id="p741" end="3041.75s">Que c'est bon de désobéir.</p>
+      <p begin="3043.659s" id="p742" end="3046.869s">Madame de Santa Cruz m'a raconté qu'il arrivait des Indes.</p>
+      <p begin="3046.992s" id="p743" end="3049.032s">Il est plus beau que le duc d'Albe.</p>
+      <p begin="3049.602s" id="p744" end="3051.192s">C'est autre chose.</p>
+      <p begin="3051.467s" id="p745" end="3053.907s">Que dirait notre exquise Camerera Mayor...</p>
+      <p begin="3054.028s" id="p746" end="3057.928s">si elle savait que vous allez recevoir ce jeune homme sans qu'elle y assiste?</p>
+      <p begin="3058.046s" id="p747" end="3060.316s">Le comte de Bazan appartient à  ma suite.</p>
+      <p begin="3060.442s" id="p748" end="3064.942s">Une reine d'Espagne n'a pas le droit de recevoir seule un des gentilshommes de sa suite,</p>
+      <p begin="3065.482s" id="p749" end="3067.552s">surtout s'il est jeune et beau.</p>
+      <p begin="3070.62s" id="p750" end="3071.89s">Coiffe-moi vite!</p>
+      <p begin="3072.009s" id="p751" end="3074.599s">Il n'est pas de ma charge de toucher aux cheveux de la Reine...</p>
+      <p begin="3074.721s" id="p752" end="3076.731s">sauf quand je lui gratte la tête.</p>
+      <p begin="3077.758s" id="p753" end="3079.488s">Tu refuses de me coiffer?</p>
+      <p begin="3079.611s" id="p754" end="3081.081s">Regardez-vous...</p>
+      <p begin="3096.862s" id="p755" end="3097.942s">Il est là .</p>
+      <p begin="3101.295s" id="p756" end="3102.545s">Bonjour, Monsieur.</p>
+      <p begin="3113.522s" id="p757" end="3115.522s">Je voulais savoir de vos nouvelles...</p>
+      <p begin="3115.803s" id="p758" end="3118.833s">C'est un bien grand honneur que me fait Votre Majesté.</p>
+      <p begin="3119.261s" id="p759" end="3122.661s">C'est à  moi de m'excuser auprès d'elle de lui avoir manqué de respect.</p>
+      <p begin="3122.777s" id="p760" end="3124.247s">Laissons cela.</p>
+      <p begin="3124.371s" id="p761" end="3126.571s">Tout est défendu dans cette cour,</p>
+      <p begin="3127.082s" id="p762" end="3129.072s">et je suis heureuse que votre nouveau poste</p>
+      <p begin="3129.188s" id="p763" end="3132.218s">m'autorise presque à  vous donner l'audience.</p>
+      <p begin="3132.52s" id="p764" end="3135.31s">Je ne vois que de vieilles figures du matin au soir.</p>
+      <p begin="3136.374s" id="p765" end="3139.034s">C'est au duc d'Albe que je dois cette chance?</p>
+      <p begin="3139.149s" id="p766" end="3140.699s">La Reine est trop bonne...</p>
+      <p begin="3140.819s" id="p767" end="3142.189s">Au duc d'Albe.</p>
+      <p begin="3142.483s" id="p768" end="3146.173s">Il est charmant. Il rit toujours et nous oblige à  rire.</p>
+      <p begin="3146.754s" id="p769" end="3148.914s">Il sait que je suis très à  plaindre...</p>
+      <p begin="3149.5s" id="p770" end="3152.94s">S'il vivait à  Madrid, il voudrait organiser des bals...</p>
+      <p begin="3153.207s" id="p771" end="3154.587s">et que je danse...</p>
+      <p begin="3155.331s" id="p772" end="3156.611s">Mais ce n'est pas tout.</p>
+      <p begin="3156.733s" id="p773" end="3158.853s">Sans doute la charge de Votre Majesté régente...</p>
+      <p begin="3158.967s" id="p774" end="3160.837s">est-elle lourde pour ses épaules.</p>
+      <p begin="3161.702s" id="p775" end="3164.062s">Elle regrette son enfance à  Neubourg...</p>
+      <p begin="3164.183s" id="p776" end="3166.883s">où elle pouvait parler aux paysans qui passent,</p>
+      <p begin="3166.995s" id="p777" end="3168.935s">aux vendangeurs,</p>
+      <p begin="3169.059s" id="p778" end="3170.129s">aux gitans...</p>
+      <p begin="3172.947s" id="p779" end="3175.917s">Comment savez-vous qu'il y avait des gitans à  Neubourg?</p>
+      <p begin="3176.382s" id="p780" end="3177.482s">Je le devine...</p>
+      <p begin="3178.664s" id="p781" end="3180.214s">Il en campe un peu partout...</p>
+      <p begin="3181.478s" id="p782" end="3183.348s">et j'en parle parce que...</p>
+      <p begin="3184.287s" id="p783" end="3186.597s">la Reine s'estime prisonnière.</p>
+      <p begin="3186.999s" id="p784" end="3190.089s">Les gitans représentent la liberté.</p>
+      <p begin="3190.353s" id="p785" end="3191.863s">Vous m'avez comprise...</p>
+      <p begin="3193.164s" id="p786" end="3195.004s">Il y avait des gitans à  Neubourg</p>
+      <p begin="3195.115s" id="p787" end="3196.375s">et même dans notre parc.</p>
+      <p begin="3197.752s" id="p788" end="3199.212s">J'étais libre...</p>
+      <p begin="3199.526s" id="p789" end="3200.406s">Madame!</p>
+      <p begin="3200.534s" id="p790" end="3203.164s">Je sais seule au monde, Don César.</p>
+      <p begin="3204.241s" id="p791" end="3207.771s">Vous êtes le premier homme à  qui je m'adresse et je m'en excuse</p>
+      <p begin="3208.536s" id="p792" end="3211.696s">car un jeune Espagnol doit me trouver bien sentimentale...</p>
+      <p begin="3211.967s" id="p793" end="3212.937s">bien...</p>
+      <p begin="3213.436s" id="p794" end="3214.936s">Allemande.</p>
+      <p begin="3215.188s" id="p795" end="3218.238s">On voudrait n'être pas le dernier des Seigneurs du royaume...</p>
+      <p begin="3219.041s" id="p796" end="3221.651s">et pouvoir venir en aide à  Votre Majesté.</p>
+      <p begin="3222.71s" id="p797" end="3225.93s">Vous êtes Grand d'Espagne, don César, ne l'oubliez pas!</p>
+      <p begin="3226.247s" id="p798" end="3228.237s">Ma vie est aux pieds de la Reine.</p>
+      <p begin="3230.123s" id="p799" end="3233.343s">Si vous saviez combien une pauvre Reine d'Espagne est peu difficile!</p>
+      <p begin="3233.673s" id="p800" end="3236.133s">Un bouquet de fleurs bleues qui me rappellent Neubourg</p>
+      <p begin="3236.245s" id="p801" end="3239.085s">est plus pour moi que toutes les richesses des Indes..</p>
+      <p begin="3241.517s" id="p802" end="3243.417s">Et comment se porte votre blessure?</p>
+      <p begin="3243.763s" id="p803" end="3246.333s">Et comment vous l'étiezvous faite, don César?</p>
+      <p begin="3246.683s" id="p804" end="3247.953s">A la chasse?</p>
+      <p begin="3250.153s" id="p805" end="3252.953s">Vous m'avez l'air de souffrir encore des suites de votre vertige...</p>
+      <p begin="3253.308s" id="p806" end="3255.218s">Retirez-vous. Reposez-vous...</p>
+      <p begin="3255.512s" id="p807" end="3257.082s">et soyons amis.</p>
+      <p begin="3262.567s" id="p808" end="3264.697s">Je n'ai pas d'amis, Don César.</p>
+      <p begin="3264.819s" id="p809" end="3266.249s">Sachez-le.</p>
+      <p begin="3282.175s" id="p810" end="3285.445s">Je vous salue, Monsieur le Secrétaire Universel.</p>
+      <p begin="3285.78s" id="p811" end="3288.84s">Je vous salue, Marquis. Quel est ce titre?</p>
+      <p begin="3288.956s" id="p812" end="3291.226s">Le vôtre depuis ce matin.</p>
+      <p begin="3291.351s" id="p813" end="3293.691s">- Vous n'avez pas vu Sa Majesté? - Si.</p>
+      <p begin="3293.811s" id="p814" end="3295.441s">J'avais une audience.</p>
+      <p begin="3295.562s" id="p815" end="3297.442s">Et elle ne vous a rien dit?</p>
+      <p begin="3297.562s" id="p816" end="3298.432s">Ma foi non...</p>
+      <p begin="3298.892s" id="p817" end="3299.732s">Diable!</p>
+      <p begin="3299.849s" id="p818" end="3302.399s">Il fallait qu'elle eà»t des choses passionnantes à  vous dire</p>
+      <p begin="3302.515s" id="p819" end="3307.005s">pour oublier de vous apprendre qu'elle en avait décidé ainsi au Conseil des Ministres, ce matin.</p>
+      <p begin="3307.13s" id="p820" end="3308.03s">Mais je...</p>
+      <p begin="3308.565s" id="p821" end="3310.415s">Je ne suis pas digne de ce poste...</p>
+      <p begin="3311.054s" id="p822" end="3313.484s">Il paraît que Sa Majesté en juge autrement.</p>
+      <p begin="3313.769s" id="p823" end="3316.699s">Je suis heureux de vous annoncer une bonne nouvelle:</p>
+      <p begin="3316.816s" id="p824" end="3319.476s">Vous siégerez au Conseil des Ministres.</p>
+      <p begin="3319.604s" id="p825" end="3321.094s">Au fait, mon cher,</p>
+      <p begin="3321.214s" id="p826" end="3322.834s">vous aurez des charges</p>
+      <p begin="3322.945s" id="p827" end="3326.095s">le personnel de votre cousin Salluste est resté là ,</p>
+      <p begin="3326.219s" id="p828" end="3327.809s">à  votre disposition.</p>
+      <p begin="3327.927s" id="p829" end="3328.787s">Adieu.</p>
+      <p begin="3342.767s" id="p830" end="3344.797s">Que est-ce? - No idea.</p>
+      <p begin="3344.917s" id="p831" end="3346.577s">Chasses-tu un petit peu brule.</p>
+      <p begin="3346.701s" id="p832" end="3348.521s">- Qui est-ce? - Ce n'est pas un page.</p>
+      <p begin="3348.636s" id="p833" end="3350.766s">- Alors qui? Devine! Qui? Qui? - C'est quelqu'un qui passait dans le couloir.</p>
+      <p begin="3350.885s" id="p834" end="3352.145s">- On te demande qui! - Un domestique!</p>
+      <p begin="3352.273s" id="p835" end="3354.533s">Un laquais de don Salluste!</p>
+      <p begin="3474.589s" id="p836" end="3476.779s">Le travail se fait tout seul, Salluste.</p>
+      <p begin="3476.9s" id="p837" end="3478.75s">Bravo. I'm listening.</p>
+      <p begin="3479.105s" id="p838" end="3480.825s">Ecuyer de la Reine, un.</p>
+      <p begin="3481.583s" id="p839" end="3483.363s">Deux, secrétaire universel.</p>
+      <p begin="3483.476s" id="p840" end="3485.416s">- Longtemps après? - Huit jours.</p>
+      <p begin="3485.538s" id="p841" end="3487.348s">Superbe. Allez, allez...</p>
+      <p begin="3487.47s" id="p842" end="3488.9s">Ministre, trois.</p>
+      <p begin="3489.755s" id="p843" end="3491.515s">Quatre: duc d'Olmedo.</p>
+      <p begin="3492.218s" id="p844" end="3493.198s">Toison d'Or!</p>
+      <p begin="3493.321s" id="p845" end="3495.321s">Voilà  qui dépasse mes espérances.</p>
+      <p begin="3495.439s" id="p846" end="3497.239s">Vous avez aidé?</p>
+      <p begin="3497.355s" id="p847" end="3498.195s">De mon mieux...</p>
+      <p begin="3500.868s" id="p848" end="3504.628s">Mais en toute franchise, c'était inutile, je n'avais qu'à  suivre le train.</p>
+      <p begin="3504.748s" id="p849" end="3507.348s">Alors, la Reine s'est découverte...</p>
+      <p begin="3507.469s" id="p850" end="3509.099s">- compromise? - Non.</p>
+      <p begin="3509.349s" id="p851" end="3512.529s">Même ma femme trouve cela naturel, et ne soupçonne rien.</p>
+      <p begin="3512.654s" id="p852" end="3515.704s">Cela prouve que votre femme est une honnête femme, Santa Cruz.</p>
+      <p begin="3518.777s" id="p853" end="3520.637s">Comment la Reine procédait-elle?</p>
+      <p begin="3521.681s" id="p854" end="3524.361s">Elle avait l'air de récompenser des services.</p>
+      <p begin="3524.483s" id="p855" end="3526.453s">Le personnage en rend beaucoup.</p>
+      <p begin="3526.571s" id="p856" end="3527.581s">Expliquez.</p>
+      <p begin="3527.796s" id="p857" end="3531.186s">Il surveille, il contrôle, il met de l'ordre.</p>
+      <p begin="3531.305s" id="p858" end="3533.515s">De mieux en mieux ... Et le Roi?</p>
+      <p begin="3533.644s" id="p859" end="3534.654s">Enchanté.</p>
+      <p begin="3534.773s" id="p860" end="3538.133s">Il estime qu'il y a enfin un homme de poigne qui lui permette de vivre à  sa guise.</p>
+      <p begin="3538.254s" id="p861" end="3539.854s">Qu'il dorme, je veille.</p>
+      <p begin="3539.974s" id="p862" end="3543.014s">Qu'il chasse, ma chasse vaut la sienne et se jugera au tableau.</p>
+      <p begin="3547.057s" id="p863" end="3548.767s">Je retourne à  Madrid.</p>
+      <p begin="3549.249s" id="p864" end="3551.339s">Demain, Santa Cruz. Nous avons le temps.</p>
+      <p begin="3552.017s" id="p865" end="3554.937s">Vous allez vous reposer une bonne nuit et partager mon exil...</p>
+      <p begin="3555.055s" id="p866" end="3558.125s">Je vais vous mener à  votre appartement et donner des ordres pour votre escorte.</p>
+      <p begin="3558.245s" id="p867" end="3559.875s">Je partirai demain matin.</p>
+      <p begin="3559.997s" id="p868" end="3561.667s">Il ne vous soupçonne pas?</p>
+      <p begin="3561.794s" id="p869" end="3563.494s">Au contraire, il se confie.</p>
+      <p begin="3563.614s" id="p870" end="3565.564s">Vous serez récompensé de vos services.</p>
+      <p begin="3565.683s" id="p871" end="3567.263s">Jusqu'où montera-t-il?</p>
+      <p begin="3567.378s" id="p872" end="3568.788s">Laissez-le monter, Santa-Cruz.</p>
+      <p begin="3568.906s" id="p873" end="3572.636s">Il doit écraser quelqu'un dans sa chute, et je veux qu'il tombe de haut.</p>
+      <p begin="3587.677s" id="p874" end="3589.657s">- Ce n'est pas clair. - C'est très clair.</p>
+      <p begin="3589.782s" id="p875" end="3590.512s">La Reine?</p>
+      <p begin="3590.631s" id="p876" end="3593.141s">Le Roi vit dans l'Escurial avec le tombeau de sa première femme.</p>
+      <p begin="3593.263s" id="p877" end="3595.273s">La Reine règne sur nous et César sur elle!</p>
+      <p begin="3596.124s" id="p878" end="3599.074s">Il habite une petite maison en ville, gardée par des muets.</p>
+      <p begin="3599.185s" id="p879" end="3600.785s">- Des muets? - Des noirs, muets.</p>
+      <p begin="3600.913s" id="p880" end="3602.523s">Ils auraient, je crois, beaucoup à  dire.</p>
+      <p begin="3602.64s" id="p881" end="3604.3s">Il est de grande race, Messieurs.</p>
+      <p begin="3604.419s" id="p882" end="3605.599s">Santa Cruz le pousse.</p>
+      <p begin="3605.721s" id="p883" end="3607.481s">On l'a connu comme un drôle, jadis à  Madrid.</p>
+      <p begin="3607.603s" id="p884" end="3608.913s">L'âge l'a rendu probe.</p>
+      <p begin="3609.025s" id="p885" end="3610.145s">Vous êtes candide!</p>
+      <p begin="3610.267s" id="p886" end="3613.217s">La Maison de la Reine coà»te par an six cent soixante-quatre mille ducats.</p>
+      <p begin="3613.341s" id="p887" end="3615.261s">C'est un pactole. Il y pêche.</p>
+      <p begin="3615.376s" id="p888" end="3619.006s">Hélà ! hélà ! Feu mon grand-père disait: "Mordez le Roi, flattez le favori."</p>
+      <p begin="3619.131s" id="p889" end="3621.251s">Messieurs, messieurs!</p>
+      <p begin="3621.693s" id="p890" end="3623.733s">Occupons-nous de nos affaires!</p>
+      <p begin="3633.841s" id="p891" end="3636.591s">Je vous ai demandé de quoi payer sur la caisse aux Reliques,</p>
+      <p begin="3636.847s" id="p892" end="3638.657s">un emploi d'Alcade à  mon neveu.</p>
+      <p begin="3640.102s" id="p893" end="3643.972s">VOUS m'aviez promis de nommer mon cousin d'Elva bailli de l'Ebre.</p>
+      <p begin="3644.085s" id="p894" end="3646.035s">Nous avons doté votre nièce!</p>
+      <p begin="3646.158s" id="p895" end="3647.558s">Va pour l'Alcade!</p>
+      <p begin="3647.844s" id="p896" end="3649.274s">Va pour le bailli!</p>
+      <p begin="3649.392s" id="p897" end="3651.732s">Messieurs les Conseillers de Castille...</p>
+      <p begin="3652.399s" id="p898" end="3654.799s">Réglons bien nos droits... et faisons nos parts.</p>
+      <p begin="3655.936s" id="p899" end="3657.726s">Ubilla, vous avez la ferme du tabac.</p>
+      <p begin="3658.614s" id="p900" end="3661.044s">Priego, l'ambre et le musc sont à  vous.</p>
+      <p begin="3661.476s" id="p901" end="3665.236s">Camporeal perçoit l'impôt des huit mille hommes, le sel, le quint du cent de l'or...</p>
+      <p begin="3665.532s" id="p902" end="3667.682s">Ne prenez pas cet air inquiet, Montazgo...</p>
+      <p begin="3667.799s" id="p903" end="3672.089s">vous avez l'arsenic, les cartes, le laiton, la dîme de la mer, le bois de rose...</p>
+      <p begin="3672.208s" id="p904" end="3673.148s">Et moi, je n'ai rien!</p>
+      <p begin="3673.27s" id="p905" end="3675.55s">Rien! ...sauf les Indies!</p>
+      <p begin="3675.671s" id="p906" end="3677.251s">Je vous répète que je n'ai rien!</p>
+      <p begin="3677.37s" id="p907" end="3678.92s">Vous avez les nègres!</p>
+      <p begin="3679.041s" id="p908" end="3680.221s">I want the forests.</p>
+      <p begin="3680.338s" id="p909" end="3681.948s">Vous avez les nègres si vous me cédez l'arsenic.</p>
+      <p begin="3682.065s" id="p910" end="3683.165s">Bon appétit.</p>
+      <p begin="3683.679s" id="p911" end="3684.629s">Messieurs.</p>
+      <p begin="3687.486s" id="p912" end="3689.726s">Voilà  donc l'heure que vous choisissez</p>
+      <p begin="3690.235s" id="p913" end="3691.685s">to fill your pockets.</p>
+      <p begin="3691.81s" id="p914" end="3692.7s">Monsieur le Duc!</p>
+      <p begin="3692.818s" id="p915" end="3694.468s">Ayez quelque pudeur!</p>
+      <p begin="3697.181s" id="p916" end="3700.711s">Regardez l'Espagne qui tombe...</p>
+      <p begin="3702.684s" id="p917" end="3704.354s">Nous avons, depuis Philippe IV,</p>
+      <p begin="3704.876s" id="p918" end="3707.426s">perdu le Portugal, le Brésil, Brisach en Alsace,</p>
+      <p begin="3707.887s" id="p919" end="3710.997s">au Luxembourg Steinfort, le Roussillon, Ormuz, Pernambouc, Milan, les Flandres,</p>
+      <p begin="3712.531s" id="p920" end="3714.061s">cinq mille lieues de côtes,</p>
+      <p begin="3715.062s" id="p921" end="3716.232s">trois cents vaisseaux</p>
+      <p begin="3716.647s" id="p922" end="3717.627s">et autant de galères!</p>
+      <p begin="3719.404s" id="p923" end="3720.684s">L'Europe vous regarde...</p>
+      <p begin="3721.585s" id="p924" end="3723.025s">et elle éclate de rire!</p>
+      <p begin="3726.091s" id="p925" end="3727.751s">L'église vous désapprouve...</p>
+      <p begin="3728.121s" id="p926" end="3729.281s">et vous en prévient!</p>
+      <p begin="3729.401s" id="p927" end="3730.731s">Dieu m'approuve...</p>
+      <p begin="3732.132s" id="p928" end="3734.632s">La Grande-Bretagne et la Hollande se partagent le royaume.</p>
+      <p begin="3735.228s" id="p929" end="3736.508s">Rome nous dupe.</p>
+      <p begin="3737.709s" id="p930" end="3739.699s">La France et l'Autriche nous guettent.</p>
+      <p begin="3740.534s" id="p931" end="3743.154s">A l'intérieur, guerre des princes, guerre des couvents,</p>
+      <p begin="3743.941s" id="p932" end="3745.621s">guerre d'affamés sur une épave!</p>
+      <p begin="3746.811s" id="p933" end="3749.841s">Le peuple, Messieurs, pour vos seuls plaisirs,</p>
+      <p begin="3750.769s" id="p934" end="3753.499s">a sué en vingt ans, quatre cent huit millions d'or!</p>
+      <p begin="3753.75s" id="p935" end="3754.47s">Provez-le!</p>
+      <p begin="3754.586s" id="p936" end="3755.406s">J'ai les comptes.</p>
+      <p begin="3756.289s" id="p937" end="3757.069s">Et vous osez!</p>
+      <p begin="3757.532s" id="p938" end="3758.942s">Monsieur le Duc, je n'admets pas...</p>
+      <p begin="3759.057s" id="p939" end="3761.557s">Occupez-vous de votre musc et de votre ambre, Priego!</p>
+      <p begin="3761.678s" id="p940" end="3762.848s">- Je n'admets pas que... - Je parle!</p>
+      <p begin="3765.305s" id="p941" end="3767.485s">Les impôts écras~nt ceux qui travaillent.</p>
+      <p begin="3768.488s" id="p942" end="3771.988s">Ne peut vivre que l'escroquerie ...et elle s'en donne! Pourquoi pas?</p>
+      <p begin="3772.375s" id="p943" end="3773.795s">Les voleurs sont à  votre solde.</p>
+      <p begin="3775.279s" id="p944" end="3778.119s">Ils ont plus de troupes que le Roi d'Espagne,</p>
+      <p begin="3779.291s" id="p945" end="3781.991s">sur le carrosse duquel les paysans crachent au passage.</p>
+      <p begin="3782.11s" id="p946" end="3783.21s">Je démissionne!</p>
+      <p begin="3783.517s" id="p947" end="3784.577s">Je démissionne!</p>
+      <p begin="3784.703s" id="p948" end="3786.083s">J'en prends bonne note.</p>
+      <p begin="3786.842s" id="p949" end="3788.472s">Mais vous entendrez ce que j'ai à  vous dire.</p>
+      <p begin="3788.589s" id="p950" end="3789.579s">Messieurs,</p>
+      <p begin="3791.034s" id="p951" end="3792.844s">la grande Espagne est un lion malade,</p>
+      <p begin="3793.576s" id="p952" end="3795.286s">dévoré par les poux.</p>
+      <p begin="3795.624s" id="p953" end="3797.004s">Qui sont ces poux?</p>
+      <p begin="3797.432s" id="p954" end="3798.162s">Qui?</p>
+      <p begin="3799.443s" id="p955" end="3800.623s">Je vous le demande!</p>
+      <p begin="3802.81s" id="p956" end="3804.12s">Vous vous taisez!</p>
+      <p begin="3806.459s" id="p957" end="3809.599s">Et Charles-Quint vous regarde vendre son sceptre au poids.</p>
+      <p begin="3810.574s" id="p958" end="3811.754s">N'avez-vous pas honte?</p>
+      <p begin="3812.585s" id="p959" end="3815.265s">Et l'Aigle Impérial, Messieurs, qu'en avez-vous fait?</p>
+      <p begin="3815.385s" id="p960" end="3817.685s">Messieurs! Qu'avez-vous fait de l'Aigle Impérial...</p>
+      <p begin="3817.814s" id="p961" end="3819.984s">qui couvrait le monde entier de ses ailes?</p>
+      <p begin="3820.097s" id="p962" end="3822.037s">Il est là , sur cette table,</p>
+      <p begin="3822.583s" id="p963" end="3823.923s">déplumé,</p>
+      <p begin="3824.038s" id="p964" end="3825.708s">dans votre marmite!</p>
+      <p begin="3829.053s" id="p965" end="3831.253s">- Notre démission, Monsieur le Duc. - Je l'accepte.</p>
+      <p begin="3831.369s" id="p966" end="3832.799s">Vous vous retirerez avec les vôtres.</p>
+      <p begin="3832.923s" id="p967" end="3835.243s">vous, Priego, en Andalousie,</p>
+      <p begin="3835.362s" id="p968" end="3837.252s">vous, Camporeal, en Castille.</p>
+      <p begin="3837.885s" id="p969" end="3840.805s">Si vous refusez de me suivre, suivez ces messieurs.</p>
+      <p begin="3841.433s" id="p970" end="3844.163s">- Nous aurons un maître. - S'il en a le temps.</p>
+      <p begin="3846.91s" id="p971" end="3849.77s">Sa Seigneurie don Gaspar Guritan, comte d'Oiiate,</p>
+      <p begin="3849.893s" id="p972" end="3852.633s">demande à  voir Votre Excellence. Il arrive de Neubourg.</p>
+      <p begin="3852.746s" id="p973" end="3855.686s">Qu'il vienne ce soir à  ma maison en ville. J'y serai.</p>
+      <p begin="3855.814s" id="p974" end="3856.954s">Messieurs!</p>
+      <p begin="3857.366s" id="p975" end="3859.446s">Nous allons désormais...</p>
+      <p begin="3865.339s" id="p976" end="3867.069s">Sa Seigneurie ne peut pas vous recevoir.</p>
+      <p begin="3867.187s" id="p977" end="3867.837s">Pas me recevoir!</p>
+      <p begin="3867.958s" id="p978" end="3870.168s">Elle vous attendra ce soir dans sa maison en ville.</p>
+      <p begin="3870.288s" id="p979" end="3872.018s">C'est incroyable!</p>
+      <p begin="3876.109s" id="p980" end="3877.519s">Santa-Cruz!</p>
+      <p begin="3878.285s" id="p981" end="3880.985s">On refuse de me recevoir.</p>
+      <p begin="3881.109s" id="p982" end="3883.659s">Voilà  comment on traite le Majordome de la Reine!</p>
+      <p begin="3884.85s" id="p983" end="3886.74s">Guritan, il faut renoncer à  ce duel.</p>
+      <p begin="3886.864s" id="p984" end="3887.584s">Jamais!</p>
+      <p begin="3887.703s" id="p985" end="3889.673s">Il le faut, écoutez bien:</p>
+      <p begin="3889.79s" id="p986" end="3891.47s">si vous tuez don César,</p>
+      <p begin="3891.587s" id="p987" end="3893.857s">vous lui évitez un scandale, vous nous le soufflez,</p>
+      <p begin="3893.981s" id="p988" end="3896.181s">vous l'enlevez à  don Salluste... qui s'en charge.</p>
+      <p begin="3896.302s" id="p989" end="3897.172s">Diable!</p>
+      <p begin="3897.289s" id="p990" end="3899.269s">Et si vous vous entêtez à  ce duel, je vous ferai suivre.</p>
+      <p begin="3899.393s" id="p991" end="3901.863s">- J'enverrai la police. Je vous en préviens. - La police?</p>
+      <p begin="3903.169s" id="p992" end="3905.119s">Vous aimez la Reine, Guritan...</p>
+      <p begin="3905.242s" id="p993" end="3907.362s">Vous n'allez pas nous mettre de bâtons dans les roues...</p>
+      <p begin="3907.484s" id="p994" end="3909.574s">empêcher qu'on la sauve?</p>
+      <p begin="3909.813s" id="p995" end="3910.683s">Hein?</p>
+      <p begin="3910.909s" id="p996" end="3912.619s">Allons, soyez sage.</p>
+      <p begin="3913.115s" id="p997" end="3914.085s">C'est promis.</p>
+      <p begin="3916.694s" id="p998" end="3919.364s">Messieurs, je ne vous apprendrai pas, je suppose,</p>
+      <p begin="3920.088s" id="p999" end="3922.728s">quelles intrigues vont se nouer contre ma personne.</p>
+      <p begin="3923.082s" id="p1000" end="3924.902s">Je vous remercie de votre confiance.</p>
+      <p begin="3925.805s" id="p1001" end="3928.535s">Nous devons refaire l'Empire de Charles-Quint.</p>
+      <p begin="3929.503s" id="p1002" end="3930.793s">Vous être libres.</p>
+      <p begin="3965.563s" id="p1003" end="3966.473s">Merci.</p>
+      <p begin="3967.303s" id="p1004" end="3968.763s">Tu étais là ?</p>
+      <p begin="3969.144s" id="p1005" end="3971.434s">Philippe II a fait creuser cette niche.</p>
+      <p begin="3983.343s" id="p1006" end="3984.883s">Voilà  mon secret.</p>
+      <p begin="3985.987s" id="p1007" end="3988.847s">Voilà  où j'en suis réduite quand je veux être toute seule.</p>
+      <p begin="3988.965s" id="p1008" end="3992.165s">C'est de ce trou que j'écoutais Charles II pendant qu'on lui volait ses provinces.</p>
+      <p begin="3992.289s" id="p1009" end="3993.499s">Que disait-il?</p>
+      <p begin="3993.897s" id="p1010" end="3994.757s">Rien.</p>
+      <p begin="4001.14s" id="p1011" end="4003.03s">Pourquoi es-tu si fort, César?</p>
+      <p begin="4004.017s" id="p1012" end="4005.957s">Pourquoi sais-tu tant de choses?</p>
+      <p begin="4006.458s" id="p1013" end="4008.578s">Pourquoi es-tu habité par cette foudre?</p>
+      <p begin="4008.913s" id="p1014" end="4010.433s">Parce que je t'aime...</p>
+      <p begin="4011.455s" id="p1015" end="4012.485s">César...</p>
+      <p begin="4013.489s" id="p1016" end="4014.549s">César...</p>
+      <p begin="4015.916s" id="p1017" end="4018.576s">Et mes mains touchent la Reine d'Espagne.</p>
+      <p begin="4022.224s" id="p1018" end="4024.304s">Ne pense plus à  la pauvre Reine d'Espagne,</p>
+      <p begin="4024.977s" id="p1019" end="4027.497s">à  ce qu'elle peut faire et ne pas faire...</p>
+      <p begin="4027.813s" id="p1020" end="4029.913s">Tes mains sont tes mains, César...</p>
+      <p begin="4030.425s" id="p1021" end="4033.075s">Je suis ta reine et tu es mon roi.</p>
+      <p begin="4033.201s" id="p1022" end="4036.131s">Tes mains, tes belles mains...</p>
+      <p begin="4037.25s" id="p1023" end="4038.84s">Elles te protègent.</p>
+      <p begin="4040.373s" id="p1024" end="4043.893s">Les tiennes démoliront le catafalque où je vivais morte,</p>
+      <p begin="4044.007s" id="p1025" end="4045.307s">entourée de morts.</p>
+      <p begin="4047.446s" id="p1026" end="4048.456s">Je t'aime.</p>
+      <p begin="4048.579s" id="p1027" end="4050.129s">Tu les chasseras tous.</p>
+      <p begin="4050.864s" id="p1028" end="4052.574s">Je vais peut-être leur chasser trop vite.</p>
+      <p begin="4052.945s" id="p1029" end="4053.995s">Non, César.</p>
+      <p begin="4054.547s" id="p1030" end="4056.847s">Les hommes chassés. Se vengent.</p>
+      <p begin="4057.383s" id="p1031" end="4059.833s">Ils ne reculeront devant rien pour nous perdre.</p>
+      <p begin="4060.05s" id="p1032" end="4061.31s">Tu règnes.</p>
+      <p begin="4061.983s" id="p1033" end="4063.673s">Que peuvent-ils contre toi?</p>
+      <p begin="4064.087s" id="p1034" end="4066.837s">Tu m'as peut-être fait monter trop haut.</p>
+      <p begin="4069.498s" id="p1035" end="4072.108s">Je t'ai mis où Dieu aurait dà» te mettre.</p>
+      <p begin="4101.543s" id="p1036" end="4102.893s">Gardez les chevaux.</p>
+      <p begin="4103.396s" id="p1037" end="4104.226s">Je ne serai pas long,</p>
+      <p begin="4104.348s" id="p1038" end="4107.008s">j'ai un compte à  régler avec l'homme qui m'a envoyé aux galères.</p>
+      <p begin="4107.125s" id="p1039" end="4108.125s">Tu nous laisses-là ?</p>
+      <p begin="4108.783s" id="p1040" end="4111.103s">L'église est lieu d'asile...</p>
+      <p begin="4114.009s" id="p1041" end="4116.729s">Je ne vous conseille pas de vous en éloigner beaucoup!</p>
+      <p begin="4126.688s" id="p1042" end="4129.698s">Si Zafari se fait reprendre, son lieu d'asile est sà»r...</p>
+      <p begin="4131.178s" id="p1043" end="4133.608s">On ne s'échappe pas deux fois des galères.</p>
+      <p begin="4222.104s" id="p1044" end="4224.164s">Ah! ça! D'où sortez-vous?</p>
+      <p begin="4226.544s" id="p1045" end="4227.274s">Des galères.</p>
+      <p begin="4227.394s" id="p1046" end="4228.704s">Vous vous moquez de moi!</p>
+      <p begin="4228.816s" id="p1047" end="4231.166s">- Je cherche don Salluste. - Et moi, je vous cherche...</p>
+      <p begin="4231.868s" id="p1048" end="4232.958s">Par exemple?</p>
+      <p begin="4233.913s" id="p1049" end="4234.723s">Vous êtes fou!</p>
+      <p begin="4235.359s" id="p1050" end="4237.419s">Je ne viens pas chez vous pour me battre.</p>
+      <p begin="4237.868s" id="p1051" end="4239.128s">On me l'a défendu.</p>
+      <p begin="4239.246s" id="p1052" end="4240.576s">Qui? Une femme?</p>
+      <p begin="4240.703s" id="p1053" end="4241.373s">Monsieur!</p>
+      <p begin="4241.724s" id="p1054" end="4244.684s">Quel rubans! Vous devez plaire aux dames, vieux coquin!</p>
+      <p begin="4244.798s" id="p1055" end="4247.018s">On ne m'insulte pas deux fois, Monsieur le Duc!</p>
+      <p begin="4247.397s" id="p1056" end="4248.117s">Monsieur le Duc?</p>
+      <p begin="4248.244s" id="p1057" end="4249.044s">En garde!</p>
+      <p begin="4249.589s" id="p1058" end="4250.809s">Vous êtes trop vieux...</p>
+      <p begin="4251.092s" id="p1059" end="4253.872s">Trop vieux? J'en ai tué de plus jeunes que vous.</p>
+      <p begin="4253.989s" id="p1060" end="4255.089s">Ma liste est longue...</p>
+      <p begin="4255.212s" id="p1061" end="4255.942s">En garde!</p>
+      <p begin="4256.06s" id="p1062" end="4257.11s">Si ça vous amuse.</p>
+      <p begin="4257.228s" id="p1063" end="4259.678s">Mais dépêchons-nous. J'ai autre chose à  faire.</p>
+      <p begin="4269.413s" id="p1064" end="4271.743s">J'ai fait six cents lieues pour ce duel...</p>
+      <p begin="4271.86s" id="p1065" end="4274.71s">et je ne me suis jamais senti autant en forme!</p>
+      <p begin="4276.62s" id="p1066" end="4278.54s">Vos rubans sont exquis...</p>
+      <p begin="4279.511s" id="p1067" end="4280.461s">Misérable!</p>
+      <p begin="4281.669s" id="p1068" end="4283.399s">Je vais vous les défaire!</p>
+      <p begin="4288.087s" id="p1069" end="4289.557s">Que pensez-vous de cette botte?</p>
+      <p begin="4289.91s" id="p1070" end="4290.9s">Pas mal!</p>
+      <p begin="4291.469s" id="p1071" end="4292.609s">Et de cette autre?</p>
+      <p begin="4292.839s" id="p1072" end="4294.349s">Pas mal! pas mal!</p>
+      <p begin="4298.13s" id="p1073" end="4299.46s">Je vous étonne!</p>
+      <p begin="4299.583s" id="p1074" end="4300.513s">Oui.</p>
+      <p begin="4300.898s" id="p1075" end="4302.558s">vous avez l'air d'un vieux moulin à  vent!</p>
+      <p begin="4302.677s" id="p1076" end="4303.687s">Canaille!</p>
+      <p begin="4324.574s" id="p1077" end="4326.314s">Vous m'échappez...</p>
+      <p begin="4326.981s" id="p1078" end="4328.131s">Don César.</p>
+      <p begin="4329.613s" id="p1079" end="4332.003s">mais vous n'échapperez pas...</p>
+      <p begin="4332.847s" id="p1080" end="4334.357s">à  Salluste!</p>
+      <p begin="4380.821s" id="p1081" end="4382.821s">Excusez-nous, Monsieur le Duc, de forcer votre porte.</p>
+      <p begin="4382.936s" id="p1082" end="4385.556s">On nous a signalé un homme qui escaladait les toits. Nous sommes à  sa recherche...</p>
+      <p begin="4386.683s" id="p1083" end="4388.363s">Cherchez, Messieurs, cherchez,</p>
+      <p begin="4388.476s" id="p1084" end="4389.306s">vous êtes chez vous...</p>
+      <p begin="4417.389s" id="p1085" end="4419.339s">Trop aimables, Messieurs, trop aimables!</p>
+      <p begin="4431.805s" id="p1086" end="4432.855s">Ruy Blas!</p>
+      <p begin="4440.808s" id="p1087" end="4441.778s">Ruy Blas!</p>
+      <p begin="4443.319s" id="p1088" end="4444.339s">Excusez-moi.</p>
+      <p begin="4444.585s" id="p1089" end="4447.245s">Don César. Voilà  plus d'un an que je te cours après...</p>
+      <p begin="4447.892s" id="p1090" end="4449.642s">- écoute... - Laisse-moi parler.</p>
+      <p begin="4449.758s" id="p1091" end="4452.418s">J'arrive de chez toi, Je vais t'expliquer...</p>
+      <p begin="4452.537s" id="p1092" end="4454.357s">Ne m'explique rien, j'y compris</p>
+      <p begin="4454.477s" id="p1093" end="4456.907s">Je n'aimerais pas être à  ta place. Il n'y a pas du temps...</p>
+      <p begin="4457.033s" id="p1094" end="4458.773s">Il faut que je te mette au courant d'une sale histoire...</p>
+      <p begin="4458.894s" id="p1095" end="4459.544s">Attention!</p>
+      <p begin="4465.799s" id="p1096" end="4467.519s">Il etait trop du monde...</p>
+      <p begin="4468.68s" id="p1097" end="4470.13s">Nous parlerons plus tarde.</p>
+      <p begin="4471.41s" id="p1098" end="4472.2s">Zafari!</p>
+      <p begin="4473.399s" id="p1099" end="4474.269s">Zafari!</p>
+      <p begin="4474.389s" id="p1100" end="4475.679s">Méfie-toi de Salluste!</p>
+      <p begin="4486.914s" id="p1101" end="4488.714s">Je vous le répète pour la vingtième fois:</p>
+      <p begin="4488.828s" id="p1102" end="4493.468s">le Roi ne lit rien, le Roi n'écoute rien, le Roi ne sait rien...</p>
+      <p begin="4493.86s" id="p1103" end="4497.21s">Et du reste, si les personnes que vous craignez cherchaient à  vous nuire auprès du Roi,</p>
+      <p begin="4497.325s" id="p1104" end="4499.575s">c'est moi qui l'apprendrais d'abord.</p>
+      <p begin="4499.792s" id="p1105" end="4503.092s">Sa Majesté ne sait même pas que vous êtes premier ministre!</p>
+      <p begin="4503.21s" id="p1106" end="4505.31s">Salluste est un homme féroce.</p>
+      <p begin="4505.621s" id="p1107" end="4507.021s">Il veut perdre la Reine...</p>
+      <p begin="4507.485s" id="p1108" end="4508.595s">et par moi.</p>
+      <p begin="4508.897s" id="p1109" end="4510.937s">Vous êtes un Bazan, César.</p>
+      <p begin="4511.223s" id="p1110" end="4514.543s">Vous imaginez don Salluste provoquant un scandale dans sa famille?</p>
+      <p begin="4514.656s" id="p1111" end="4517.646s">Ah! si vous n'étiez pas un Bazan...</p>
+      <p begin="4519.935s" id="p1112" end="4522.285s">Il y a quelque chose qu'il faut que je vous dise.</p>
+      <p begin="4523.137s" id="p1113" end="4525.407s">Un aveu si difficile à  faire...</p>
+      <p begin="4525.529s" id="p1114" end="4527.309s">que vous êtes le seul à  pouvoir l'entendre.</p>
+      <p begin="4527.425s" id="p1115" end="4531.015s">Pas de confidences de coeur, César, on les regrette toujours.</p>
+      <p begin="4531.143s" id="p1116" end="4532.983s">Je ne veux savoir de vous qu'une chose:</p>
+      <p begin="4533.097s" id="p1117" end="4536.767s">c'est que je vous ai connu sur une mule, et que votre carrosse vous attend.</p>
+      <p begin="4537.608s" id="p1118" end="4539.648s">Je voudrais avoir votre joie de vivre.</p>
+      <p begin="4539.773s" id="p1119" end="4541.413s">Vous êtes aimé, vous êtes jeune.</p>
+      <p begin="4541.527s" id="p1120" end="4542.687s">Rentrez chez vous.</p>
+      <p begin="4543.134s" id="p1121" end="4544.394s">Dormez tranquille.</p>
+      <p begin="4546.045s" id="p1122" end="4548.885s">Je vous verrai à  l'audience de la Reine, demain matin!</p>
+      <p begin="4551.389s" id="p1123" end="4553.309s">Il a dépassé les limites, Monseigneur.</p>
+      <p begin="4553.434s" id="p1124" end="4556.944s">Et je ne suppose pas que l'église approuve qu'après avoir exilé ceux qui lui déplaisent,</p>
+      <p begin="4557.059s" id="p1125" end="4559.389s">il puisse assassiner dans sa maison ceux qui le dérangent.</p>
+      <p begin="4559.513s" id="p1126" end="4562.153s">L'église condamne les duels, Monsieur de Santa Cruz...</p>
+      <p begin="4562.882s" id="p1127" end="4564.082s">mais la Cour les tolère.</p>
+      <p begin="4564.196s" id="p1128" end="4567.086s">Pardon, pardon, Monseigneur. Un duel exige des témoins.</p>
+      <p begin="4567.212s" id="p1129" end="4568.752s">Il ne s'agit plus d'un duel.</p>
+      <p begin="4568.867s" id="p1130" end="4569.947s">C'est un meurtre.</p>
+      <p begin="4570.068s" id="p1131" end="4571.228s">Voice les faits:</p>
+      <p begin="4571.354s" id="p1132" end="4574.064s">on retrouve chez le duc d'Olmedo le cadavre de don Guritan.</p>
+      <p begin="4574.179s" id="p1133" end="4577.399s">Le duc d'Olmedo nargue la police et disparaît avant qu'on ne l'interroge.</p>
+      <p begin="4579.185s" id="p1134" end="4581.865s">Le duc d'Olmedo est un bien grand personnage...</p>
+      <p begin="4582.093s" id="p1135" end="4584.103s">Il se croit tout permis,</p>
+      <p begin="4584.217s" id="p1136" end="4585.627s">et c'est ce qui doit le perdre.</p>
+      <p begin="4586.014s" id="p1137" end="4589.894s">Comment Sa Majesté a-t-elle reçu la nouvelle de la mort de son Majordome?</p>
+      <p begin="4590.007s" id="p1138" end="4592.277s">La Reine ne connaît pas encore cette nouvelle.</p>
+      <p begin="4592.617s" id="p1139" end="4596.607s">Nous avons estimé qu'il était utile de la tenir secrète jusqu'à  nouvel ordre.</p>
+      <p begin="4596.733s" id="p1140" end="4598.703s">Je vous félicite de votre silence.</p>
+      <p begin="4599.032s" id="p1141" end="4602.162s">Le coeur de la Reine l'expose à  bien des faiblesses.</p>
+      <p begin="4602.636s" id="p1142" end="4605.076s">Nous pouvons donc compter sur l'église?</p>
+      <p begin="4605.452s" id="p1143" end="4609.312s">L'église se doit d'aider les hommes à  vaincre les monstres d'orgueil.</p>
+      <p begin="4609.543s" id="p1144" end="4611.723s">Nous le tenons, Monseigneur.</p>
+      <p begin="4611.983s" id="p1145" end="4613.783s">Dieu ait son âme...</p>
+      <p begin="4616.287s" id="p1146" end="4618.797s">Habitants de Madrid,</p>
+      <p begin="4619.07s" id="p1147" end="4621.35s">il est onze heures.</p>
+      <p begin="4621.847s" id="p1148" end="4624.217s">Dormez en paix.</p>
+      <p begin="4624.754s" id="p1149" end="4628.034s">Que le sommeil vous soit propice.</p>
+      <p begin="4629.0s" id="p1150" end="4632.16s">Adorez le Seigneur.</p>
+      <p begin="4632.831s" id="p1151" end="4634.881s">Vénérez le... - Qu'est-ce que tu as?</p>
+      <p begin="4635.0s" id="p1152" end="4636.85s">Il m'était impossible d'attendre à  demain.</p>
+      <p begin="4637.622s" id="p1153" end="4638.632s">César!</p>
+      <p begin="4639.342s" id="p1154" end="4640.272s">Maria...</p>
+      <p begin="4640.389s" id="p1155" end="4642.589s">une machine de haine est montée contre nous.</p>
+      <p begin="4643.388s" id="p1156" end="4644.888s">C'est donc cela...</p>
+      <p begin="4645.989s" id="p1157" end="4647.399s">Je les connais.</p>
+      <p begin="4647.521s" id="p1158" end="4648.721s">On veut te perdre...</p>
+      <p begin="4648.838s" id="p1159" end="4649.928s">et me perdre.</p>
+      <p begin="4650.181s" id="p1160" end="4652.301s">Tout m'est égal, César.</p>
+      <p begin="4652.418s" id="p1161" end="4654.238s">Qu'ils nous tuent, qu'ils nous assassinent.</p>
+      <p begin="4654.362s" id="p1162" end="4656.682s">Qu'ils nous brà»lent ensemble sur leur bà»cher.</p>
+      <p begin="4658.263s" id="p1163" end="4660.153s">Ma petite fille de Neubourg.</p>
+      <p begin="4662.523s" id="p1164" end="4663.583s">César...</p>
+      <p begin="4664.148s" id="p1165" end="4665.428s">Il faut lutter,</p>
+      <p begin="4665.545s" id="p1166" end="4667.465s">les écraser, les vaincre.</p>
+      <p begin="4667.586s" id="p1167" end="4669.136s">Maria, nous sommes coupables</p>
+      <p begin="4669.264s" id="p1168" end="4671.034s">Coupables! Coupables de quoi?</p>
+      <p begin="4671.151s" id="p1169" end="4673.411s">Nous sommes coupables, Maria. Et ils le savent.</p>
+      <p begin="4674.154s" id="p1170" end="4676.094s">J'ai chassé Camporeal... Priego...</p>
+      <p begin="4676.213s" id="p1171" end="4678.293s">La belle affaire! J'ai bien chassé Salluste.</p>
+      <p begin="4678.41s" id="p1172" end="4679.5s">C'est lui qui mène l'intrigue.</p>
+      <p begin="4680.297s" id="p1173" end="4682.667s">Ils iront jusqu'au scandale, jusqu'au Roi.</p>
+      <p begin="4682.79s" id="p1174" end="4685.21s">Qu'ils l'osent! Je suis la Reine d'Espagne.</p>
+      <p begin="4687.002s" id="p1175" end="4688.222s">Ils l'oseront.</p>
+      <p begin="4695.226s" id="p1176" end="4696.286s">Tu es triste?</p>
+      <p begin="4696.537s" id="p1177" end="4697.407s">Triste...</p>
+      <p begin="4698.119s" id="p1178" end="4701.109s">d'être incapable de te délivrer, de t'arracher à  cette Cour,</p>
+      <p begin="4702.149s" id="p1179" end="4704.599s">de t'emporter au bout du monde...</p>
+      <p begin="4704.72s" id="p1180" end="4707.34s">J'aimerais te suivre au bout du monde</p>
+      <p begin="4707.459s" id="p1181" end="4709.349s">Il faut d'abord sauver le royaume.</p>
+      <p begin="4710.374s" id="p1182" end="4712.364s">Ils ne veulent pas te tuer? Tu ne me caches rien?</p>
+      <p begin="4712.481s" id="p1183" end="4714.411s">Me tuer? Pourquoi? Ils veulent un scandale.</p>
+      <p begin="4714.532s" id="p1184" end="4716.332s">N'abandon jamais le pouvoir.</p>
+      <p begin="4716.792s" id="p1185" end="4718.342s">Tu me l'as donné.</p>
+      <p begin="4718.758s" id="p1186" end="4720.298s">Tu me défendras?</p>
+      <p begin="4720.786s" id="p1187" end="4722.096s">Contre tous.</p>
+      <p begin="4722.745s" id="p1188" end="4723.965s">Comme l'Espagne.</p>
+      <p begin="4760.063s" id="p1189" end="4761.203s">Bonsoir.</p>
+      <p begin="4763.395s" id="p1190" end="4765.935s">Je parie que vous ne pensiez plus à  moi...</p>
+      <p begin="4766.061s" id="p1191" end="4768.281s">Il s'en passe de belles à  Madrid.</p>
+      <p begin="4768.397s" id="p1192" end="4771.307s">Alors? vous exilez Priego, vous chassez Camporeal.</p>
+      <p begin="4771.427s" id="p1193" end="4773.897s">M. de Priego aggravait les charges de l'Espagne.</p>
+      <p begin="4774.024s" id="p1194" end="4776.564s">J'ai un peu froid ... Faites-moi le plaisir de fermer cette fenêtre.</p>
+      <p begin="4782.155s" id="p1195" end="4782.815s">Merci.</p>
+      <p begin="4782.935s" id="p1196" end="4785.645s">Il importe don Salluste, de sauver le peuple.</p>
+      <p begin="4785.765s" id="p1197" end="4788.265s">Il faudra vous guérir de ces grandes phrases creuses.</p>
+      <p begin="4788.388s" id="p1198" end="4791.278s">Voudriez-vous devenir populaire? Ce serait fort drôle!</p>
+      <p begin="4791.397s" id="p1199" end="4792.477s">Mon mouchoir...</p>
+      <p begin="4792.6s" id="p1200" end="4795.1s">- L'Espagne se meurt! - Mon mouchoir, s'il vous plaît!</p>
+      <p begin="4801.626s" id="p1201" end="4802.506s">Merci.</p>
+      <p begin="4802.627s" id="p1202" end="4803.507s">Ruy Blas.</p>
+      <p begin="4803.633s" id="p1203" end="4805.213s">Vous parlez au duc d'Olmedo!</p>
+      <p begin="4805.328s" id="p1204" end="4806.498s">Comment dites-vous cela?</p>
+      <p begin="4806.622s" id="p1205" end="4808.022s">Vous êtes en exil, Salluste.</p>
+      <p begin="4808.136s" id="p1206" end="4809.686s">Il m'appelle Salluste!</p>
+      <p begin="4810.436s" id="p1207" end="4811.736s">Passons aux choses sérieuses.</p>
+      <p begin="4812.244s" id="p1208" end="4813.644s">Vous quittez Madrid demain.</p>
+      <p begin="4813.758s" id="p1209" end="4815.968s">- A qui donnez-vous cet ordre? - A mon domestique.</p>
+      <p begin="4816.091s" id="p1210" end="4817.561s">Vous l'êtes. Vous l'avez écrit.</p>
+      <p begin="4817.684s" id="p1211" end="4819.254s">On détruira ce papier ridicule.</p>
+      <p begin="4819.368s" id="p1212" end="4820.288s">Il est en bonnes mains.</p>
+      <p begin="4821.394s" id="p1213" end="4822.424s">Que cherchez-vous?</p>
+      <p begin="4822.535s" id="p1214" end="4823.915s">Vous êtes fantastique!</p>
+      <p begin="4824.365s" id="p1215" end="4828.105s">Alors vous avez cru que je quittais le pouvoir, enchanté de vous le remettre!</p>
+      <p begin="4828.23s" id="p1216" end="4830.87s">Vous avez cru que je m'attendrissais sur vos amours!</p>
+      <p begin="4832.205s" id="p1217" end="4834.975s">- Vous oseriez toucher à  la Reine? - Je me gênerais.</p>
+      <p begin="4835.707s" id="p1218" end="4837.437s">Vous vous êtes servi de moi comme d'un piège.</p>
+      <p begin="4837.563s" id="p1219" end="4840.293s">Mais, cher Monsieur, quel autre intérêt vouliez-vous que je vous portasse?</p>
+      <p begin="4840.413s" id="p1220" end="4843.443s">- Je vais vous faire arrêter. - D'accord. Je dirai qui vous êtes.</p>
+      <p begin="4843.561s" id="p1221" end="4846.101s">Je me trouve en position de tout nier et qu'on me croie.</p>
+      <p begin="4846.221s" id="p1222" end="4847.991s">Ruy Blas... le papier!</p>
+      <p begin="4848.653s" id="p1223" end="4849.613s">...le papier!</p>
+      <p begin="4850.213s" id="p1224" end="4851.783s">Vous avez la mémoire courte.</p>
+      <p begin="4853.037s" id="p1225" end="4853.787s">Monsieur,</p>
+      <p begin="4854.834s" id="p1226" end="4855.814s">je vous obéirai</p>
+      <p begin="4856.694s" id="p1227" end="4859.084s">si la Reine reste en dehors de toute cette atroce affaire.</p>
+      <p begin="4859.198s" id="p1228" end="4861.318s">- De quoi vous mêlez-vous? - Prenez garde!</p>
+      <p begin="4869.656s" id="p1229" end="4872.666s">Si vous n'obéissez pas, mon bonhomme, la dame sera diffamée, perdue.</p>
+      <p begin="4872.788s" id="p1230" end="4874.278s">En outre, elle recevra en une minute</p>
+      <p begin="4874.403s" id="p1231" end="4876.903s">- le document qui lui apprendra qui vous êtes. - Je vous tuerai!</p>
+      <p begin="4877.024s" id="p1232" end="4879.224s">Alors vous irez aux galères rejoindre don César</p>
+      <p begin="4879.34s" id="p1233" end="4881.74s">que j'y ai fait envoyer parce qu'il m'avait désobéi.</p>
+      <p begin="4915.735s" id="p1234" end="4916.625s">Casilda!</p>
+      <p begin="4919.577s" id="p1235" end="4921.397s">Au secours! César - Mon Dieu!</p>
+      <p begin="4922.359s" id="p1236" end="4924.659s">- Qui t'a donné cette lettre? - Une duègne.</p>
+      <p begin="4926.431s" id="p1237" end="4927.901s">Ils vont le tuer!</p>
+      <p begin="4928.895s" id="p1238" end="4932.175s">- Ils vont le tuer! - Madame... madame...</p>
+      <p begin="4937.809s" id="p1239" end="4939.959s">Le coucher de la Reine.</p>
+      <p begin="4941.43s" id="p1240" end="4942.73s">Ne me quitte pas.</p>
+      <p begin="4967.939s" id="p1241" end="4969.439s">On me dit que la Reine est souffrante?</p>
+      <p begin="4969.747s" id="p1242" end="4971.777s">Non, Madame. Je suis très lasse.</p>
+      <p begin="4999.618s" id="p1243" end="5001.458s">Eh bien, Madame? Que se passe-t-il?</p>
+      <p begin="5010.134s" id="p1244" end="5014.334s">Le bruit court que don Guritan a été tué en duel dans la maison de don César.</p>
+      <p begin="5015.692s" id="p1245" end="5019.162s">Je croyais que ni l'un ni l'autre ne donnerait suite à  ce duel ridicule.</p>
+      <p begin="5020.297s" id="p1246" end="5021.647s">Oh. C'est atroce!</p>
+      <p begin="5031.481s" id="p1247" end="5034.711s">Sa Majesté a l'air vraiment malade. Veut-elle son médecin?</p>
+      <p begin="5034.831s" id="p1248" end="5036.871s">Je veux dormir, voilà  tout.</p>
+      <p begin="5043.866s" id="p1249" end="5045.106s">Qu'on me laisse.</p>
+      <p begin="5045.912s" id="p1250" end="5047.192s">Bon nuit, Mesdames.</p>
+      <p begin="5088.427s" id="p1251" end="5089.357s">Casilda!</p>
+      <p begin="5089.998s" id="p1252" end="5090.848s">Casilda!</p>
+      <p begin="5093.706s" id="p1253" end="5095.016s">Donne-moi la lettre.</p>
+      <p begin="5095.14s" id="p1254" end="5095.95s">Vite!</p>
+      <p begin="5099.94s" id="p1255" end="5101.18s">Casilda, il faut que je sorte!</p>
+      <p begin="5101.302s" id="p1256" end="5102.872s">Mais, Madame, vous savez bien que c'est impossible!</p>
+      <p begin="5102.992s" id="p1257" end="5105.402s">Il le faut, Casilda. Le duc d'Olmedo m'appelle au secours</p>
+      <p begin="5105.518s" id="p1258" end="5106.958s">- Madame! - Aide-moi!</p>
+      <p begin="5107.077s" id="p1259" end="5107.977s">Je m'habille.</p>
+      <p begin="5114.662s" id="p1260" end="5115.622s">Plus vite,</p>
+      <p begin="5115.939s" id="p1261" end="5116.759s">plus vite!</p>
+      <p begin="5121.521s" id="p1262" end="5122.741s">Va faire le guet.</p>
+      <p begin="5122.855s" id="p1263" end="5125.275s">Mais Sa Majesté ne sait pas s'habiller seille?</p>
+      <p begin="5125.404s" id="p1264" end="5126.374s">Moi?</p>
+      <p begin="5126.99s" id="p1265" end="5128.14s">Allons! Vas!</p>
+      <p begin="5139.006s" id="p1266" end="5140.046s">La Duchesse!</p>
+      <p begin="5176.583s" id="p1267" end="5177.583s">Casilda!</p>
+      <p begin="5182.151s" id="p1268" end="5183.951s">Sa Majesté sait-elle où elle va?</p>
+      <p begin="5184.066s" id="p1269" end="5187.086s">Ne sois pas stupide. Il ne m'appellerait pas s'il était au palais.</p>
+      <p begin="5187.208s" id="p1270" end="5188.888s">Il est dans sa maison, en danger de mort.</p>
+      <p begin="5189.007s" id="p1271" end="5190.517s">S'il m'appelle, c'est qu'il sait que j'irai,</p>
+      <p begin="5190.64s" id="p1272" end="5192.0s">que je traverserai les murailles.</p>
+      <p begin="5192.119s" id="p1273" end="5193.599s">Tu vas me faire sortir!</p>
+      <p begin="5193.715s" id="p1274" end="5195.975s">Je vais essayer. Dieu nous aide...</p>
+      <p begin="5197.068s" id="p1275" end="5198.738s">Regarde si la route est libre!</p>
+      <p begin="5201.378s" id="p1276" end="5203.498s">Voilà  qui simplifie les choses.</p>
+      <p begin="5203.618s" id="p1277" end="5205.868s">Qu'ils s'endorment, tous.</p>
+      <p begin="5244.517s" id="p1278" end="5245.857s">Prenez garde aux marches.</p>
+      <p begin="5245.977s" id="p1279" end="5247.817s">Les bâtiments de service sont en ruines.</p>
+      <p begin="5247.938s" id="p1280" end="5249.008s">Pauvre Espagne!</p>
+      <p begin="5263.143s" id="p1281" end="5263.893s">Attendez...</p>
+      <p begin="5264.793s" id="p1282" end="5265.913s">Vous vous appelez...</p>
+      <p begin="5266.032s" id="p1283" end="5266.912s">Inès.</p>
+      <p begin="5267.753s" id="p1284" end="5268.723s">Vite.</p>
+      <p begin="5291.196s" id="p1285" end="5292.446s">Qui va là ?</p>
+      <p begin="5292.895s" id="p1286" end="5294.385s">La Reine d'Espagne.</p>
+      <p begin="5294.895s" id="p1287" end="5297.985s">C'est la quatrième fois ce soir qu'on recommence cette petite plaisanterie.</p>
+      <p begin="5298.57s" id="p1288" end="5299.55s">Où allez-vous?</p>
+      <p begin="5299.666s" id="p1289" end="5300.896s">Où allaient les autres.</p>
+      <p begin="5301.019s" id="p1290" end="5303.429s">Vous finirez par m'attirer des histoires.</p>
+      <p begin="5304.638s" id="p1291" end="5306.648s">Je me paie en nature!</p>
+      <p begin="5308.477s" id="p1292" end="5309.547s">Allez, Inès, filez!</p>
+      <p begin="5322.165s" id="p1293" end="5323.615s">Il est enragé!</p>
+      <p begin="5325.758s" id="p1294" end="5327.058s">Je suis morte de peur!</p>
+      <p begin="5327.385s" id="p1295" end="5329.795s">Ils sont jeunes et ils s'ennuient. Vite.</p>
+      <p begin="5331.026s" id="p1296" end="5333.516s">Et surtout rentrez avant que le jour se lève.</p>
+      <p begin="5421.787s" id="p1297" end="5425.317s">Ne remuez pas comme un fauve en cage. Vous me faites mal au coeur!</p>
+      <p begin="5425.988s" id="p1298" end="5427.568s">Je vous admire presque...</p>
+      <p begin="5427.694s" id="p1299" end="5429.854s">de rester en face de moi dans cette maison vide.</p>
+      <p begin="5429.968s" id="p1300" end="5432.328s">J'ai éloigné mes noirs mais j'ai pris toutes précautions</p>
+      <p begin="5432.454s" id="p1301" end="5435.194s">pour que la moindre menace contre moi se retourne contre vous.</p>
+      <p begin="5435.313s" id="p1302" end="5437.463s">Je ne suis pas seul dans cette entreprise.</p>
+      <p begin="5437.584s" id="p1303" end="5439.144s">La Reine se méfiera.</p>
+      <p begin="5439.26s" id="p1304" end="5442.64s">De votre écriture? De votre signature? D'un appel au secours!</p>
+      <p begin="5443.61s" id="p1305" end="5446.55s">C'est qu'elle ne vous aime pas, mon cher.</p>
+      <p begin="5448.901s" id="p1306" end="5449.931s">Mon Dieu!</p>
+      <p begin="5451.701s" id="p1307" end="5453.701s">Si mes calculs sont exacts...</p>
+      <p begin="5453.82s" id="p1308" end="5455.31s">la Reine ne tardera plus.</p>
+      <p begin="5456.062s" id="p1309" end="5457.942s">Vous ne m'empêcherez pas d'aller à  sa rencontre.</p>
+      <p begin="5458.055s" id="p1310" end="5459.565s">Prévu! Le piège n'est point seulement ici.</p>
+      <p begin="5459.693s" id="p1311" end="5461.643s">Le principal, c'est que la Reine sorte.</p>
+      <p begin="5471.38s" id="p1312" end="5472.85s">Du calme, du calme.</p>
+      <p begin="5473.201s" id="p1313" end="5476.001s">Je ne vous veux aucun mal, au contraire.</p>
+      <p begin="5477.204s" id="p1314" end="5478.474s">La voilà .</p>
+      <p begin="5479.282s" id="p1315" end="5480.922s">J'ai du poison dans cette bague.</p>
+      <p begin="5481.203s" id="p1316" end="5484.053s">Tuez-vous, cher Monsieur. Le scandale n'en sera que meilleur.</p>
+      <p begin="5490.234s" id="p1317" end="5493.564s">- Où est le duc d'Olmedo? - Il vous attend, Madame.</p>
+      <p begin="5494.641s" id="p1318" end="5497.361s">- N'entrez pas, Madame. Sauvez-vous. - Mais vous craignez pour moi!</p>
+      <p begin="5497.476s" id="p1319" end="5498.616s">Je suis-là .</p>
+      <p begin="5501.108s" id="p1320" end="5502.478s">Vous vous perdez...</p>
+      <p begin="5502.938s" id="p1321" end="5504.408s">Vous m'avez écrit!</p>
+      <p begin="5504.938s" id="p1322" end="5506.848s">Je ne peux pas vous expliquer.</p>
+      <p begin="5507.334s" id="p1323" end="5508.254s">Je l'exige.</p>
+      <p begin="5508.859s" id="p1324" end="5510.619s">C'est votre Reine qui parle.</p>
+      <p begin="5517.232s" id="p1325" end="5518.482s">Non, Madame de Neubourg.</p>
+      <p begin="5519.221s" id="p1326" end="5521.841s">- Vous n'êtes plus Reine d'Espagne. - Plaît-il?</p>
+      <p begin="5521.962s" id="p1327" end="5524.262s">Vous êtes liée pour toujours à  cet homme. Je vous tiens.</p>
+      <p begin="5524.377s" id="p1328" end="5526.647s">- Sir! - Je suis sans colère.</p>
+      <p begin="5526.772s" id="p1329" end="5530.052s">La Reine à  minuit, seule avec le duc d'Olmedo, chez-lui...</p>
+      <p begin="5530.173s" id="p1330" end="5532.173s">c'est l'annulation en Cour de Rome.</p>
+      <p begin="5533.615s" id="p1331" end="5534.485s">César?</p>
+      <p begin="5535.209s" id="p1332" end="5537.909s">quelle menace a pu vous convaincre de m'écrire cette lettre?</p>
+      <p begin="5538.033s" id="p1333" end="5540.793s">Le duc n'est pas fautif, Madame. C'est une très vieille lettre...</p>
+      <p begin="5540.911s" id="p1334" end="5542.241s">qui ne s'adressait pas à  vous</p>
+      <p begin="5544.326s" id="p1335" end="5545.126s">A qui?</p>
+      <p begin="5547.005s" id="p1336" end="5549.435s">Les femmes jalouses sont admirables!</p>
+      <p begin="5549.564s" id="p1337" end="5551.964s">Mais Madame, je ne veux pas vous retirer le duc, au contraire...</p>
+      <p begin="5552.084s" id="p1338" end="5554.174s">toute est prete.</p>
+      <p begin="5554.292s" id="p1339" end="5557.792s">Signez cela. Une voiture pleine d'or vous emmènera au Portugal.</p>
+      <p begin="5558.437s" id="p1340" end="5560.847s">Vous aurez fait un duc pour être duchesse.</p>
+      <p begin="5563.168s" id="p1341" end="5565.888s">Je ne suis ni don César de Bazan,</p>
+      <p begin="5566.014s" id="p1342" end="5568.084s">ni le duc d'Olmedo, Madame.</p>
+      <p begin="5571.135s" id="p1343" end="5572.425s">Je suis un domestique.</p>
+      <p begin="5574.804s" id="p1344" end="5575.594s">Quoi?</p>
+      <p begin="5577.007s" id="p1345" end="5579.747s">Je suis un domestique de don Salluste.</p>
+      <p begin="5580.013s" id="p1346" end="5583.183s">C'est vrai, Madame. Cet homme s'appelle Ruy Blas. Il est mon domestique..</p>
+      <p begin="5583.295s" id="p1347" end="5584.555s">Madrid va rire!</p>
+      <p begin="5584.679s" id="p1348" end="5586.919s">Vous avez cru que je ne me vengerais pas... Vous étiez folle!.</p>
+      <p begin="5587.78s" id="p1349" end="5590.21s">- Vous insultez la Reine. - Vous voulez vous battre ?</p>
+      <p begin="5590.332s" id="p1350" end="5592.152s">On ne se bat pas avec son domestique.</p>
+      <p begin="5595.833s" id="p1351" end="5596.803s">César!</p>
+      <p begin="5596.917s" id="p1352" end="5598.047s">Au secours!</p>
+      <p begin="5613.034s" id="p1353" end="5614.074s">César!</p>
+      <p begin="5615.569s" id="p1354" end="5616.689s">Non, Madame.</p>
+      <p begin="5616.806s" id="p1355" end="5617.886s">Ruy Blas.</p>
+      <p begin="5620.241s" id="p1356" end="5621.601s">Me pardonnerez-vous?</p>
+      <p begin="5623.006s" id="p1357" end="5623.836s">Jamais!</p>
+      <p begin="5626.212s" id="p1358" end="5627.152s">Jamais?</p>
+      <p begin="5647.621s" id="p1359" end="5648.311s">Non!</p>
+      <p begin="5650.354s" id="p1360" end="5651.224s">César!</p>
+      <p begin="5652.502s" id="p1361" end="5653.432s">Ruy Blas!</p>
+      <p begin="5654.518s" id="p1362" end="5655.578s">Ruy Blas!</p>
+      <p begin="5656.473s" id="p1363" end="5657.773s">Je t'aime.</p>
+      <p begin="5660.055s" id="p1364" end="5661.175s">Ruy Blas.</p>
+      <p begin="5662.609s" id="p1365" end="5663.829s">Je te pardonne..</p>
+      <p begin="5664.083s" id="p1366" end="5665.363s">Merci.</p>
+      <p begin="5672.849s" id="p1367" end="5673.719s">Madame!</p>
+      <p begin="5673.84s" id="p1368" end="5674.78s">Madame!</p>
+      <p begin="5675.179s" id="p1369" end="5676.879s">C'est trop épouvantable!</p>
+      <p begin="5677.544s" id="p1370" end="5678.614s">Venez!</p>
+      <p begin="5678.73s" id="p1371" end="5680.01s">Fuyons!</p>
+      <p begin="5680.126s" id="p1372" end="5680.956s">Laisse-moi... laisse moi.</p>
+      <p begin="5681.076s" id="p1373" end="5683.126s">Que je supplie... venez!</p>
+      <p begin="5687.704s" id="p1374" end="5689.234s">Don César est mort.</p>
+      <p begin="5690.151s" id="p1375" end="5691.601s">Réveillez Madame.</p>
+      <p begin="5692.298s" id="p1376" end="5693.368s">Il le faut.</p>
+      <p begin="5714.271s" id="p1377" end="5717.141s">Habitants de Madrid</p>
+      <p begin="5717.467s" id="p1378" end="5719.847s">il est minuit.</p>
+      <p begin="5720.235s" id="p1379" end="5722.705s">Dormez en paix.</p>
+      <p begin="5723.115s" id="p1380" end="5726.265s">Que le sommeil vous soit propice.</p>
+      <p begin="5727.341s" id="p1381" end="5730.571s">Adorez le Seigneur.</p>
+      <p begin="5731.126s" id="p1382" end="5734.346s">Vénérez le Roi et la Reine.</p>
+      <p begin="5735.162s" id="p1383" end="5739.162s">Que le Diable s'écarte de votre route.</p>
+      <p begin="5740.54s" id="p1384" end="5743.46s">Soyez heureux.</p>
+      <p begin="5751.47s" id="p1385" end="5758.07s">The End</p>
+      <p begin="5779.02s" id="p1386" end="5782.86s">subtitles: serdar202, cinephage &amp; depositio @ KG</p>
+    </div>
+  </body>
+</tt>
