@@ -58,11 +58,15 @@ p {
 }
 
 @media print {  
+
   @page {
     size: 100mm 126.667mm;
     hyphens: auto;
 	-webkit-hyphens: auto;
   }
-
+  #dropfile{
+		display: none;
+	}
+  	
 }
 
