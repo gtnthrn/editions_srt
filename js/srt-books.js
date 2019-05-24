@@ -1,4 +1,21 @@
 
+
+// Load the xml file using ajax 
+    $.ajax({
+        url: 'xml-file/test.xml',
+        dataType: 'xml',
+        method: 'get',
+        success: function (xml) {
+                // Parse the xml file and get data
+            $(xml).find('body').each(function (){
+                $('#contenu').append($(this).html());
+            });
+        },
+        error: function (){
+            $('#contenu').text('failed to load your file');
+        }
+    });
+
 $(document).ajaxComplete(function(){ //wait ajax import is complete
 
     var beginFirst; //time at the first

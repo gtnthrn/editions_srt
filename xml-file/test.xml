@@ -1,0 +1,1841 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="82.632s" id="p0" end="84.601s">Look, mate, he ain't done nothing wrong.</p>
+      <p begin="84.633s" id="p1" end="85.78s">Out.</p>
+      <p begin="114.041s" id="p2" end="117.065s">Come on. You go stitching yourself up.</p>
+      <p begin="117.169s" id="p3" end="119.15s">Ladies and gentlemen, step up.</p>
+      <p begin="119.985s" id="p4" end="121.549s">Step up.</p>
+      <p begin="121.653s" id="p5" end="123.739s">I, Mercury, the messenger of the Gods,</p>
+      <p begin="123.843s" id="p6" end="126.554s">invite you... invite you, sir,</p>
+      <p begin="126.659s" id="p7" end="128.536s">tonight, for one night only,</p>
+      <p begin="128.64s" id="p8" end="132.394s">here, at this very venue, to enter into the mind,</p>
+      <p begin="132.498s" id="p9" end="134.48s">the very great mind...</p>
+      <p begin="135.731s" id="p10" end="137.817s">...of Doctor Parnassus.</p>
+      <p begin="137.921s" id="p11" end="140.007s">Doctor Parnassus!</p>
+      <p begin="147.202s" id="p12" end="150.226s">Yes, ladies and gentlemen,<br />Doctor Parnassus, as old...</p>
+      <p begin="150.331s" id="p13" end="151.791s">as old as time. Yes.</p>
+      <p begin="151.895s" id="p14" end="153.563s">He is over a thousand years old.</p>
+      <p begin="153.668s" id="p15" end="157.735s">He has the power<br />to empower your mind.</p>
+      <p begin="158.465s" id="p16" end="160.967s">Let Doctor Parnassus open your imagination.</p>
+      <p begin="161.072s" id="p17" end="163.366s">Let him... let him transport you.</p>
+      <p begin="165.347s" id="p18" end="168.267s">Oh, my God. Oh, check out the lights.</p>
+      <p begin="168.372s" id="p19" end="169.623s">Check out that.</p>
+      <p begin="169.727s" id="p20" end="172.751s">Transcend the heights on Beauty's wing.</p>
+      <p begin="172.856s" id="p21" end="173.898s">Whoa, whoa!</p>
+      <p begin="174.003s" id="p22" end="175.463s">Check this.</p>
+      <p begin="175.567s" id="p23" end="178.487s">Dave, Dave, haway.<br />Come on, we'll go get these sorted.</p>
+      <p begin="178.591s" id="p24" end="179.947s">Check this out, sweetheart.</p>
+      <p begin="180.051s" id="p25" end="181.72s">Come here, my love, near me.</p>
+      <p begin="181.824s" id="p26" end="183.597s">Come on, love ...</p>
+      <p begin="183.701s" id="p27" end="186.829s">Where is he, then? Come on.</p>
+      <p begin="194.963s" id="p28" end="196.215s">If you must...</p>
+      <p begin="196.319s" id="p29" end="199.239s">scour the squalid depths</p>
+      <p begin="199.343s" id="p30" end="201.742s">with Putrid's brother, Stench...</p>
+      <p begin="203.097s" id="p31" end="205.079s">Raaaa!</p>
+      <p begin="205.183s" id="p32" end="206.539s">Join the queue.</p>
+      <p begin="206.643s" id="p33" end="207.999s">Only five quid a go.</p>
+      <p begin="208.103s" id="p34" end="209.771s">Bang. Bang.</p>
+      <p begin="212.17s" id="p35" end="214.777s">You choose... you choose...<br />you choose fulfilment?</p>
+      <p begin="214.881s" id="p36" end="217.593s">- Whoa!<br />- Sir, please... Sir, please, if you will...</p>
+      <p begin="218.844s" id="p37" end="222.598s">- Whoa!<br />- Whoa!</p>
+      <p begin="222.702s" id="p38" end="226.457s">Sir, please, you cannot audition<br />without a ticket, I'm afraid, sir.</p>
+      <p begin="226.561s" id="p39" end="228.021s">- Give us a kiss.<br />- Please don't.</p>
+      <p begin="228.855s" id="p40" end="230.732s">- Hey...<br />- You all right down there, mate?</p>
+      <p begin="230.941s" id="p41" end="234.069s">- All right, Captain Planet?<br />- Get off the stage, you damn drunk.</p>
+      <p begin="234.173s" id="p42" end="236.051s">What are you doing, little man?</p>
+      <p begin="236.155s" id="p43" end="238.136s">He's got us by the leg.</p>
+      <p begin="241.16s" id="p44" end="242.62s">Ha-hey!</p>
+      <p begin="242.725s" id="p45" end="244.706s">Hey, man, check it out.<br />It's not even real.</p>
+      <p begin="244.81s" id="p46" end="245.749s">Hey!</p>
+      <p begin="245.853s" id="p47" end="247.0s">Get off the stage!</p>
+      <p begin="249.294s" id="p48" end="252.631s">- Mm, that's a nice pair of tits.<br />- I said, get off the stage!</p>
+      <p begin="252.736s" id="p49" end="253.987s">Nah.</p>
+      <p begin="254.091s" id="p50" end="256.907s">I want you, like. Come here, man.</p>
+      <p begin="257.741s" id="p51" end="259.931s">Come here, man.<br />Hey, hey, come here!</p>
+      <p begin="260.035s" id="p52" end="261.6s">Hey-hey!</p>
+      <p begin="265.458s" id="p53" end="267.022s">What are you running away for?</p>
+      <p begin="276.095s" id="p54" end="279.536s">- Yoo-hoo!<br />- There she is!</p>
+      <p begin="279.64s" id="p55" end="282.039s">Come here, gorgeous. Come here...</p>
+      <p begin="286.732s" id="p56" end="288.504s">Oh, shite.</p>
+      <p begin="288.609s" id="p57" end="289.964s">I'm coming after...</p>
+      <p begin="290.069s" id="p58" end="292.05s">I'm gonna feel your arse.</p>
+      <p begin="298.098s" id="p59" end="299.767s">Come here, gorgeous.</p>
+      <p begin="307.38s" id="p60" end="309.361s">Come back, you bitch!</p>
+      <p begin="319.685s" id="p61" end="321.353s">Me nose!</p>
+      <p begin="323.648s" id="p62" end="325.42s">Ohhh...</p>
+      <p begin="325.525s" id="p63" end="327.923s">Oh, my face!</p>
+      <p begin="328.027s" id="p64" end="330.009s">My face! My gorgeous face!</p>
+      <p begin="337.517s" id="p65" end="338.873s">Martin!</p>
+      <p begin="338.977s" id="p66" end="340.75s">He went with that cow!</p>
+      <p begin="340.854s" id="p67" end="343.253s">- I'll scratch her eyes out!<br />- Oi, you two.</p>
+      <p begin="344.295s" id="p68" end="346.277s">My boyfriend is in there!</p>
+      <p begin="346.381s" id="p69" end="348.362s">Anybody there?</p>
+      <p begin="352.429s" id="p70" end="353.889s">Anybody there?</p>
+      <p begin="353.994s" id="p71" end="357.331s">Please, is anybody there?</p>
+      <p begin="357.435s" id="p72" end="359.625s">Please! Please!</p>
+      <p begin="366.299s" id="p73" end="367.967s">Mum!</p>
+      <p begin="368.072s" id="p74" end="368.697s">Aaargh!</p>
+      <p begin="375.684s" id="p75" end="377.353s">Help me!</p>
+      <p begin="381.315s" id="p76" end="383.193s">Please...</p>
+      <p begin="383.297s" id="p77" end="385.174s">I'll never drink again. I promise.</p>
+      <p begin="386.53s" id="p78" end="388.094s">Honest.</p>
+      <p begin="389.449s" id="p79" end="391.327s">From now on, I swear, not a drop.</p>
+      <p begin="391.431s" id="p80" end="393.412s">Oh, really?</p>
+      <p begin="402.693s" id="p81" end="404.675s">Whoo!</p>
+      <p begin="428.66s" id="p82" end="430.745s"><span tts:fontStyle="italic">You have chosen well.</span></p>
+      <p begin="431.475s" id="p83" end="434.082s"><span tts:fontStyle="italic">The path to Parnassus is steep.</span></p>
+      <p begin="434.186s" id="p84" end="436.168s"><span tts:fontStyle="italic">The way is long.</span></p>
+      <p begin="436.272s" id="p85" end="437.941s"><span tts:fontStyle="italic">But with perseverance,</span></p>
+      <p begin="438.149s" id="p86" end="439.505s"><span tts:fontStyle="italic">and fierce dedication,</span></p>
+      <p begin="439.609s" id="p87" end="442.216s"><span tts:fontStyle="italic">the heights are attainable.</span></p>
+      <p begin="442.32s" id="p88" end="446.075s"><span tts:fontStyle="italic">So with spirits high</span><br /><span tts:fontStyle="italic">and a spring in your step,</span></p>
+      <p begin="446.179s" id="p89" end="447.326s"><span tts:fontStyle="italic">with a song in your heart,</span></p>
+      <p begin="447.43s" id="p90" end="448.89s"><span tts:fontStyle="italic">the clouds will part,</span></p>
+      <p begin="448.995s" id="p91" end="450.663s"><span tts:fontStyle="italic">the heavens will open</span></p>
+      <p begin="450.767s" id="p92" end="453.687s"><span tts:fontStyle="italic">and you will be a man, my son.</span></p>
+      <p begin="455.46s" id="p93" end="458.797s">Hi there. Come on in.</p>
+      <p begin="458.901s" id="p94" end="462.03s">Looks like you could use a drink.</p>
+      <p begin="464.845s" id="p95" end="466.723s">Maybe just one.</p>
+      <p begin="469.642s" id="p96" end="470.581s">Hey!</p>
+      <p begin="471.937s" id="p97" end="473.918s">Make mine a double!</p>
+      <p begin="476.942s" id="p98" end="478.819s">Oh!</p>
+      <p begin="481.009s" id="p99" end="482.991s">He won, I lost.</p>
+      <p begin="483.825s" id="p100" end="485.702s">I lost again.</p>
+      <p begin="487.37s" id="p101" end="489.352s">- What the hell you were doing?<br />- He was chasing me.</p>
+      <p begin="489.456s" id="p102" end="492.167s">- What was I supposed to...<br />- Don't go through the mirror.</p>
+      <p begin="492.272s" id="p103" end="495.087s">- Never. You know that.<br />- Oi, you!</p>
+      <p begin="496.234s" id="p104" end="497.486s">Gunga Din.</p>
+      <p begin="497.59s" id="p105" end="499.571s">Come here.</p>
+      <p begin="501.344s" id="p106" end="502.908s">What do you think you're playing at?</p>
+      <p begin="503.013s" id="p107" end="504.785s">Playing? Oh, no, no, no.</p>
+      <p begin="504.89s" id="p108" end="506.245s">We don't play.</p>
+      <p begin="506.35s" id="p109" end="508.54s">What we do is deadly serious.</p>
+      <p begin="511.877s" id="p110" end="513.337s">Gone.</p>
+      <p begin="513.441s" id="p111" end="515.735s">Will we miss him? I don't think so.</p>
+      <p begin="539.616s" id="p112" end="542.744s">Don't worry<br />if you don't understand it all immediately.</p>
+      <p begin="545.873s" id="p113" end="549.105s">Right, look,<br />I want you freaks out of here, now.</p>
+      <p begin="549.21s" id="p114" end="550.148s">Ow!</p>
+      <p begin="550.252s" id="p115" end="553.589s">Sorry, I didn't mean to use that word.<br />All right? Vertically deficient.</p>
+      <p begin="553.694s" id="p116" end="554.424s">Defunct?</p>
+      <p begin="554.528s" id="p117" end="555.467s">Vertically d...</p>
+      <p begin="555.571s" id="p118" end="557.656s">Vertically challenged. Vertically...</p>
+      <p begin="557.761s" id="p119" end="561.723s">Vertically challenged. Whatever you are,<br />get off of my beat or I will do you.</p>
+      <p begin="561.828s" id="p120" end="563.601s">- You included.<br />- D'accord. D'accord.</p>
+      <p begin="563.705s" id="p121" end="565.06s">- Who threw that?<br />- Bonne nuit.</p>
+      <p begin="565.165s" id="p122" end="566.52s">You're nicked.</p>
+      <p begin="574.759s" id="p123" end="577.053s">Take a ticket. Wait your turn.</p>
+      <p begin="577.157s" id="p124" end="578.721s">Only 20 quid a go.</p>
+      <p begin="578.826s" id="p125" end="580.39s">Reduced to five for one night only.</p>
+      <p begin="580.494s" id="p126" end="583.831s">Ladies and gentlemen,<br />this world, this world that we live in...</p>
+      <p begin="583.936s" id="p127" end="586.438s">is full of enchantment...</p>
+      <p begin="586.543s" id="p128" end="588.837s">for those with eyes to see it.</p>
+      <p begin="589.567s" id="p129" end="590.192s">Chicken!</p>
+      <p begin="592.278s" id="p130" end="594.364s">I want to go there, there and there.</p>
+      <p begin="594.468s" id="p131" end="596.554s">- I want something to eat.<br />- Stop going on.</p>
+      <p begin="596.658s" id="p132" end="598.326s">No. They won't let you, darling.</p>
+      <p begin="598.431s" id="p133" end="600.099s">But I want to, I want to.</p>
+      <p begin="600.204s" id="p134" end="601.872s">- Linda!<br />- You never let me...</p>
+      <p begin="601.976s" id="p135" end="604.062s">Excuse me. Excuse me.</p>
+      <p begin="605.001s" id="p136" end="607.19s">Do you mind?</p>
+      <p begin="610.11s" id="p137" end="610.736s">Anton.</p>
+      <p begin="610.945s" id="p138" end="612.717s">Anton, he went back there.</p>
+      <p begin="613.76s" id="p139" end="616.889s">- Just go and er...<br />- I'm going to go back. Ssh.</p>
+      <p begin="616.993s" id="p140" end="620.33s">Diego! Diego!</p>
+      <p begin="657.35s" id="p141" end="658.497s">Die.</p>
+      <p begin="658.914s" id="p142" end="660.374s">Die! Yes.</p>
+      <p begin="663.711s" id="p143" end="664.441s">Yes.</p>
+      <p begin="664.546s" id="p144" end="668.091s"><span tts:fontStyle="italic">Please exit the lmaginarium immediately.</span></p>
+      <p begin="668.195s" id="p145" end="671.637s"><span tts:fontStyle="italic">Choice is not available without parental consent.</span></p>
+      <p begin="671.741s" id="p146" end="673.618s">Die!</p>
+      <p begin="673.722s" id="p147" end="675.391s">Yeah!</p>
+      <p begin="678.832s" id="p148" end="683.525s">If one of you perverts has got our boy,<br />I won't be answerable for my actions.</p>
+      <p begin="683.629s" id="p149" end="685.402s">- Diego!<br />- Diego!</p>
+      <p begin="685.506s" id="p150" end="686.862s">Diego!</p>
+      <p begin="686.966s" id="p151" end="688.843s">Ah...</p>
+      <p begin="691.138s" id="p152" end="692.493s">W-What?</p>
+      <p begin="692.597s" id="p153" end="695.309s">- She's not looking for him.<br />- I don't care!</p>
+      <p begin="695.309s" id="p154" end="696.977s">Hello.</p>
+      <p begin="697.812s" id="p155" end="698.542s">Voila.</p>
+      <p begin="700.731s" id="p156" end="702.087s">- Yeah!<br />- Oh, it worked!</p>
+      <p begin="702.191s" id="p157" end="704.59s">Where have you been? I've been worried sick.</p>
+      <p begin="704.694s" id="p158" end="707.301s">One little devil out of the fire...</p>
+      <p begin="707.406s" id="p159" end="710.325s">Wipe that silly expression off your face,<br />you little poof. Get up.</p>
+      <p begin="710.43s" id="p160" end="713.35s">The astounding world of Doctor Parnassus.<br />Thank you.</p>
+      <p begin="715.122s" id="p161" end="716.269s">- Anton?<br />- Yes, sir.</p>
+      <p begin="716.374s" id="p162" end="720.649s">- You know the rules about the mirror?<br />- Yes, I do. I'm sorry, sir. I'm really...</p>
+      <p begin="720.754s" id="p163" end="722.526s">- He was a ten-year-old boy.<br />- I know.</p>
+      <p begin="722.631s" id="p164" end="724.403s">You did well, my boy. You did well.</p>
+      <p begin="724.508s" id="p165" end="726.489s">Good lad. Good lad.</p>
+      <p begin="727.323s" id="p166" end="728.888s">Thank you.</p>
+      <p begin="728.992s" id="p167" end="731.599s">- Good lad. Good lad.<br />- Thank you.</p>
+      <p begin="731.703s" id="p168" end="733.789s">You go through the mirror<br />and he's all over you.</p>
+      <p begin="733.893s" id="p169" end="736.083s">I do it once and he serves you<br />my head on a plate.</p>
+      <p begin="736.187s" id="p170" end="738.794s">Come on now, Valentina.<br />You're his daughter.</p>
+      <p begin="738.899s" id="p171" end="741.61s">Do you know what I mean?<br />And you're scrumptious...</p>
+      <p begin="741.714s" id="p172" end="744.113s">His scrumptious daughter.</p>
+      <p begin="744.217s" id="p173" end="746.198s">Why did I say "scrumptious"?</p>
+      <p begin="747.554s" id="p174" end="749.431s">Beautiful.</p>
+      <p begin="749.535s" id="p175" end="751.517s">Intelligent. Sweet.</p>
+      <p begin="751.621s" id="p176" end="753.498s">"Scrumptious"? Idiot!</p>
+      <p begin="783.74s" id="p177" end="785.513s">Hey, Parny.</p>
+      <p begin="789.788s" id="p178" end="790.935s">It's been a while.</p>
+      <p begin="791.04s" id="p179" end="792.917s">Whoa... Last call.</p>
+      <p begin="793.021s" id="p180" end="795.42s">- Hey, Anton.<br />- Yes, Percy?</p>
+      <p begin="795.524s" id="p181" end="798.652s">- What did I say?<br />- Stop Percying about.</p>
+      <p begin="798.757s" id="p182" end="800.634s">We don't have all night.</p>
+      <p begin="802.719s" id="p183" end="804.701s">Bloody kids again.</p>
+      <p begin="805.639s" id="p184" end="807.829s">- What's up, Doc?<br />- Hey!</p>
+      <p begin="808.768s" id="p185" end="811.27s">Don't we love our children?</p>
+      <p begin="813.252s" id="p186" end="815.129s">She's ripe as a peach.</p>
+      <p begin="815.233s" id="p187" end="817.423s">Sweet little 16.</p>
+      <p begin="817.527s" id="p188" end="819.404s">And all mine!</p>
+      <p begin="826.079s" id="p189" end="828.06s">He's come to collect.</p>
+      <p begin="828.998s" id="p190" end="830.875s">I thought so.</p>
+      <p begin="830.98s" id="p191" end="832.544s">He's early.</p>
+      <p begin="832.648s" id="p192" end="834.525s">What can I do?</p>
+      <p begin="835.464s" id="p193" end="837.132s">Nothing.</p>
+      <p begin="837.237s" id="p194" end="839.114s">There must be something.</p>
+      <p begin="840.887s" id="p195" end="842.659s">How many days left?</p>
+      <p begin="842.764s" id="p196" end="844.745s">Three.</p>
+      <p begin="848.499s" id="p197" end="851.106s">You know, you're gonna have to tell her soon.</p>
+      <p begin="861.847s" id="p198" end="867.687s"><span tts:fontStyle="italic">When the moon hits your eye</span><br /><span tts:fontStyle="italic">like a big pizza pie</span></p>
+      <p begin="867.791s" id="p199" end="869.564s"><span tts:fontStyle="italic">That's amore...</span></p>
+      <p begin="869.668s" id="p200" end="871.65s">Will you shut up about food?</p>
+      <p begin="871.754s" id="p201" end="874.361s">We're plum out. And I'm starving.</p>
+      <p begin="874.465s" id="p202" end="878.324s">Oh, Percy, we've still got<br />a couple of potatoes left.</p>
+      <p begin="883.434s" id="p203" end="886.249s">- Ooh, look at this.<br />- Hey, that's mine.</p>
+      <p begin="886.354s" id="p204" end="888.126s">Oh, won't you look at that? That is...</p>
+      <p begin="888.231s" id="p205" end="890.108s">- That's private!<br />- It's gorgeous.</p>
+      <p begin="890.212s" id="p206" end="892.923s">- Give it.<br />- All that mahogany, oh!</p>
+      <p begin="893.028s" id="p207" end="895.843s">Anton!</p>
+      <p begin="897.407s" id="p208" end="899.389s">Would you really be happy in a place like that?</p>
+      <p begin="899.493s" id="p209" end="900.64s">Would you?</p>
+      <p begin="900.744s" id="p210" end="903.039s">I wouldn't. I couldn't do it, I don't think.</p>
+      <p begin="904.082s" id="p211" end="906.063s">Well, maybe if I was with you.</p>
+      <p begin="910.234s" id="p212" end="911.694s">Ah-ah!</p>
+      <p begin="916.804s" id="p213" end="917.742s">Sssh.</p>
+      <p begin="917.847s" id="p214" end="920.662s">You're always talking about escaping,<br />aren't you?</p>
+      <p begin="921.392s" id="p215" end="924.417s">Always thinking about it.<br />Always dreaming about it.</p>
+      <p begin="927.858s" id="p216" end="929.005s">Let's do it.</p>
+      <p begin="929.943s" id="p217" end="932.551s">- Why not? You and me.<br />- I can't run away.</p>
+      <p begin="932.655s" id="p218" end="934.845s">- You and me.<br />- We can't run away. I can't.</p>
+      <p begin="935.992s" id="p219" end="937.765s">I'm underage.</p>
+      <p begin="937.869s" id="p220" end="939.746s">Oh, don't do that.</p>
+      <p begin="940.58s" id="p221" end="942.77s">I shall be 12 on Wednesday.</p>
+      <p begin="942.874s" id="p222" end="943.917s">Don't be ridiculous.</p>
+      <p begin="944.022s" id="p223" end="946.733s">Percy, how old will I be on Wednesday?</p>
+      <p begin="946.837s" id="p224" end="947.567s">12.</p>
+      <p begin="947.671s" id="p225" end="949.444s">Ha! See?</p>
+      <p begin="949.548s" id="p226" end="951.008s">Parnassus says so too.</p>
+      <p begin="951.113s" id="p227" end="954.137s">- Are you trying to say he's ridiculous?<br />- No.</p>
+      <p begin="955.805s" id="p228" end="957.578s">Actually,</p>
+      <p begin="958.308s" id="p229" end="960.29s">I'm really going to be 16.</p>
+      <p begin="962.375s" id="p230" end="964.357s">Sweet 16.</p>
+      <p begin="966.546s" id="p231" end="968.736s">The age of consent.</p>
+      <p begin="979.477s" id="p232" end="981.459s">Is that you, Scrumpy?</p>
+      <p begin="981.563s" id="p233" end="983.649s">Who the hell else is it gonna be?</p>
+      <p begin="984.587s" id="p234" end="986.673s">Oi, you haven't eaten any of this!</p>
+      <p begin="986.777s" id="p235" end="988.863s">- Yes, I know, I know.<br />- And that again?</p>
+      <p begin="988.967s" id="p236" end="991.261s">For God's sakes, Dad! Put 'em up.</p>
+      <p begin="991.366s" id="p237" end="994.077s">Come on. You're always taking<br />the easy way out.</p>
+      <p begin="994.181s" id="p238" end="996.163s">No, no. Not now, Scrumpy. Not now.</p>
+      <p begin="997.727s" id="p239" end="1001.168s">I have something very important<br />that I have to tell you.</p>
+      <p begin="1002.315s" id="p240" end="1004.714s">Oh, why does everybody<br />want to live forever?</p>
+      <p begin="1004.818s" id="p241" end="1006.695s">Immortality is a bloody curse.</p>
+      <p begin="1006.799s" id="p242" end="1009.719s">So is pretending to be a 12-year-old child,<br />damn it.</p>
+      <p begin="1009.824s" id="p243" end="1011.492s">Look at me. I mean...</p>
+      <p begin="1012.222s" id="p244" end="1014.099s">Look at me. Nobody's fooled.</p>
+      <p begin="1014.203s" id="p245" end="1017.645s">And I want this stupid thing off my ankle too,<br />while we're at it.</p>
+      <p begin="1017.749s" id="p246" end="1020.565s">You can't stop me growing up<br />just by lying about my birthday.</p>
+      <p begin="1020.669s" id="p247" end="1022.859s">Shut up and listen to me!</p>
+      <p begin="1022.963s" id="p248" end="1026.092s">I have to explain something to you<br />before it's too late.</p>
+      <p begin="1026.926s" id="p249" end="1028.907s">One winter night...</p>
+      <p begin="1029.011s" id="p250" end="1032.244s">- Is this gonna take long?<br />- Yes, yes, yes, quite possibly.</p>
+      <p begin="1032.348s" id="p251" end="1033.391s">Many years ago...</p>
+      <p begin="1033.496s" id="p252" end="1036.937s">Er... many centuries ago, in fact,</p>
+      <p begin="1037.771s" id="p253" end="1041.838s">when I was believe it or not<br />a young monk,</p>
+      <p begin="1043.611s" id="p254" end="1045.801s">someone visited me in my sanctuary,</p>
+      <p begin="1047.365s" id="p255" end="1050.494s">someone I had hoped never to meet.</p>
+      <p begin="1051.745s" id="p256" end="1053.101s">Someone...</p>
+      <p begin="1054.352s" id="p257" end="1057.793s">...none of us should ever hope to meet.</p>
+      <p begin="1101.8s" id="p258" end="1103.677s">Having captured the wind,</p>
+      <p begin="1103.782s" id="p259" end="1105.763s">tamed the storm,</p>
+      <p begin="1105.867s" id="p260" end="1109.413s">kept the stars in their orbits<br />and the earth turning on its axis,</p>
+      <p begin="1110.873s" id="p261" end="1113.897s">the Chief Steward,<br />lying down to take his rest,</p>
+      <p begin="1114.94s" id="p262" end="1116.817s">had a most disturbing dream.</p>
+      <p begin="1119.424s" id="p263" end="1124.221s">He dreamt that a hooded rider<br />was fast approaching on the snowswept plain.</p>
+      <p begin="1125.368s" id="p264" end="1127.349s">The Chief Steward woke.</p>
+      <p begin="1153.211s" id="p265" end="1156.027s">And so the Steward set out<br />on his great journey...</p>
+      <p begin="1156.131s" id="p266" end="1160.094s">- What exactly do you all do here?<br />- We tell the eternal story.</p>
+      <p begin="1161.137s" id="p267" end="1163.014s">And what is that, exactly?</p>
+      <p begin="1163.744s" id="p268" end="1165.829s">The story that sustains the universe.</p>
+      <p begin="1167.498s" id="p269" end="1169.792s">The story without which there is nothing.</p>
+      <p begin="1173.338s" id="p270" end="1174.485s">Nothing?</p>
+      <p begin="1175.841s" id="p271" end="1177.613s">You mean...</p>
+      <p begin="1177.718s" id="p272" end="1181.993s">stop telling the story<br />and the whole universe ceases to exist?</p>
+      <p begin="1182.098s" id="p273" end="1183.975s">You make it sound so simple.</p>
+      <p begin="1186.165s" id="p274" end="1187.52s">And you believe it?</p>
+      <p begin="1188.459s" id="p275" end="1190.336s">We are ordained for this task.</p>
+      <p begin="1190.44s" id="p276" end="1192.63s">It's just incredible to me,</p>
+      <p begin="1192.734s" id="p277" end="1196.384s">that you can believe something<br />that can be so easily disproved.</p>
+      <p begin="1196.488s" id="p278" end="1198.47s">Oh, I don't think so.</p>
+      <p begin="1199.095s" id="p279" end="1200.243s">Hm.</p>
+      <p begin="1201.285s" id="p280" end="1203.058s">We'll see.</p>
+      <p begin="1203.162s" id="p281" end="1205.352s">- I will gather a thousand...<br />- So.</p>
+      <p begin="1210.358s" id="p282" end="1211.401s">Stop!</p>
+      <p begin="1211.505s" id="p283" end="1214.529s">...having been brought to the limit<br />of his endurance...</p>
+      <p begin="1215.989s" id="p284" end="1218.805s">Yet the forces of evil could not prevail...</p>
+      <p begin="1222.35s" id="p285" end="1224.227s">...our calmness of...</p>
+      <p begin="1227.982s" id="p286" end="1228.92s">There.</p>
+      <p begin="1229.65s" id="p287" end="1231.319s">The story stopped.</p>
+      <p begin="1232.153s" id="p288" end="1233.926s">No more story.</p>
+      <p begin="1234.03s" id="p289" end="1235.907s">But we're still here.</p>
+      <p begin="1236.741s" id="p290" end="1238.723s">The fire's still burning.</p>
+      <p begin="1239.765s" id="p291" end="1242.373s">It's still snowing. The wind's still blowing.</p>
+      <p begin="1244.458s" id="p292" end="1246.44s">Nothing has changed.</p>
+      <p begin="1248.004s" id="p293" end="1250.298s">Come on, cheer up, Doc.</p>
+      <p begin="1250.402s" id="p294" end="1253.218s">I've freed you from<br />all this ridiculous nonsense.</p>
+      <p begin="1254.886s" id="p295" end="1257.076s">Now you can do other things with your powers.</p>
+      <p begin="1257.181s" id="p296" end="1258.745s">You can erm...</p>
+      <p begin="1258.849s" id="p297" end="1260.83s">I dunno, you can go shopping.</p>
+      <p begin="1261.56s" id="p298" end="1263.125s">Have fun.</p>
+      <p begin="1264.167s" id="p299" end="1268.443s">You can learn a foreign language or...<br />or go on a cruise.</p>
+      <p begin="1275.013s" id="p300" end="1275.951s">God!</p>
+      <p begin="1276.056s" id="p301" end="1277.62s">Damn it!</p>
+      <p begin="1280.018s" id="p302" end="1281.895s">A sign, a message.</p>
+      <p begin="1283.877s" id="p303" end="1285.337s">That bird was a messenger...</p>
+      <p begin="1286.171s" id="p304" end="1289.091s">from some distant place<br />that we know nothing of.</p>
+      <p begin="1290.968s" id="p305" end="1292.949s">Oh, I see it all now,</p>
+      <p begin="1293.888s" id="p306" end="1295.765s">so clear.</p>
+      <p begin="1296.599s" id="p307" end="1298.893s">This has nothing to do with us here.</p>
+      <p begin="1298.998s" id="p308" end="1302.23s">Somewhere in this world, right now,</p>
+      <p begin="1302.335s" id="p309" end="1304.837s">someone else is telling a story.</p>
+      <p begin="1304.942s" id="p310" end="1307.757s">A different story a saga or romance,</p>
+      <p begin="1307.862s" id="p311" end="1311.303s">a tale of unforeseen death it doesn't matter.</p>
+      <p begin="1311.407s" id="p312" end="1313.284s">It's sustaining the universe.</p>
+      <p begin="1315.161s" id="p313" end="1317.143s">That's why we're still here.</p>
+      <p begin="1319.124s" id="p314" end="1321.105s">You can't stop stories being told.</p>
+      <p begin="1322.253s" id="p315" end="1324.234s">That's a weak hypothesis.</p>
+      <p begin="1324.338s" id="p316" end="1326.32s">I don't think so.</p>
+      <p begin="1328.718s" id="p317" end="1332.159s">Say, you're probably not a betting man,<br />are you?</p>
+      <p begin="1332.264s" id="p318" end="1334.036s">What?</p>
+      <p begin="1334.766s" id="p319" end="1337.582s">And that was my first wager with the Devil.</p>
+      <p begin="1341.441s" id="p320" end="1343.422s">You see, the very first of us to...</p>
+      <p begin="1344.465s" id="p321" end="1348.323s">...attract 12 disciples would win the bet.</p>
+      <p begin="1348.427s" id="p322" end="1350.409s">His argument:</p>
+      <p begin="1350.513s" id="p323" end="1354.476s">The necessities of danger, of fear,<br />of the fabled bliss of ignorance.</p>
+      <p begin="1355.101s" id="p324" end="1356.666s">Mine:</p>
+      <p begin="1356.77s" id="p325" end="1360.628s">The power of the imagination<br />to transform and illuminate our lives.</p>
+      <p begin="1362.714s" id="p326" end="1365.321s">It was a hard fight but I won.</p>
+      <p begin="1367.511s" id="p327" end="1368.971s">My prize?</p>
+      <p begin="1369.075s" id="p328" end="1373.247s">The one thing I coveted most<br />everlasting life.</p>
+      <p begin="1374.811s" id="p329" end="1376.166s">Huh.</p>
+      <p begin="1376.271s" id="p330" end="1378.252s">Everlasting torment.</p>
+      <p begin="1380.651s" id="p331" end="1382.945s">He tricked me. He let me win.</p>
+      <p begin="1385.448s" id="p332" end="1387.429s">He knew that times would change.</p>
+      <p begin="1388.785s" id="p333" end="1391.913s">And that one day,<br />no-one would want my stories.</p>
+      <p begin="1393.477s" id="p334" end="1395.354s"><span tts:fontStyle="italic">This was the price of my arrogance.</span></p>
+      <p begin="1397.857s" id="p335" end="1400.777s"><span tts:fontStyle="italic">Forgotten, lost, alone.</span></p>
+      <p begin="1402.133s" id="p336" end="1403.593s"><span tts:fontStyle="italic">Desperate.</span></p>
+      <p begin="1407.555s" id="p337" end="1409.12s">We've stopped.</p>
+      <p begin="1409.224s" id="p338" end="1411.205s">Go on with your story.</p>
+      <p begin="1411.309s" id="p339" end="1413.082s">No, another time.</p>
+      <p begin="1413.187s" id="p340" end="1415.585s">Something's happened.<br />You'd better go and see.</p>
+      <p begin="1415.689s" id="p341" end="1419.965s">Why do you always do this?<br />You always stop in the middle of your stories.</p>
+      <p begin="1434.043s" id="p342" end="1436.546s">Valentina, come here.<br />Valentina, come here.</p>
+      <p begin="1436.65s" id="p343" end="1439.466s">I just saw someone...<br />someone dancing on the water.</p>
+      <p begin="1441.343s" id="p344" end="1442.907s">I swear. I swear.</p>
+      <p begin="1443.741s" id="p345" end="1446.557s">When the lightning flashed,<br />there was a shadow...</p>
+      <p begin="1447.183s" id="p346" end="1449.268s">...thrown from those pillars over there.</p>
+      <p begin="1449.372s" id="p347" end="1451.771s">Do you see that?<br />Do you see the dancer?</p>
+      <p begin="1451.875s" id="p348" end="1455.212s">- Yeah, he's river dancing.<br />- Yeah, he's river dancing. See that?</p>
+      <p begin="1456.046s" id="p349" end="1458.028s">That's someone hanging!</p>
+      <p begin="1458.862s" id="p350" end="1460.843s">He must be under this bridge.</p>
+      <p begin="1460.948s" id="p351" end="1462.616s">Hanging?</p>
+      <p begin="1462.721s" id="p352" end="1464.18s">Get a rope.</p>
+      <p begin="1464.285s" id="p353" end="1466.683s">If he's hanging by his neck,<br />he's already got a rope.</p>
+      <p begin="1466.788s" id="p354" end="1467.935s">- Get a rope!<br />- OK.</p>
+      <p begin="1468.873s" id="p355" end="1471.793s">Slowly, slowly, slowly, slowly!<br />Percy, Percy! Christ!</p>
+      <p begin="1475.547s" id="p356" end="1477.32s">All right, all right.</p>
+      <p begin="1477.424s" id="p357" end="1479.927s">OK, lower, lower, lower. All right.</p>
+      <p begin="1480.761s" id="p358" end="1482.013s">Stop, stop!</p>
+      <p begin="1482.117s" id="p359" end="1483.994s">Jesus. Agh. All right. OK.</p>
+      <p begin="1484.098s" id="p360" end="1485.871s">OK. OK.</p>
+      <p begin="1485.975s" id="p361" end="1487.123s">OK.</p>
+      <p begin="1487.227s" id="p362" end="1488.895s">No, I can't... I can't reach him.</p>
+      <p begin="1489.0s" id="p363" end="1490.981s">Hold on, I'll swing you.</p>
+      <p begin="1492.65s" id="p364" end="1494.631s">I'm gonna swing you in.</p>
+      <p begin="1495.361s" id="p365" end="1497.342s">All right, try again.</p>
+      <p begin="1499.324s" id="p366" end="1500.888s">Whoaagh!</p>
+      <p begin="1504.121s" id="p367" end="1506.102s">Again, up.</p>
+      <p begin="1508.5s" id="p368" end="1509.126s">Yes.</p>
+      <p begin="1514.966s" id="p369" end="1516.217s">I've got him.</p>
+      <p begin="1516.322s" id="p370" end="1518.407s">Oh, my God, what am I doing? Oh, my God!</p>
+      <p begin="1519.45s" id="p371" end="1521.431s">Sir, are you all right?</p>
+      <p begin="1521.536s" id="p372" end="1523.413s">OK, I've got you here.</p>
+      <p begin="1524.143s" id="p373" end="1525.498s">Get in there.</p>
+      <p begin="1525.603s" id="p374" end="1528.627s">OK, put your arms round me.<br />Put your arms round me. Oh, jeez!</p>
+      <p begin="1528.731s" id="p375" end="1529.982s">OK.</p>
+      <p begin="1530.087s" id="p376" end="1531.755s">All right.</p>
+      <p begin="1533.32s" id="p377" end="1535.197s">Come on. Stay with me, mate.</p>
+      <p begin="1535.301s" id="p378" end="1537.178s">Aarrghh!</p>
+      <p begin="1538.012s" id="p379" end="1539.785s">You've done it. Brilliant!</p>
+      <p begin="1539.889s" id="p380" end="1541.975s">- OK, pull him up.<br />- Pull me up!</p>
+      <p begin="1542.079s" id="p381" end="1543.748s">Jesus Christ!</p>
+      <p begin="1560.433s" id="p382" end="1562.206s">Whoagh!</p>
+      <p begin="1562.936s" id="p383" end="1564.917s">- Are you OK?<br />- Oh, God!</p>
+      <p begin="1569.61s" id="p384" end="1572.425s">Why are you fishing dead people<br />out of the river?</p>
+      <p begin="1572.53s" id="p385" end="1574.511s">Leave him be, for the love of God!</p>
+      <p begin="1574.615s" id="p386" end="1575.762s">He's dead!</p>
+      <p begin="1575.867s" id="p387" end="1579.516s">Let's get the hell out of here<br />before the fuzz turns up.</p>
+      <p begin="1581.081s" id="p388" end="1583.062s">Anton, help me.</p>
+      <p begin="1584.105s" id="p389" end="1587.338s">- Help her.<br />- All right, I've got him.</p>
+      <p begin="1587.442s" id="p390" end="1589.11s">Watch your head.</p>
+      <p begin="1589.215s" id="p391" end="1591.196s">Pull him this way.</p>
+      <p begin="1594.846s" id="p392" end="1596.827s">No, no, no, Val. It's not gonna work.</p>
+      <p begin="1596.932s" id="p393" end="1598.809s">It's not gonna work. Watch out.</p>
+      <p begin="1598.913s" id="p394" end="1600.999s">You don't know where he's been, anyway.</p>
+      <p begin="1601.103s" id="p395" end="1603.084s">Ready? All clear?</p>
+      <p begin="1604.231s" id="p396" end="1605.066s">Ohh!</p>
+      <p begin="1606.213s" id="p397" end="1607.464s">Oh!</p>
+      <p begin="1607.568s" id="p398" end="1609.55s">- He's alive!<br />- He was.</p>
+      <p begin="1614.451s" id="p399" end="1616.432s">What on earth is that?</p>
+      <p begin="1617.371s" id="p400" end="1619.352s">- We'll put him in the trunk.<br />- But...</p>
+      <p begin="1619.456s" id="p401" end="1621.334s">- What?<br />- The boss said leave him.</p>
+      <p begin="1621.438s" id="p402" end="1623.315s">He thought he was dead. Come on.</p>
+      <p begin="1633.013s" id="p403" end="1634.995s">No, no, no. I don't like this.</p>
+      <p begin="1635.099s" id="p404" end="1637.497s">This just doesn't...<br />It's none of our business.</p>
+      <p begin="1637.602s" id="p405" end="1640.626s">What do you suggest, that we leave<br />him on the side of the road?</p>
+      <p begin="1640.73s" id="p406" end="1642.711s">Definitely. Let's go.</p>
+      <p begin="1642.816s" id="p407" end="1644.171s">All right.</p>
+      <p begin="1644.276s" id="p408" end="1646.257s">Careful.</p>
+      <p begin="1646.361s" id="p409" end="1648.343s">- Anton, come on!<br />- Percy!</p>
+      <p begin="1648.447s" id="p410" end="1650.428s">Percy, you dropped these.</p>
+      <p begin="1651.471s" id="p411" end="1652.827s">Giddy up!</p>
+      <p begin="1652.931s" id="p412" end="1654.912s">Val! Val, come on!</p>
+      <p begin="1655.747s" id="p413" end="1657.728s">Jump up.</p>
+      <p begin="1711.225s" id="p414" end="1712.685s">Hey, you!</p>
+      <p begin="1712.789s" id="p415" end="1715.813s">I suppose somebody saves your life<br />every day of the week.</p>
+      <p begin="1715.917s" id="p416" end="1717.482s">What?</p>
+      <p begin="1717.586s" id="p417" end="1719.984s">Is it too much of a bother for a mere thank you?</p>
+      <p begin="1720.819s" id="p418" end="1722.696s">Who are you?</p>
+      <p begin="1722.8s" id="p419" end="1727.701s">Percival St Antoine della Touraine<br />et Sansepolcro da Piemonte III.</p>
+      <p begin="1728.431s" id="p420" end="1731.768s">And if that seems too difficult,<br />you can call me Percy.</p>
+      <p begin="1731.873s" id="p421" end="1733.333s">Where the hell are we?</p>
+      <p begin="1733.437s" id="p422" end="1737.921s">Geographically speaking, in the northern hemisphere,<br />socially, on the margins,</p>
+      <p begin="1738.025s" id="p423" end="1740.007s">and narratively, with some way to go.</p>
+      <p begin="1740.945s" id="p424" end="1742.614s">And your name is?</p>
+      <p begin="1742.718s" id="p425" end="1744.282s">Uh...</p>
+      <p begin="1746.368s" id="p426" end="1748.036s">I can't remember.</p>
+      <p begin="1748.141s" id="p427" end="1749.913s">That's frigging handy!</p>
+      <p begin="1750.018s" id="p428" end="1751.999s">Any credit cards?</p>
+      <p begin="1752.103s" id="p429" end="1753.772s">Are you trying to rob me?</p>
+      <p begin="1753.876s" id="p430" end="1755.44s">What are you doing?</p>
+      <p begin="1755.545s" id="p431" end="1757.526s">With your name on them.</p>
+      <p begin="1757.63s" id="p432" end="1759.612s">Oh, right, er...</p>
+      <p begin="1760.654s" id="p433" end="1763.47s">Where's my wallet? Where's my phone?<br />What have you done with it?</p>
+      <p begin="1763.574s" id="p434" end="1765.556s">- Don't look at us.<br />- Who are you?</p>
+      <p begin="1765.66s" id="p435" end="1767.85s">He doesn't remember.</p>
+      <p begin="1767.954s" id="p436" end="1772.751s">Listen, er... whoever you people are,<br />and whatever it is you get up to,</p>
+      <p begin="1773.585s" id="p437" end="1775.15s">I'm cool with it.</p>
+      <p begin="1775.254s" id="p438" end="1777.444s">I won't tell anyone about it and er...</p>
+      <p begin="1778.278s" id="p439" end="1780.155s">I'm gonna go now, all right?</p>
+      <p begin="1790.896s" id="p440" end="1793.086s">It's probably for you.</p>
+      <p begin="1794.963s" id="p441" end="1796.319s">Oh.</p>
+      <p begin="1796.945s" id="p442" end="1798.926s">Here's my phone.</p>
+      <p begin="1799.03s" id="p443" end="1800.699s"><span tts:fontStyle="italic">There you are.</span></p>
+      <p begin="1801.324s" id="p444" end="1803.306s">What are you doing?<br />What are you doing?</p>
+      <p begin="1812.378s" id="p445" end="1813.734s">Pity.</p>
+      <p begin="1813.838s" id="p446" end="1815.403s">I speak Russian.</p>
+      <p begin="1817.384s" id="p447" end="1819.052s">Oh, hello.</p>
+      <p begin="1819.887s" id="p448" end="1821.764s">Are you all right?</p>
+      <p begin="1822.911s" id="p449" end="1824.579s">Yeah.</p>
+      <p begin="1824.684s" id="p450" end="1826.665s">Yeah, it's just I feel...</p>
+      <p begin="1826.769s" id="p451" end="1830.106s">I think I need a place to gather<br />my thoughts for a little bit.</p>
+      <p begin="1830.211s" id="p452" end="1831.879s">Sorry, mate. Sorry, mate.</p>
+      <p begin="1831.983s" id="p453" end="1833.965s">Thank you for that but you can't stay.</p>
+      <p begin="1834.069s" id="p454" end="1835.425s">Why not?</p>
+      <p begin="1835.529s" id="p455" end="1837.406s">What do you mean? Look at him.</p>
+      <p begin="1837.51s" id="p456" end="1839.492s">We... We don't know who he is.</p>
+      <p begin="1839.596s" id="p457" end="1841.264s">We don't know what he's done.</p>
+      <p begin="1841.369s" id="p458" end="1843.559s">Listen, I haven't done anything, mate.</p>
+      <p begin="1843.663s" id="p459" end="1845.227s">- All right?<br />- Oh, right.</p>
+      <p begin="1845.331s" id="p460" end="1849.294s">I understand where you're coming from,<br />but understand where I'm coming from.</p>
+      <p begin="1849.398s" id="p461" end="1852.527s">I don't know my name.<br />You know, I don't know how I got here.</p>
+      <p begin="1852.631s" id="p462" end="1856.802s">I don't know who you are or who she is,<br />and I certainly don't know what that is.</p>
+      <p begin="1856.907s" id="p463" end="1858.367s">You know?</p>
+      <p begin="1858.471s" id="p464" end="1861.495s">The last thing I remember<br />is being whacked in the head,</p>
+      <p begin="1861.599s" id="p465" end="1865.771s">waking up in that box, in the back of this...<br />whatever the hell this thing is.</p>
+      <p begin="1865.875s" id="p466" end="1867.752s">And I just... I just...</p>
+      <p begin="1881.413s" id="p467" end="1883.603s">Oh, my head!</p>
+      <p begin="1887.774s" id="p468" end="1889.443s">What the hell's going on here?</p>
+      <p begin="1891.216s" id="p469" end="1893.197s">I told you to leave him. He was dead.</p>
+      <p begin="1893.301s" id="p470" end="1895.074s">Well, he isn't and we didn't.</p>
+      <p begin="1895.178s" id="p471" end="1897.472s">We found him hanging<br />under the bridge, sir.</p>
+      <p begin="1897.577s" id="p472" end="1899.141s">- Hanging?<br />- Yeah.</p>
+      <p begin="1899.245s" id="p473" end="1902.374s">By his neck till dead, if we had any sense.</p>
+      <p begin="1902.478s" id="p474" end="1904.772s">We found these in his pockets. Two of these.</p>
+      <p begin="1908.214s" id="p475" end="1910.195s">The Hanged Man.</p>
+      <p begin="1911.133s" id="p476" end="1913.219s">Scrumpy, get out of my way.</p>
+      <p begin="1917.078s" id="p477" end="1917.912s">No.</p>
+      <p begin="1918.016s" id="p478" end="1919.997s">Signs are all clear.</p>
+      <p begin="1921.457s" id="p479" end="1923.439s">And those marks!</p>
+      <p begin="1923.543s" id="p480" end="1925.733s">- I recognise them.<br />- What marks?</p>
+      <p begin="1925.837s" id="p481" end="1928.757s">You've been sent by Mr Nick, haven't you?</p>
+      <p begin="1928.861s" id="p482" end="1931.781s">- Mr Nick?<br />- I knew it. You know his name.</p>
+      <p begin="1931.886s" id="p483" end="1932.616s">No.</p>
+      <p begin="1932.72s" id="p484" end="1935.014s">He's got a proposition for me, hasn't he?</p>
+      <p begin="1935.118s" id="p485" end="1936.995s">A new wager, perhaps,</p>
+      <p begin="1938.038s" id="p486" end="1939.915s">or another twist in the game?</p>
+      <p begin="1940.02s" id="p487" end="1942.21s">He can't help himself, can he?</p>
+      <p begin="1943.148s" id="p488" end="1945.755s">Thank God! Thank God for that!</p>
+      <p begin="1951.386s" id="p489" end="1953.472s">Dad says you should work.</p>
+      <p begin="1953.576s" id="p490" end="1955.558s">Help focus your mind.</p>
+      <p begin="1955.662s" id="p491" end="1958.269s">I don't know,<br />it might bring your memory back.</p>
+      <p begin="1958.373s" id="p492" end="1961.293s">Ah, here we are. Try this.</p>
+      <p begin="1961.397s" id="p493" end="1963.066s">Thanks.</p>
+      <p begin="1971.096s" id="p494" end="1972.973s">You can help out front.</p>
+      <p begin="1973.077s" id="p495" end="1975.371s">Sell tickets or something like that.</p>
+      <p begin="1977.457s" id="p496" end="1979.125s">What do you think?</p>
+      <p begin="1979.23s" id="p497" end="1980.585s">Hm?</p>
+      <p begin="1982.358s" id="p498" end="1983.818s">OK.</p>
+      <p begin="1987.572s" id="p499" end="1989.554s">So... no name</p>
+      <p begin="1989.658s" id="p500" end="1991.535s">and now no face?</p>
+      <p begin="1992.369s" id="p501" end="1994.142s">The mystery thickens.</p>
+      <p begin="1994.246s" id="p502" end="1996.228s">Get your grubby hands...</p>
+      <p begin="1997.688s" id="p503" end="1999.565s">All right. That's not necessary.</p>
+      <p begin="1999.669s" id="p504" end="2002.067s">- Valentina, we got a problem.<br />- So strange.</p>
+      <p begin="2002.172s" id="p505" end="2004.049s">Just a complete blank, you know.</p>
+      <p begin="2004.153s" id="p506" end="2006.343s">I can dress myself.</p>
+      <p begin="2006.447s" id="p507" end="2008.324s">Let me go, I said!</p>
+      <p begin="2009.576s" id="p508" end="2010.931s">Let me go!</p>
+      <p begin="2015.624s" id="p509" end="2018.127s">Ow. Hey, come on.</p>
+      <p begin="2018.231s" id="p510" end="2020.212s">Doctor.</p>
+      <p begin="2021.881s" id="p511" end="2023.758s">Oh, God, he's gonna be sick.</p>
+      <p begin="2025.009s" id="p512" end="2025.844s">Aha!</p>
+      <p begin="2025.948s" id="p513" end="2028.138s">Is your memory less impaired?</p>
+      <p begin="2028.242s" id="p514" end="2030.119s">Is it all coming back to you now?</p>
+      <p begin="2030.224s" id="p515" end="2031.684s">What?</p>
+      <p begin="2032.518s" id="p516" end="2035.646s">Ah, you're bloody useless.<br />You're a flaming disaster.</p>
+      <p begin="2035.751s" id="p517" end="2037.628s">You can't go on. You're drunk.</p>
+      <p begin="2037.732s" id="p518" end="2040.86s">I'm not drunk! I'm grumpy... Scrumpy.</p>
+      <p begin="2044.093s" id="p519" end="2045.449s">Er...</p>
+      <p begin="2048.681s" id="p520" end="2050.871s">L-L-Ladies and gentlemen,</p>
+      <p begin="2050.976s" id="p521" end="2052.957s">raise your sights for one night only.</p>
+      <p begin="2053.061s" id="p522" end="2054.73s">Encounter...</p>
+      <p begin="2054.834s" id="p523" end="2056.711s">Percy, where's George gone?</p>
+      <p begin="2056.815s" id="p524" end="2060.048s">...the majesty, the beauty,<br />the miracle that's in each...</p>
+      <p begin="2060.153s" id="p525" end="2062.968s">Anton, where's George?</p>
+      <p begin="2063.072s" id="p526" end="2065.575s">Who... Who's George?</p>
+      <p begin="2065.679s" id="p527" end="2067.661s">I thought we should give him a name.</p>
+      <p begin="2068.704s" id="p528" end="2070.581s">All right, that's cute.</p>
+      <p begin="2070.685s" id="p529" end="2075.273s">Saint George, in fact. To be precise.<br />Well, hello there, darling.</p>
+      <p begin="2075.378s" id="p530" end="2078.923s">Oh, that's a lovely scarf.<br />It matches those lovely eyes of yours.</p>
+      <p begin="2079.966s" id="p531" end="2083.199s">Well, actually, I'm here to sell a show.<br />Want to see a magic show?</p>
+      <p begin="2083.303s" id="p532" end="2085.389s">Thank God for that. Not a single customer.</p>
+      <p begin="2085.493s" id="p533" end="2087.37s">- I'm closing up.<br />- Let's do that.</p>
+      <p begin="2087.474s" id="p534" end="2089.977s">He's never not done a show before.</p>
+      <p begin="2094.148s" id="p535" end="2096.026s">- All right.<br />- N-n-n-no.</p>
+      <p begin="2096.13s" id="p536" end="2098.111s">No, what are you doing?</p>
+      <p begin="2098.215s" id="p537" end="2100.718s">I'm doing my job, mate.<br />Now, come on, do yours.</p>
+      <p begin="2100.823s" id="p538" end="2104.577s">Do yours. Go juggle.<br />You're doing your thing, you look beautiful.</p>
+      <p begin="2104.681s" id="p539" end="2107.184s">OK. Ladies and...</p>
+      <p begin="2107.288s" id="p540" end="2108.852s">Well, ladies.</p>
+      <p begin="2108.957s" id="p541" end="2114.275s">I am very proud to present to you<br />the one, the only, the extraordinary...</p>
+      <p begin="2114.379s" id="p542" end="2116.361s">Doctor Parnassus.</p>
+      <p begin="2116.465s" id="p543" end="2120.428s"><span tts:fontStyle="italic">I'm a little teapot short and stout</span></p>
+      <p begin="2120.532s" id="p544" end="2123.452s"><span tts:fontStyle="italic">Here's my handle and here's my spout...</span></p>
+      <p begin="2123.556s" id="p545" end="2125.537s">Urgh!</p>
+      <p begin="2126.163s" id="p546" end="2127.727s">Dad?</p>
+      <p begin="2127.832s" id="p547" end="2129.709s">This man is drunk!</p>
+      <p begin="2129.813s" id="p548" end="2132.003s">- Dead drunk!<br />- Oh, that's disgraceful!</p>
+      <p begin="2132.107s" id="p549" end="2134.297s">- He's not drunk.<br />- No, he's not. He's...</p>
+      <p begin="2134.401s" id="p550" end="2136.383s">- Got a bad cold.<br />- And you know what?</p>
+      <p begin="2136.487s" id="p551" end="2139.72s">Despite that, he still went on,<br />for his audience, for you...</p>
+      <p begin="2139.824s" id="p552" end="2142.848s">at considerable risk for his health.</p>
+      <p begin="2142.952s" id="p553" end="2146.811s">And I think that is worthy of a round of applause,<br />ladies and gentlemen.</p>
+      <p begin="2146.915s" id="p554" end="2149.105s">- What a man.<br />- We want our money back.</p>
+      <p begin="2149.209s" id="p555" end="2150.669s">Every penny.</p>
+      <p begin="2150.774s" id="p556" end="2152.651s">Well, you...</p>
+      <p begin="2153.694s" id="p557" end="2156.405s">All right, listen.<br />You can have your money back.</p>
+      <p begin="2157.135s" id="p558" end="2158.908s">I understand, but I... Listen.</p>
+      <p begin="2159.012s" id="p559" end="2161.619s">To tell you the truth, the Doctor's daughter...</p>
+      <p begin="2161.723s" id="p560" end="2163.913s">I know she looks pretty but she ain't...</p>
+      <p begin="2164.747s" id="p561" end="2166.729s">She's pretty sick, see?</p>
+      <p begin="2166.833s" id="p562" end="2168.71s">She needs surgery.</p>
+      <p begin="2168.814s" id="p563" end="2172.256s">So we're trying to scrounge<br />all we can get. Otherwise she's gonna...</p>
+      <p begin="2172.36s" id="p564" end="2175.28s">That's what all this is about<br />to try and get money for her.</p>
+      <p begin="2176.427s" id="p565" end="2178.304s">Do you understand? I mean...</p>
+      <p begin="2179.868s" id="p566" end="2181.85s">How about this?</p>
+      <p begin="2181.954s" id="p567" end="2184.77s">We'll give you a free ticket<br />no, two free tickets</p>
+      <p begin="2184.874s" id="p568" end="2186.855s">if you buy another one at half price.</p>
+      <p begin="2186.96s" id="p569" end="2189.254s">Er... this offer's only available today.</p>
+      <p begin="2191.965s" id="p570" end="2193.842s">All right, go on.</p>
+      <p begin="2196.449s" id="p571" end="2198.431s">- What?<br />- Oh, nothing.</p>
+      <p begin="2199.473s" id="p572" end="2202.706s">This offer is only available today.</p>
+      <p begin="2206.356s" id="p573" end="2208.337s">- He took all that?<br />- Yeah.</p>
+      <p begin="2208.442s" id="p574" end="2210.423s">Have you ever seen so much?</p>
+      <p begin="2210.527s" id="p575" end="2213.551s">That is what lying<br />through your teeth can get you.</p>
+      <p begin="2213.656s" id="p576" end="2215.637s">Come on, Anton.</p>
+      <p begin="2215.741s" id="p577" end="2218.766s">How was he to know that<br />we're not gonna be here tomorrow?</p>
+      <p begin="2220.643s" id="p578" end="2222.415s">Hey, maybe my birthday won't be so bad.</p>
+      <p begin="2222.52s" id="p579" end="2224.397s">Yeah, maybe it won't, actually.</p>
+      <p begin="2224.501s" id="p580" end="2227.942s">Maybe with George here,<br />maybe you could get out of this dump.</p>
+      <p begin="2229.819s" id="p581" end="2231.697s">Go find your ideal home.</p>
+      <p begin="2234.616s" id="p582" end="2235.972s">Anton.</p>
+      <p begin="2237.641s" id="p583" end="2240.352s">George! Wrong end of the horse, mate.</p>
+      <p begin="2240.456s" id="p584" end="2242.438s">What's the...</p>
+      <p begin="2252.762s" id="p585" end="2255.056s">I should be dead.</p>
+      <p begin="2264.128s" id="p586" end="2266.527s">You know, you shouldn't drink.</p>
+      <p begin="2266.631s" id="p587" end="2269.03s">It just flat out doesn't agree with you.</p>
+      <p begin="2269.134s" id="p588" end="2271.637s">You are so right.</p>
+      <p begin="2271.741s" id="p589" end="2273.618s">You?</p>
+      <p begin="2273.722s" id="p590" end="2275.495s">Oh, shit.</p>
+      <p begin="2275.599s" id="p591" end="2279.041s">Oh, well, what do you want from me this time?<br />I'll do anything.</p>
+      <p begin="2279.145s" id="p592" end="2280.501s">I know you will.</p>
+      <p begin="2280.605s" id="p593" end="2283.942s">By the way, your man lost his memory.</p>
+      <p begin="2284.046s" id="p594" end="2285.819s">Bloody useless.</p>
+      <p begin="2285.923s" id="p595" end="2288.217s">- He's not my man.<br />- What?</p>
+      <p begin="2288.322s" id="p596" end="2292.284s">No. He's a little toerag named Tony Shepherd.</p>
+      <p begin="2294.057s" id="p597" end="2296.143s">Just tidying up.</p>
+      <p begin="2296.247s" id="p598" end="2298.228s">He runs a big charity.</p>
+      <p begin="2298.958s" id="p599" end="2300.314s">I don't trust him.</p>
+      <p begin="2301.044s" id="p600" end="2305.528s">- But you don't trust me either, do you?<br />- Oh, just tell me what you want.</p>
+      <p begin="2305.633s" id="p601" end="2308.031s">I just thought that last night<br />when you were so upset</p>
+      <p begin="2308.135s" id="p602" end="2310.638s">that you could maybe use<br />a little glimmer of hope.</p>
+      <p begin="2310.742s" id="p603" end="2314.392s">Maybe you could use a little bet.</p>
+      <p begin="2314.496s" id="p604" end="2316.478s">What?</p>
+      <p begin="2316.582s" id="p605" end="2318.042s">It's over, it's over. Finito.</p>
+      <p begin="2318.146s" id="p606" end="2321.588s">Oh, come on, it's never over.</p>
+      <p begin="2322.318s" id="p607" end="2326.072s">Come on, what have you got to lose?<br />Look, you could end up winning.</p>
+      <p begin="2326.176s" id="p608" end="2328.157s">You could save her.</p>
+      <p begin="2330.556s" id="p609" end="2332.642s">What do you say? First to five souls?</p>
+      <p begin="2333.684s" id="p610" end="2335.561s">- First to five?<br />- Yeah.</p>
+      <p begin="2335.666s" id="p611" end="2337.021s">No tricks?</p>
+      <p begin="2337.126s" id="p612" end="2338.794s">- No.<br />- No, no cheating?</p>
+      <p begin="2338.898s" id="p613" end="2339.837s">No cheating.</p>
+      <p begin="2339.941s" id="p614" end="2341.401s">I'd say yes. Deal.</p>
+      <p begin="2341.506s" id="p615" end="2344.113s">God, I love a betting man.</p>
+      <p begin="2344.217s" id="p616" end="2346.303s">OK, by her birthday, then.</p>
+      <p begin="2346.407s" id="p617" end="2348.91s">That's in two days, you bastard.</p>
+      <p begin="2349.014s" id="p618" end="2351.517s">Do you have any idea<br />what rotten business we're doing?</p>
+      <p begin="2351.621s" id="p619" end="2354.332s">Things are gonna pick up.<br />Sure as eggs is eggs.</p>
+      <p begin="2354.437s" id="p620" end="2356.626s">- Yeah.<br />- OK.</p>
+      <p begin="2358.399s" id="p621" end="2361.841s">- First one to five souls wins.<br />- I'll kill you, you son of a bitch.</p>
+      <p begin="2361.945s" id="p622" end="2363.926s">Now that I'd like to see.</p>
+      <p begin="2364.656s" id="p623" end="2366.638s">Wait!</p>
+      <p begin="2369.87s" id="p624" end="2371.226s">Oh!</p>
+      <p begin="2380.298s" id="p625" end="2382.28s">Damn phone.</p>
+      <p begin="2386.138s" id="p626" end="2388.12s">- Morning, Val.<br />- Hi, George.</p>
+      <p begin="2394.794s" id="p627" end="2396.671s">Scrumpy?</p>
+      <p begin="2398.235s" id="p628" end="2399.174s">Scrumpy?</p>
+      <p begin="2401.051s" id="p629" end="2402.928s">Oh...</p>
+      <p begin="2407.203s" id="p630" end="2408.142s">Oh.</p>
+      <p begin="2408.246s" id="p631" end="2409.81s">Good lord.</p>
+      <p begin="2409.915s" id="p632" end="2411.375s">Good lord.</p>
+      <p begin="2412.626s" id="p633" end="2414.503s">Food, food. We got food.</p>
+      <p begin="2414.607s" id="p634" end="2418.674s">We got bread. We got cheese.<br />We got vegetables.</p>
+      <p begin="2418.779s" id="p635" end="2421.49s">And we got... this thing.<br />Whatever this thing is.</p>
+      <p begin="2421.594s" id="p636" end="2424.201s">It's all your fault we're eating so well today.</p>
+      <p begin="2425.14s" id="p637" end="2427.121s">Know how to pluck?</p>
+      <p begin="2428.06s" id="p638" end="2429.832s">Is that... is that... Bertie?</p>
+      <p begin="2429.937s" id="p639" end="2432.127s">George thought doves would be better.</p>
+      <p begin="2432.231s" id="p640" end="2433.587s">- Pluck it.<br />- Pluck it?</p>
+      <p begin="2433.691s" id="p641" end="2435.359s">- Yeah.<br />- How?</p>
+      <p begin="2435.464s" id="p642" end="2436.298s">Here.</p>
+      <p begin="2436.402s" id="p643" end="2438.279s">That was my best trick.</p>
+      <p begin="2440.156s" id="p644" end="2441.512s">Five souls in two days, huh?</p>
+      <p begin="2441.616s" id="p645" end="2444.536s">Put a sock in it. I'm trying to think.</p>
+      <p begin="2445.475s" id="p646" end="2449.02s">He's been sent to us for a reason. I know it.</p>
+      <p begin="2449.646s" id="p647" end="2452.045s">- Cards don't lie.<br />- No?</p>
+      <p begin="2469.564s" id="p648" end="2472.484s">Pardonnez-moi.<br />Monsieur Saint George.</p>
+      <p begin="2473.735s" id="p649" end="2475.821s">Oh, I worry about you.</p>
+      <p begin="2475.925s" id="p650" end="2478.428s">Not knowing who you are.</p>
+      <p begin="2478.532s" id="p651" end="2483.016s">It must be extremement difficile<br />pour vous, n'est-ce pas?</p>
+      <p begin="2483.121s" id="p652" end="2486.353s">Yeah, it really is. It's confusing at times.</p>
+      <p begin="2486.458s" id="p653" end="2488.126s">- I may be able to help you.<br />- Really?</p>
+      <p begin="2488.335s" id="p654" end="2490.003s">Yes. You see this contraption here?</p>
+      <p begin="2490.107s" id="p655" end="2491.985s">Do the honours, Percy.</p>
+      <p begin="2492.089s" id="p656" end="2495.113s">Yes.<br />Now, if you don't mind placing it on your head.</p>
+      <p begin="2495.217s" id="p657" end="2497.512s">- That's it. Now, you see these wires?<br />- Yes.</p>
+      <p begin="2497.616s" id="p658" end="2500.223s">Just hold on to that. That's right.</p>
+      <p begin="2500.327s" id="p659" end="2501.787s">- All right.<br />- That's right, now.</p>
+      <p begin="2501.891s" id="p660" end="2505.854s">Now, I just want you to relax.<br />And just think of nothing.</p>
+      <p begin="2505.958s" id="p661" end="2507.835s">That's not gonna be hard considering...</p>
+      <p begin="2507.94s" id="p662" end="2509.817s">- Shut it!<br />- I beg your pardon?</p>
+      <p begin="2509.921s" id="p663" end="2512.215s">Your mouth. Don't breathe.</p>
+      <p begin="2512.424s" id="p664" end="2513.988s">- Hold your breath.<br />- Seriously?</p>
+      <p begin="2514.092s" id="p665" end="2518.264s">Just let the energy flow.<br />Let it wax and wane.</p>
+      <p begin="2518.368s" id="p666" end="2520.036s">Think of the earth, the ocean...</p>
+      <p begin="2523.373s" id="p667" end="2525.563s">That's very good. Very good, very good.</p>
+      <p begin="2526.502s" id="p668" end="2528.588s">Yes. I need a name.</p>
+      <p begin="2528.692s" id="p669" end="2531.195s">I need a name. Huh?</p>
+      <p begin="2531.403s" id="p670" end="2533.802s">Yes, I have a name.</p>
+      <p begin="2533.906s" id="p671" end="2534.532s">Shepherd.</p>
+      <p begin="2535.679s" id="p672" end="2537.66s">Anthony Shepherd.</p>
+      <p begin="2538.077s" id="p673" end="2540.059s">They call you Tony.</p>
+      <p begin="2543.813s" id="p674" end="2545.794s">That was exhausting.</p>
+      <p begin="2548.505s" id="p675" end="2551.947s">You used to do good works, I understand.</p>
+      <p begin="2552.051s" id="p676" end="2555.909s">Erm... something about a charity,</p>
+      <p begin="2556.014s" id="p677" end="2557.891s">I think.</p>
+      <p begin="2561.124s" id="p678" end="2563.522s">Yes. Erm...</p>
+      <p begin="2564.356s" id="p679" end="2566.338s">Tony Shepherd...</p>
+      <p begin="2567.485s" id="p680" end="2569.779s">It rings a bell for sure.</p>
+      <p begin="2569.883s" id="p681" end="2572.073s">Wow. This...</p>
+      <p begin="2572.595s" id="p682" end="2574.576s">This... this... It really works.</p>
+      <p begin="2574.68s" id="p683" end="2576.557s">You erm...</p>
+      <p begin="2576.662s" id="p684" end="2581.041s">Is there anything else you discovered<br />when you were doing your "ums"...?</p>
+      <p begin="2581.146s" id="p685" end="2582.501s">Well, I mean...</p>
+      <p begin="2582.606s" id="p686" end="2585.004s">You must understand<br />this is an ancient technique.</p>
+      <p begin="2585.108s" id="p687" end="2588.445s">- Right.<br />- I'm extremely rusty, I'm afraid.</p>
+      <p begin="2590.948s" id="p688" end="2593.451s">No. There was absolutely nothing else.</p>
+      <p begin="2593.555s" id="p689" end="2594.911s">No.</p>
+      <p begin="2598.352s" id="p690" end="2600.334s">Well, it's fascinating stuff.</p>
+      <p begin="2600.438s" id="p691" end="2603.775s">It really is, I must say.<br />I mean, can I take this off now?</p>
+      <p begin="2603.879s" id="p692" end="2605.756s">- Yes.<br />- Is that all right?</p>
+      <p begin="2605.861s" id="p693" end="2609.615s">- I mean, thank you very much.<br />- No, no. Not at all. Not at all.</p>
+      <p begin="2609.719s" id="p694" end="2611.596s">Bless you. I have a name.</p>
+      <p begin="2611.7s" id="p695" end="2613.577s">Charity work?</p>
+      <p begin="2613.682s" id="p696" end="2614.829s">Cool.</p>
+      <p begin="2614.933s" id="p697" end="2617.749s">So what was he doing<br />dangling by his neck under the bridge?</p>
+      <p begin="2617.853s" id="p698" end="2619.417s">Percy!</p>
+      <p begin="2619.522s" id="p699" end="2622.129s">Is that rude? Did I put my foot in it?</p>
+      <p begin="2623.797s" id="p700" end="2627.447s">No, it's erm... so strange.<br />It's horrible, you know?</p>
+      <p begin="2627.551s" id="p701" end="2630.158s">I just...<br />Everything is just a complete blank.</p>
+      <p begin="2630.367s" id="p702" end="2632.661s">You know? But as the good doctor said, I...</p>
+      <p begin="2632.765s" id="p703" end="2635.998s">I was involved in some sort of charity.<br />I do remember that.</p>
+      <p begin="2636.102s" id="p704" end="2637.979s">There you go. Plucked.</p>
+      <p begin="2638.084s" id="p705" end="2642.359s">I mean, what a fool I must have been,<br />you know, to think that I could have...</p>
+      <p begin="2642.464s" id="p706" end="2645.071s">you know, changed the world.</p>
+      <p begin="2645.175s" id="p707" end="2648.408s">That I could have made a difference.<br />You know, given people hope, eh?</p>
+      <p begin="2649.346s" id="p708" end="2653.205s">I mean, what an arrogant idiot I must have...</p>
+      <p begin="2653.309s" id="p709" end="2655.603s">Hey! What's that?<br />Can I have a look at that?</p>
+      <p begin="2655.707s" id="p710" end="2659.357s">- What is that you've got?<br />- It's Beethoven, Ode To Joy.</p>
+      <p begin="2659.462s" id="p711" end="2661.86s">No, not the song, mate. The pipe.</p>
+      <p begin="2661.964s" id="p712" end="2663.946s">- Oh...<br />- I think it belongs to me.</p>
+      <p begin="2664.884s" id="p713" end="2666.866s">- Really? You think...?<br />- Yeah.</p>
+      <p begin="2666.97s" id="p714" end="2670.62s">How do you... how do you know that?<br />You remembered you're a musician.</p>
+      <p begin="2670.724s" id="p715" end="2673.54s">Yeah, it's a day of remembering.<br />Can I please have it back?</p>
+      <p begin="2673.644s" id="p716" end="2674.895s">- Are you sure?<br />- Yes.</p>
+      <p begin="2675.0s" id="p717" end="2676.46s">You're sure this is yours?</p>
+      <p begin="2676.564s" id="p718" end="2678.858s">- Positive, mate.<br />- How can you be sure?</p>
+      <p begin="2678.962s" id="p719" end="2681.569s">I just know these things.<br />Can I have it back, please?</p>
+      <p begin="2681.674s" id="p720" end="2683.446s">Yeah. All right, then. Here you go.</p>
+      <p begin="2686.783s" id="p721" end="2688.243s">- Er...<br />- Er...</p>
+      <p begin="2688.348s" id="p722" end="2689.703s">Yeah.</p>
+      <p begin="2689.808s" id="p723" end="2691.059s">- Yeah...<br />- All right.</p>
+      <p begin="2691.163s" id="p724" end="2693.77s">- I don't know where it's gone.<br />- It's very funny, isn't it?</p>
+      <p begin="2693.875s" id="p725" end="2695.856s">Can I have my pipe back?<br />It means a lot to me.</p>
+      <p begin="2695.96s" id="p726" end="2698.046s">- Yeah, I understand.<br />- It's a very special pipe.</p>
+      <p begin="2698.15s" id="p727" end="2701.07s">I don't quite know...<br />OK, sorry. Got it, got it. Sorry.</p>
+      <p begin="2701.174s" id="p728" end="2702.426s">There you go. Take it.</p>
+      <p begin="2702.53s" id="p729" end="2704.407s">- Sorry, sorry.<br />- Thanks.</p>
+      <p begin="2705.971s" id="p730" end="2708.683s">Listen, this isn't funny, mate.<br />That pipe means a lot to me.</p>
+      <p begin="2708.787s" id="p731" end="2710.664s">- All right?<br />- It's a little bit funny.</p>
+      <p begin="2710.768s" id="p732" end="2713.167s">- No, it's not. Get my pipe back.<br />- All right.</p>
+      <p begin="2713.271s" id="p733" end="2715.252s">Let me just look around.</p>
+      <p begin="2715.982s" id="p734" end="2717.547s">What is it doing in a teapot?</p>
+      <p begin="2717.651s" id="p735" end="2719.528s">That's what I want to know.</p>
+      <p begin="2719.632s" id="p736" end="2721.614s">- What is it doing in a teapot?<br />- I don't know.</p>
+      <p begin="2722.448s" id="p737" end="2724.429s">- Now, thank you very much.<br />- OK.</p>
+      <p begin="2724.534s" id="p738" end="2727.245s">- All right. I'm just mucking about.<br />- All right.</p>
+      <p begin="2727.349s" id="p739" end="2729.748s">Right! Now you go fetch that thing.</p>
+      <p begin="2729.852s" id="p740" end="2731.625s">- No, I'm not kidding. Get that thing.<br />- OK.</p>
+      <p begin="2731.729s" id="p741" end="2733.398s">- I'm gonna get it.<br />- Right now.</p>
+      <p begin="2733.502s" id="p742" end="2735.692s">All right. Just chill out. Just chill out.</p>
+      <p begin="2735.796s" id="p743" end="2736.526s">There.</p>
+      <p begin="2737.673s" id="p744" end="2739.133s">Anton. Enough.</p>
+      <p begin="2739.237s" id="p745" end="2742.053s">I'm sorry. I'm playing around, trying to bond.</p>
+      <p begin="2742.157s" id="p746" end="2743.721s">Thanks, darling.</p>
+      <p begin="2743.826s" id="p747" end="2745.807s">Just trying to bond.</p>
+      <p begin="2748.101s" id="p748" end="2749.248s">OK.</p>
+      <p begin="2749.353s" id="p749" end="2751.751s">- That was fun!<br />- Yeah. Funny, funny.</p>
+      <p begin="2754.254s" id="p750" end="2757.07s">We'll take this one to the back.</p>
+      <p begin="2757.174s" id="p751" end="2760.094s">I'm worried about Anton.<br />What's eating him?</p>
+      <p begin="2760.198s" id="p752" end="2762.388s">He's in love with Valentina.</p>
+      <p begin="2762.492s" id="p753" end="2764.369s">In love? Who gave him permission?</p>
+      <p begin="2764.578s" id="p754" end="2766.664s">- It happens.<br />- The little snake.</p>
+      <p begin="2766.768s" id="p755" end="2771.982s">Take him from the streets<br />and that's the thanks I get. I'll skin him alive.</p>
+      <p begin="2772.086s" id="p756" end="2774.172s">While you're at it, there's the other one.</p>
+      <p begin="2774.276s" id="p757" end="2776.257s">- The other one?<br />- The rattlesnake.</p>
+      <p begin="2776.362s" id="p758" end="2778.656s">- The forgetful cobra.<br />- Oh, Tony?</p>
+      <p begin="2778.76s" id="p759" end="2781.576s">- Tony's another kettle of fish.<br />- Is he?</p>
+      <p begin="2781.68s" id="p760" end="2785.33s">Yes, he's ambitious, energetic.<br />A man of destiny.</p>
+      <p begin="2785.434s" id="p761" end="2788.563s">- And he'll help us win.<br />- I think he just might.</p>
+      <p begin="2789.606s" id="p762" end="2793.047s">- Scrumpy sees some good in him.<br />- She's better off with Anton.</p>
+      <p begin="2793.151s" id="p763" end="2795.028s">Perhaps I should offer her hand</p>
+      <p begin="2795.133s" id="p764" end="2798.365s">to whoever helps us win<br />the next five souls.</p>
+      <p begin="2799.825s" id="p765" end="2803.579s">That's an even worse idea<br />than all the other bad ones you've had today.</p>
+      <p begin="2803.684s" id="p766" end="2807.646s">You're not wrong, you're not wrong.<br />Neither of them is worthy of her.</p>
+      <p begin="2807.855s" id="p767" end="2809.732s">You're never wrong, are you?</p>
+      <p begin="2809.836s" id="p768" end="2812.965s">Percy.<br />What would I do without you?</p>
+      <p begin="2813.069s" id="p769" end="2815.572s">- Get a midget.<br />- What?</p>
+      <p begin="2815.676s" id="p770" end="2818.387s">You know, short fellow.<br />A little taller than I am.</p>
+      <p begin="2818.492s" id="p771" end="2820.995s">Short legs, short feet, big head.<br />Runs kind of funny.</p>
+      <p begin="2821.099s" id="p772" end="2822.976s">Yes, I know, I know.</p>
+      <p begin="2825.27s" id="p773" end="2829.337s">Doctor Parnassus...<br />as old as the universe itself.</p>
+      <p begin="2829.441s" id="p774" end="2831.527s">- Versed in...<br />- Ah, evening, smokers.</p>
+      <p begin="2831.631s" id="p775" end="2834.76s">Hello, hello, hello.<br />How's your night tonight? Is it good?</p>
+      <p begin="2834.864s" id="p776" end="2837.68s">Is it all right? Had a few pints?</p>
+      <p begin="2837.784s" id="p777" end="2839.661s">- Let the mind...<br />- Is he OK?</p>
+      <p begin="2839.765s" id="p778" end="2841.642s">...of the great Dr Parnassus...</p>
+      <p begin="2845.397s" id="p779" end="2847.899s">What are you doing,<br />sniffing about like that?</p>
+      <p begin="2848.004s" id="p780" end="2851.132s">We must concentrate tonight.<br />Everything depends on it.</p>
+      <p begin="2861.977s" id="p781" end="2865.94s">Let the great mind... of this doctor...</p>
+      <p begin="2866.044s" id="p782" end="2868.756s">...transport you...</p>
+      <p begin="2870.111s" id="p783" end="2872.51s">...to the world of your imagination.</p>
+      <p begin="2873.97s" id="p784" end="2877.515s">You, my dear,<br />I see having a very special destiny.</p>
+      <p begin="2877.62s" id="p785" end="2880.852s">Procrastinate no longer,<br />you stupid ponce.</p>
+      <p begin="2881.895s" id="p786" end="2883.147s">Procrastinate no longer.</p>
+      <p begin="2883.251s" id="p787" end="2885.649s">Oh, no, no, no, a singer.<br />I bet you have the voice...</p>
+      <p begin="2885.754s" id="p788" end="2887.944s">- Hi there!<br />...of an angel.</p>
+      <p begin="2888.048s" id="p789" end="2891.593s">Don't you, now? Now, come on,<br />trust me, you're gonna love this experience.</p>
+      <p begin="2891.698s" id="p790" end="2893.783s">Hey, what are you doing?</p>
+      <p begin="2893.888s" id="p791" end="2896.495s">Taking you to the heart<br />of your imagination.</p>
+      <p begin="2896.599s" id="p792" end="2898.893s">Oh, my God. No way.</p>
+      <p begin="2898.997s" id="p793" end="2900.979s">Trust me, you will not regret this.</p>
+      <p begin="2901.083s" id="p794" end="2902.752s">- Go for it, Sal.<br />- Yeah, go for it, Sal.</p>
+      <p begin="2902.856s" id="p795" end="2906.089s">- Only if she comes too.<br />- Now you're talking.</p>
+      <p begin="2906.193s" id="p796" end="2909.217s">- I can't do two at the same time.<br />- Are you crazy, kid? Go for it.</p>
+      <p begin="2909.321s" id="p797" end="2912.346s">- Well, I'm not going on my own.<br />- We'll do it together.</p>
+      <p begin="2912.45s" id="p798" end="2915.161s">- Together. Good idea.<br />- Are you crazy?</p>
+      <p begin="2915.265s" id="p799" end="2918.081s">Two imaginations in there at the same time?</p>
+      <p begin="2919.645s" id="p800" end="2921.731s">Oh, no, no, no. Ladies, ladies, ladies.</p>
+      <p begin="2921.835s" id="p801" end="2923.608s">One at a time's fine, you see.</p>
+      <p begin="2923.712s" id="p802" end="2927.049s">When there are two, the stronger<br />imagination will overcome the weaker</p>
+      <p begin="2927.154s" id="p803" end="2928.926s">and you have no idea what might happen.</p>
+      <p begin="2929.031s" id="p804" end="2932.785s">- That's really stupid.<br />- One alone is safe. Follow me.</p>
+      <p begin="2932.889s" id="p805" end="2934.766s">- Enjoy yourselves.<br />- Let go!</p>
+      <p begin="2935.392s" id="p806" end="2937.895s">- Wait, Anton. Anton!<br />- Have no fear.</p>
+      <p begin="2937.999s" id="p807" end="2939.772s">Put me down!</p>
+      <p begin="2939.876s" id="p808" end="2942.17s">She doesn't want to do it on her own.</p>
+      <p begin="2942.275s" id="p809" end="2945.507s">Your friend is about to have<br />a life-changing experience.</p>
+      <p begin="2945.612s" id="p810" end="2947.384s">- Put me down!<br />- Pillock.</p>
+      <p begin="2947.489s" id="p811" end="2948.636s">- No!<br />- What are you doing?</p>
+      <p begin="2948.74s" id="p812" end="2951.243s">We've got a customer.</p>
+      <p begin="2951.347s" id="p813" end="2953.954s">Oh, here we go!</p>
+      <p begin="2954.058s" id="p814" end="2955.414s">Dad. Father.</p>
+      <p begin="2955.936s" id="p815" end="2957.291s">- Ooh!<br />- Sal!</p>
+      <p begin="2958.334s" id="p816" end="2960.732s">Sal! Get off me! Sal!</p>
+      <p begin="2964.382s" id="p817" end="2965.634s">Dave! Dave!</p>
+      <p begin="2965.738s" id="p818" end="2968.345s">- Don't shoot the messenger.<br />- Sal's in there!</p>
+      <p begin="2968.449s" id="p819" end="2970.431s">Get back! Get back!</p>
+      <p begin="2983.049s" id="p820" end="2984.405s">Wait. Wait!</p>
+      <p begin="2992.017s" id="p821" end="2993.79s">Tony!</p>
+      <p begin="2998.9s" id="p822" end="3000.777s">Come here, you!</p>
+      <p begin="3002.758s" id="p823" end="3004.218s">Get off!</p>
+      <p begin="3008.077s" id="p824" end="3009.954s">Come back!</p>
+      <p begin="3011.309s" id="p825" end="3013.082s">Wa-argh!</p>
+      <p begin="3026.326s" id="p826" end="3028.203s">Hi there.</p>
+      <p begin="3037.693s" id="p827" end="3039.674s">Ow!</p>
+      <p begin="3040.404s" id="p828" end="3041.655s">Shit.</p>
+      <p begin="3041.76s" id="p829" end="3043.845s">What were you thinking?</p>
+      <p begin="3043.95s" id="p830" end="3045.931s">Look what you've done.</p>
+      <p begin="3047.599s" id="p831" end="3049.789s">Jesus.</p>
+      <p begin="3049.894s" id="p832" end="3051.666s">- Leave us alone.<br />- I'm trying to help.</p>
+      <p begin="3051.771s" id="p833" end="3053.544s">Get out of here.</p>
+      <p begin="3053.648s" id="p834" end="3055.733s">- Leave!<br />- First to five.</p>
+      <p begin="3055.838s" id="p835" end="3057.819s">First to five.</p>
+      <p begin="3058.966s" id="p836" end="3062.616s">- First to five. One down. First to five.<br />- Ssh. It's OK.</p>
+      <p begin="3062.72s" id="p837" end="3065.015s">Get up. We've gotta keep moving.</p>
+      <p begin="3065.119s" id="p838" end="3068.456s">- I know. It's all right. It's fixable.<br />- Look, all the homeless guys.</p>
+      <p begin="3068.56s" id="p839" end="3070.959s">- They'll eat our food.<br />- All right. Let's do this.</p>
+      <p begin="3071.063s" id="p840" end="3073.774s">- Jesus Christ!<br />- What are you doing?</p>
+      <p begin="3073.879s" id="p841" end="3075.651s">- I'm helping.<br />- You made a mess.</p>
+      <p begin="3075.756s" id="p842" end="3077.841s">- What? I'm...<br />- Get out of here. Come on.</p>
+      <p begin="3077.946s" id="p843" end="3080.553s">- Percy, Percy...<br />- You're not helping. Get up.</p>
+      <p begin="3080.657s" id="p844" end="3083.577s">- All right, all right. All right! I'm gone.<br />- Go away.</p>
+      <p begin="3094.526s" id="p845" end="3097.238s">Why don't you just claim it all on insurance?</p>
+      <p begin="3097.342s" id="p846" end="3100.158s">- Bugger off!<br />- All right. I was just asking.</p>
+      <p begin="3103.703s" id="p847" end="3106.206s">Oh, God.</p>
+      <p begin="3108.083s" id="p848" end="3110.273s">That was quite an interesting crowd, wasn't it?</p>
+      <p begin="3110.377s" id="p849" end="3112.254s">Just leave me alone, mate.</p>
+      <p begin="3113.193s" id="p850" end="3117.468s">Hey, Val is a little worried about you, mate.</p>
+      <p begin="3117.573s" id="p851" end="3121.64s">And she wanted me to have a little chat<br />with you about what happened today,</p>
+      <p begin="3121.744s" id="p852" end="3124.977s">with the young lady behind the mirror.</p>
+      <p begin="3128.731s" id="p853" end="3131.338s">Erm... What are you suggesting, mate?</p>
+      <p begin="3133.111s" id="p854" end="3136.031s">Anton, you can tell me, mate.<br />We all heard her screaming.</p>
+      <p begin="3136.135s" id="p855" end="3138.742s">I was screaming as well.</p>
+      <p begin="3138.846s" id="p856" end="3141.036s">- It was terrifying.<br />- It was terrifying?</p>
+      <p begin="3141.14s" id="p857" end="3143.852s">- I don't understand.<br />- Well, you wouldn't, would you?</p>
+      <p begin="3143.956s" id="p858" end="3146.459s">You haven't been inside the Doctor's mind,<br />have you?</p>
+      <p begin="3146.563s" id="p859" end="3149.587s">- No, I haven't.<br />- No. Yeah, you, you, my friend,</p>
+      <p begin="3149.692s" id="p860" end="3151.673s">you probably think it's a some kind of scam.</p>
+      <p begin="3151.777s" id="p861" end="3153.237s">Well, ain't it?</p>
+      <p begin="3153.341s" id="p862" end="3155.323s">Oh, no.</p>
+      <p begin="3156.574s" id="p863" end="3158.66s">No, it's not.</p>
+      <p begin="3158.764s" id="p864" end="3162.518s">I wouldn't, I wouldn't...<br />I wouldn't expect you to understand.</p>
+      <p begin="3163.144s" id="p865" end="3164.917s">Not in a million years.</p>
+      <p begin="3165.021s" id="p866" end="3168.984s">Right, so if Dr Parnassus<br />can really control people's minds,</p>
+      <p begin="3169.088s" id="p867" end="3171.174s">then why isn't he ruling the world, then?</p>
+      <p begin="3171.278s" id="p868" end="3172.634s">Hey?</p>
+      <p begin="3172.738s" id="p869" end="3176.388s">Why bother with this little... sideshow act?</p>
+      <p begin="3176.492s" id="p870" end="3179.308s">It's not a sideshow.<br />He don't wanna rule the world.</p>
+      <p begin="3181.81s" id="p871" end="3184.73s">He wants the world to rule itself.</p>
+      <p begin="3186.712s" id="p872" end="3187.963s">Yeah.</p>
+      <p begin="3189.527s" id="p873" end="3192.134s">And what about the mirror? What's that about?</p>
+      <p begin="3192.239s" id="p874" end="3194.22s">- A bit of hocus-pocus?<br />- No, mate.</p>
+      <p begin="3194.324s" id="p875" end="3196.827s">Tony, Tony, Tony, you don't get it, man.</p>
+      <p begin="3198.913s" id="p876" end="3200.79s">It is...</p>
+      <p begin="3201.728s" id="p877" end="3204.857s">It's impossible to describe. It's just a mystery.</p>
+      <p begin="3204.961s" id="p878" end="3206.317s">Yeah.</p>
+      <p begin="3206.421s" id="p879" end="3210.592s">It's everything. It's you, it's me, it's us.<br />He holds the universe behind that mirror.</p>
+      <p begin="3210.697s" id="p880" end="3213.199s">Does "first to five" mean anything to you?</p>
+      <p begin="3218.726s" id="p881" end="3220.916s">I thought you were supposed to be<br />the clever one.</p>
+      <p begin="3222.063s" id="p882" end="3224.149s">It's all over. It's lost.</p>
+      <p begin="3224.879s" id="p883" end="3227.903s">- Finished. Over.<br />- Ssh. Don't say that.</p>
+      <p begin="3228.007s" id="p884" end="3229.676s">It's never over.</p>
+      <p begin="3229.78s" id="p885" end="3232.804s">You're supposed to be immortal,<br />remember?</p>
+      <p begin="3233.534s" id="p886" end="3235.516s">Honestly, it's gonna be OK, Dad.</p>
+      <p begin="3235.62s" id="p887" end="3237.601s">How can you understand?</p>
+      <p begin="3237.706s" id="p888" end="3239.166s">Hm?</p>
+      <p begin="3239.27s" id="p889" end="3241.251s">You're a child.</p>
+      <p begin="3241.356s" id="p890" end="3243.233s">You've never loved.</p>
+      <p begin="3244.484s" id="p891" end="3246.361s">Not like I have.</p>
+      <p begin="3248.238s" id="p892" end="3250.324s">From the moment I looked up...</p>
+      <p begin="3251.054s" id="p893" end="3254.391s"><span tts:fontStyle="italic">...and saw her, I was captivated.</span></p>
+      <p begin="3255.642s" id="p894" end="3256.998s"><span tts:fontStyle="italic">A prisoner for life.</span></p>
+      <p begin="3269.407s" id="p895" end="3271.284s"><span tts:fontStyle="italic">I was a thousand years old.</span></p>
+      <p begin="3272.64s" id="p896" end="3274.517s"><span tts:fontStyle="italic">How could I woo her?</span></p>
+      <p begin="3275.456s" id="p897" end="3278.376s"><span tts:fontStyle="italic">How could I ever make her mine?</span></p>
+      <p begin="3280.253s" id="p898" end="3283.798s">Percy, you devil!<br />Let go. You don't understand.</p>
+      <p begin="3283.903s" id="p899" end="3285.884s">- Don't be a fool.<br />- Let go.</p>
+      <p begin="3285.988s" id="p900" end="3288.595s">- You can't die. You're immortal.<br />- Let go!</p>
+      <p begin="3288.7s" id="p901" end="3291.828s">You'll just end up broken in an eternity ward.</p>
+      <p begin="3291.932s" id="p902" end="3294.227s">And I'll end up looking after you...</p>
+      <p begin="3294.331s" id="p903" end="3296.625s">- Just let go, you little shit.<br />...forever!</p>
+      <p begin="3299.336s" id="p904" end="3301.213s">No!</p>
+      <p begin="3303.299s" id="p905" end="3307.47s"><span tts:fontStyle="italic">And at times like these,</span><br /><span tts:fontStyle="italic">the Devil was never far away.</span></p>
+      <p begin="3310.286s" id="p906" end="3312.476s">Why look so glum, Parny?</p>
+      <p begin="3313.623s" id="p907" end="3315.917s">Accentuate the positive.</p>
+      <p begin="3316.751s" id="p908" end="3320.401s"><span tts:fontStyle="italic">He granted me mortality again...</span></p>
+      <p begin="3320.506s" id="p909" end="3322.8s"><span tts:fontStyle="italic">and youth and new powers.</span></p>
+      <p begin="3322.904s" id="p910" end="3324.885s"><span tts:fontStyle="italic">Greater powers.</span></p>
+      <p begin="3325.928s" id="p911" end="3327.701s"><span tts:fontStyle="italic">And I won her.</span></p>
+      <p begin="3327.805s" id="p912" end="3329.787s"><span tts:fontStyle="italic">I was so in love.</span></p>
+      <p begin="3330.517s" id="p913" end="3332.498s"><span tts:fontStyle="italic">So in love.</span></p>
+      <p begin="3336.148s" id="p914" end="3338.129s"><span tts:fontStyle="italic">But at what price?</span></p>
+      <p begin="3339.276s" id="p915" end="3341.258s"><span tts:fontStyle="italic">What price?</span></p>
+      <p begin="3346.055s" id="p916" end="3348.036s">What's up, Doc?</p>
+      <p begin="3351.895s" id="p917" end="3353.876s">But at what price?</p>
+      <p begin="3353.98s" id="p918" end="3355.857s">But at what price?</p>
+      <p begin="3366.181s" id="p919" end="3368.371s">Pick up those rotten apples.</p>
+      <p begin="3369.31s" id="p920" end="3371.291s">Percy, pick up those rotten apples.</p>
+      <p begin="3371.395s" id="p921" end="3373.377s">- Ow.<br />- Sorry.</p>
+      <p begin="3374.419s" id="p922" end="3376.505s">Thank God it's only cuts and bruises.</p>
+      <p begin="3376.609s" id="p923" end="3378.591s">- Yeah.<br />- I thought we'd lost you.</p>
+      <p begin="3378.695s" id="p924" end="3380.259s">Oh, sweetheart.</p>
+      <p begin="3380.364s" id="p925" end="3382.345s">What a sweet thing to say.</p>
+      <p begin="3382.449s" id="p926" end="3384.326s">Oh, look at you.</p>
+      <p begin="3384.431s" id="p927" end="3386.516s">I've been meaning to ask you<br />about your father.</p>
+      <p begin="3386.62s" id="p928" end="3389.019s">He seems to be in a terrible state, you know.</p>
+      <p begin="3389.123s" id="p929" end="3391.626s">Now, is it a financial thing? Is it money?</p>
+      <p begin="3391.73s" id="p930" end="3392.877s">I don't know.</p>
+      <p begin="3392.982s" id="p931" end="3395.902s">Because if it is,<br />you know I can help out in that area.</p>
+      <p begin="3396.006s" id="p932" end="3398.926s">- I don't know.<br />- Or is it the show, perhaps?</p>
+      <p begin="3399.03s" id="p933" end="3401.324s">I don't care about the show any more.</p>
+      <p begin="3401.429s" id="p934" end="3403.306s">Or what about the police? Maybe...</p>
+      <p begin="3403.41s" id="p935" end="3406.121s">Bring on the police. I'm sick of living like this.</p>
+      <p begin="3406.225s" id="p936" end="3408.311s">Oh, really?</p>
+      <p begin="3408.415s" id="p937" end="3412.587s">Oh, aren't you a little toughie, eh?</p>
+      <p begin="3412.691s" id="p938" end="3414.985s">Now, listen, you shouldn't be talking this way.</p>
+      <p begin="3415.089s" id="p939" end="3418.948s">All right? It's very important<br />what you're doing. It's family stuff. You know?</p>
+      <p begin="3419.156s" id="p940" end="3423.849s">Maybe it's just things ought to be done<br />a little different around here.</p>
+      <p begin="3423.953s" id="p941" end="3426.248s">What different sort of way do you suggest?</p>
+      <p begin="3426.352s" id="p942" end="3428.438s">Morning. How was your sleep last night?</p>
+      <p begin="3428.542s" id="p943" end="3430.523s">You had a nasty bump on your head.</p>
+      <p begin="3430.627s" id="p944" end="3432.817s">Different? What do you mean?</p>
+      <p begin="3432.922s" id="p945" end="3437.614s">Well, I've been thinking, sir, that, you know,<br />it's quite obvious that people...</p>
+      <p begin="3437.719s" id="p946" end="3440.221s">you know,<br />not many people are attracted to the show.</p>
+      <p begin="3440.326s" id="p947" end="3441.994s">Oh, thank you so much.</p>
+      <p begin="3442.099s" id="p948" end="3445.748s">Well, forgive me, but I have<br />a couple of solutions to your problem.</p>
+      <p begin="3445.853s" id="p949" end="3450.128s">I was thinking of changing<br />the style of the show.</p>
+      <p begin="3450.233s" id="p950" end="3454.821s">I would change the audience, perhaps.</p>
+      <p begin="3454.925s" id="p951" end="3456.698s">- Change?<br />- Yeah.</p>
+      <p begin="3456.802s" id="p952" end="3460.139s">But in my opinion I'd change both.<br />You know, that's just me.</p>
+      <p begin="3460.244s" id="p953" end="3462.016s">- And I'd...<br />- Change the show?</p>
+      <p begin="3462.121s" id="p954" end="3464.623s">Who the friggin' hell do you think you are?</p>
+      <p begin="3464.728s" id="p955" end="3467.335s">Don't be so afraid of change, mate.</p>
+      <p begin="3467.439s" id="p956" end="3472.027s">The fact of the matter is,<br />this show, the stage, it's just not...</p>
+      <p begin="3473.175s" id="p957" end="3476.199s">I don't know what the word is.<br />It's... But you know, it's not...</p>
+      <p begin="3476.303s" id="p958" end="3477.346s">Modern?</p>
+      <p begin="3477.45s" id="p959" end="3479.119s">Modern. Yes.</p>
+      <p begin="3480.266s" id="p960" end="3484.124s">You see, people want modern.<br />They want, you know, like... like this.</p>
+      <p begin="3484.228s" id="p961" end="3487.253s">See. This here is contemporary.<br />This is what people want.</p>
+      <p begin="3487.357s" id="p962" end="3488.921s">I know this world. Trust me. All right?</p>
+      <p begin="3489.025s" id="p963" end="3491.841s">Now, with you and your<br />mind control thingamajigamy,</p>
+      <p begin="3491.945s" id="p964" end="3493.822s">we need to meet the public halfway.</p>
+      <p begin="3493.927s" id="p965" end="3496.847s">You know?<br />The right public in the right part of town.</p>
+      <p begin="3496.951s" id="p966" end="3498.724s">- What about the filth?<br />- What?</p>
+      <p begin="3498.828s" id="p967" end="3500.809s">- The filth.<br />- He means the police.</p>
+      <p begin="3500.914s" id="p968" end="3503.729s">Oh, well, there'll be a better class of filth too.</p>
+      <p begin="3503.833s" id="p969" end="3505.711s">- That will be the day.<br />- Yeah. Listen.</p>
+      <p begin="3505.815s" id="p970" end="3509.465s">The secret is, you know, not to hide.</p>
+      <p begin="3509.569s" id="p971" end="3511.446s">Be bold. Be colourful.</p>
+      <p begin="3511.55s" id="p972" end="3516.034s">You know, or actually, you know,<br />be less colourful, perhaps.</p>
+      <p begin="3516.139s" id="p973" end="3519.789s">And go places that people would<br />never expect you to be at.</p>
+      <p begin="3519.893s" id="p974" end="3522.187s">You know? Think.</p>
+      <p begin="3523.021s" id="p975" end="3525.003s">Sir, you saved my life.</p>
+      <p begin="3525.941s" id="p976" end="3528.444s">Now let me do something in return for you.</p>
+      <p begin="3529.278s" id="p977" end="3530.634s">Please.</p>
+      <p begin="3531.781s" id="p978" end="3533.762s">Would you hold on to that?</p>
+      <p begin="3533.867s" id="p979" end="3535.848s">Scrumpy.</p>
+      <p begin="3540.854s" id="p980" end="3544.295s">- You believe in coincidence?<br />- No, there's no such thing.</p>
+      <p begin="3544.399s" id="p981" end="3546.381s">Isn't that what you always told me?</p>
+      <p begin="3546.485s" id="p982" end="3549.3s">- Everything has a reason.<br />- Yes, that's what I believe.</p>
+      <p begin="3549.405s" id="p983" end="3551.49s">And the cards. Do you believe in them?</p>
+      <p begin="3551.595s" id="p984" end="3554.619s">What the hell are you on about, Dad?<br />Is this some kind of test?</p>
+      <p begin="3554.723s" id="p985" end="3558.269s">Scrumpy, please,<br />this is an extremely important day.</p>
+      <p begin="3559.937s" id="p986" end="3562.961s">Do we gamble on Tony?</p>
+      <p begin="3563.9s" id="p987" end="3566.09s">I want your opinion. I need your advice.</p>
+      <p begin="3566.194s" id="p988" end="3569.218s">I don't believe this. You want my opinion?</p>
+      <p begin="3569.323s" id="p989" end="3571.93s">- Yeah.<br />- This is the best birthday present ever.</p>
+      <p begin="3572.034s" id="p990" end="3574.432s">Yes. Gamble. Let's do it.</p>
+      <p begin="3574.537s" id="p991" end="3576.518s">Yes!</p>
+      <p begin="3577.665s" id="p992" end="3579.647s">Let's do it!</p>
+      <p begin="3580.585s" id="p993" end="3582.358s">I love you, Dad.</p>
+      <p begin="3582.462s" id="p994" end="3584.548s">And the Devil take the hindmost.</p>
+      <p begin="3584.652s" id="p995" end="3585.903s">- Well, lovely.<br />- Yeah.</p>
+      <p begin="3586.008s" id="p996" end="3587.572s">How sweet.</p>
+      <p begin="3587.676s" id="p997" end="3588.823s">So what do we do now?</p>
+      <p begin="3589.553s" id="p998" end="3591.535s">Well, let's see.</p>
+      <p begin="3591.639s" id="p999" end="3594.246s">First off, how much money<br />do we have to play with?</p>
+      <p begin="3595.706s" id="p1000" end="3598.626s">Cos we're gonna need... all of it.</p>
+      <p begin="3602.735s" id="p1001" end="3603.986s">Anton!</p>
+      <p begin="3604.717s" id="p1002" end="3608.47s">What are you doing?<br />Didn't you do enough damage last night?</p>
+      <p begin="3608.575s" id="p1003" end="3610.868s">Anton! I'm the one who wants to run away.</p>
+      <p begin="3612.121s" id="p1004" end="3615.354s">Please, don't spoil my birthday. We need you.</p>
+      <p begin="3617.544s" id="p1005" end="3619.421s">I need you.</p>
+      <p begin="3628.389s" id="p1006" end="3630.371s">How much money have you got?</p>
+      <p begin="3644.241s" id="p1007" end="3646.222s"><span tts:fontStyle="italic">Ode To Joy</span></p>
+      <p begin="3653.105s" id="p1008" end="3656.546s">Look, my dear, did you not read our sign?</p>
+      <p begin="3656.651s" id="p1009" end="3659.259s">We're here to give, not take, my darling.</p>
+      <p begin="3659.362s" id="p1010" end="3664.473s">But I can see from your beautiful eyes<br />that you are a very, very generous lady</p>
+      <p begin="3664.577s" id="p1011" end="3666.245s">and I applaud you for that.</p>
+      <p begin="3666.35s" id="p1012" end="3669.06s">Excuse me, but how does this work?</p>
+      <p begin="3669.165s" id="p1013" end="3671.042s">- What does it cost?<br />- Cost? No.</p>
+      <p begin="3671.147s" id="p1014" end="3673.858s">The lmaginarium does not cost a thing.<br />We're not here for money.</p>
+      <p begin="3673.963s" id="p1015" end="3676.57s">- How long does it take?<br />- Well, that depends, my dear.</p>
+      <p begin="3676.673s" id="p1016" end="3679.697s">- I'm running late.<br />- Late, late, for a very important date.</p>
+      <p begin="3679.802s" id="p1017" end="3682.931s">Gosh, I can't tell you how many times<br />I've heard that in my life.</p>
+      <p begin="3683.869s" id="p1018" end="3685.538s">Listen, can I ask you a question?</p>
+      <p begin="3687.102s" id="p1019" end="3688.77s">Do you dream?</p>
+      <p begin="3688.875s" id="p1020" end="3693.568s">Or should I say,<br />can you put a price on your dreams?</p>
+      <p begin="3693.673s" id="p1021" end="3698.886s">Or the dreams of the less fortunate<br />in this world, huh?</p>
+      <p begin="3700.138s" id="p1022" end="3702.119s">Is there a price for them?</p>
+      <p begin="3702.955s" id="p1023" end="3708.794s">Or are you all in despair at your inability<br />to change what is wrong in this world, huh?</p>
+      <p begin="3709.732s" id="p1024" end="3711.61s">You see, I had a dream.</p>
+      <p begin="3712.547s" id="p1025" end="3714.425s">But I too walked away from it.</p>
+      <p begin="3715.26s" id="p1026" end="3716.511s">You know, I ignored it.</p>
+      <p begin="3716.615s" id="p1027" end="3718.493s">I had no time for it.</p>
+      <p begin="3719.743s" id="p1028" end="3721.308s">Does that sound familiar to you?</p>
+      <p begin="3721.412s" id="p1029" end="3722.351s">Yes?</p>
+      <p begin="3722.455s" id="p1030" end="3723.707s">I know, my dear.</p>
+      <p begin="3723.811s" id="p1031" end="3728.503s">But, you see, ladies and gentlemen,<br />I was saved by a miracle.</p>
+      <p begin="3728.608s" id="p1032" end="3731.215s">By Doctor Parnassus.</p>
+      <p begin="3731.319s" id="p1033" end="3733.301s">He gave me my life back again.</p>
+      <p begin="3733.406s" id="p1034" end="3736.012s">He gave me a reason to dream.</p>
+      <p begin="3736.116s" id="p1035" end="3739.454s">He took me to the waterfall of happiness.</p>
+      <p begin="3739.557s" id="p1036" end="3741.435s">And I was reborn.</p>
+      <p begin="3744.043s" id="p1037" end="3750.091s">Yes, ladies and gentlemen,<br />I can tell you now, I have been...</p>
+      <p begin="3750.195s" id="p1038" end="3753.741s">No, I am... purified.</p>
+      <p begin="3758.642s" id="p1039" end="3760.311s">- I'll go first.<br />- No, I'm going first!</p>
+      <p begin="3760.415s" id="p1040" end="3761.98s">No, no, no.</p>
+      <p begin="3762.084s" id="p1041" end="3764.587s">Ladies, we are actually<br />solidly booked right now.</p>
+      <p begin="3764.69s" id="p1042" end="3765.838s">Back off!</p>
+      <p begin="3765.942s" id="p1043" end="3769.383s">- But we are taking reservations.<br />- Make a booking. Excuse me.</p>
+      <p begin="3769.488s" id="p1044" end="3771.47s">Calm down.</p>
+      <p begin="3772.199s" id="p1045" end="3774.18s">Is that child up for adoption?</p>
+      <p begin="3774.285s" id="p1046" end="3775.12s">Yes.</p>
+      <p begin="3775.224s" id="p1047" end="3779.395s">I want to adopt that unfortunate black child.<br />It shouldn't be working like this.</p>
+      <p begin="3779.5s" id="p1048" end="3781.481s">It should be in school.</p>
+      <p begin="3782.211s" id="p1049" end="3785.235s">- Who's in charge here?<br />- You are, my lady.</p>
+      <p begin="3785.34s" id="p1050" end="3787.112s">Don't you touch me.</p>
+      <p begin="3787.217s" id="p1051" end="3789.616s">Don't be frightened, dear.<br />Everything's OK, officers.</p>
+      <p begin="3789.719s" id="p1052" end="3791.7s">My darling, tonight is your night.</p>
+      <p begin="3791.805s" id="p1053" end="3793.682s">- Do you want to be purified?<br />- Well, oh...</p>
+      <p begin="3793.787s" id="p1054" end="3795.872s">This is your time.<br />Please, out of the way.</p>
+      <p begin="3795.976s" id="p1055" end="3798.063s">But we queued.<br />How come she gets to be purified?</p>
+      <p begin="3798.166s" id="p1056" end="3800.044s">She has been chosen, my dear.</p>
+      <p begin="3800.148s" id="p1057" end="3802.026s">Come away. Trance, Doctor.</p>
+      <p begin="3802.13s" id="p1058" end="3803.589s">But I haven't paid a thing.</p>
+      <p begin="3803.694s" id="p1059" end="3807.553s">You can make a donation<br />on your way out if you feel the need to.</p>
+      <p begin="3807.656s" id="p1060" end="3809.221s">Some people do. Most people do.</p>
+      <p begin="3809.326s" id="p1061" end="3810.89s">And he is in his trance.</p>
+      <p begin="3810.994s" id="p1062" end="3814.54s">Believe me, my dear,<br />you are the luckiest lady alive.</p>
+      <p begin="3814.644s" id="p1063" end="3816.73s">- Now, good luck.<br />- Ooh.</p>
+      <p begin="3819.441s" id="p1064" end="3821.631s">Oh, this is exciting. This is fun.</p>
+      <p begin="3821.735s" id="p1065" end="3823.091s">There are so many temptations.</p>
+      <p begin="3823.196s" id="p1066" end="3825.176s">Maybe just a peek?</p>
+      <p begin="3827.054s" id="p1067" end="3828.931s">No, wait, Tony!</p>
+      <p begin="3833.728s" id="p1068" end="3835.71s">Oh, how gorgeous.</p>
+      <p begin="3836.856s" id="p1069" end="3838.942s">Golly.</p>
+      <p begin="3840.61s" id="p1070" end="3843.009s">I say, gorgeous.</p>
+      <p begin="3858.131s" id="p1071" end="3859.278s">It's me.</p>
+      <p begin="3868.56s" id="p1072" end="3870.541s">Thank you.</p>
+      <p begin="3871.479s" id="p1073" end="3873.148s">Who are you, dear?</p>
+      <p begin="3877.11s" id="p1074" end="3882.742s">Oh, I have always known<br />that you would look like this.</p>
+      <p begin="3884.829s" id="p1075" end="3886.705s">I don't even know your name.</p>
+      <p begin="3888.27s" id="p1076" end="3890.147s">It's Roger.</p>
+      <p begin="3900.888s" id="p1077" end="3902.243s">No, it's not.</p>
+      <p begin="3902.348s" id="p1078" end="3904.747s">It's Barry.</p>
+      <p begin="3904.851s" id="p1079" end="3906.728s">- Barry?<br />- Yes.</p>
+      <p begin="3908.501s" id="p1080" end="3910.274s">How dashing.</p>
+      <p begin="3910.379s" id="p1081" end="3912.047s">Quite.</p>
+      <p begin="3994.224s" id="p1082" end="3997.04s">Oh, goodness me.</p>
+      <p begin="4003.192s" id="p1083" end="4005.07s">Just a minute now.</p>
+      <p begin="4005.173s" id="p1084" end="4007.155s">No, no, just a minute now.</p>
+      <p begin="4007.26s" id="p1085" end="4011.431s">If I'm not mistaken,<br />I believe you're meant to go alone.</p>
+      <p begin="4011.536s" id="p1086" end="4014.351s">Why would I want to go there without you,<br />my darling?</p>
+      <p begin="4014.455s" id="p1087" end="4016.75s">Well, it's one of the rules.</p>
+      <p begin="4016.854s" id="p1088" end="4022.382s">One imagination at a time,<br />free from the influence of another.</p>
+      <p begin="4022.485s" id="p1089" end="4023.736s">Boring.</p>
+      <p begin="4023.841s" id="p1090" end="4027.282s">- Don't shoot the messenger, babe.<br />- I'm not going to shoot the messenger.</p>
+      <p begin="4027.386s" id="p1091" end="4029.159s">Oh, look, come!</p>
+      <p begin="4031.35s" id="p1092" end="4032.497s">Another possibility.</p>
+      <p begin="4032.601s" id="p1093" end="4033.853s">Come. Come, come.</p>
+      <p begin="4033.956s" id="p1094" end="4035.522s">You must make a choice.</p>
+      <p begin="4035.624s" id="p1095" end="4037.92s">- Mm.<br />- Actually, to be quite honest,</p>
+      <p begin="4038.023s" id="p1096" end="4041.047s">I would strongly recommend this one.</p>
+      <p begin="4041.152s" id="p1097" end="4042.3s">The gondola.</p>
+      <p begin="4050.12s" id="p1098" end="4051.165s">Look,</p>
+      <p begin="4051.268s" id="p1099" end="4053.145s">Rudolph Valentino.</p>
+      <p begin="4054.292s" id="p1100" end="4056.169s">James Dean.</p>
+      <p begin="4056.274s" id="p1101" end="4058.256s">Princess Di.</p>
+      <p begin="4058.36s" id="p1102" end="4059.82s">All these people...</p>
+      <p begin="4061.383s" id="p1103" end="4063.053s">...they're all dead.</p>
+      <p begin="4063.157s" id="p1104" end="4065.033s">Yes.</p>
+      <p begin="4065.138s" id="p1105" end="4068.579s">But... immortal, nevertheless.</p>
+      <p begin="4069.935s" id="p1106" end="4073.689s">They won't get old, or fat.</p>
+      <p begin="4073.794s" id="p1107" end="4077.34s">They won't get sick or feeble.</p>
+      <p begin="4078.383s" id="p1108" end="4080.781s">They are beyond fear</p>
+      <p begin="4080.885s" id="p1109" end="4084.535s">because they are forever young.</p>
+      <p begin="4086.308s" id="p1110" end="4088.29s">They are gods.</p>
+      <p begin="4089.541s" id="p1111" end="4092.357s">And you can join them.</p>
+      <p begin="4093.712s" id="p1112" end="4095.694s">You are such a wonderful speaker.</p>
+      <p begin="4095.798s" id="p1113" end="4097.049s">I know.</p>
+      <p begin="4097.154s" id="p1114" end="4098.51s">Get in the boat.</p>
+      <p begin="4099.344s" id="p1115" end="4101.012s">Ah, a little one more thing.</p>
+      <p begin="4101.117s" id="p1116" end="4102.994s">Look at me.</p>
+      <p begin="4103.098s" id="p1117" end="4106.644s">This is very, very, very, very important.</p>
+      <p begin="4107.583s" id="p1118" end="4111.858s">Your sacrifice must be absolutely pure.</p>
+      <p begin="4112.901s" id="p1119" end="4118.949s">Therefore you will need to relinquish<br />all your worldly possessions.</p>
+      <p begin="4119.054s" id="p1120" end="4121.245s">Oh. You mean this?</p>
+      <p begin="4121.348s" id="p1121" end="4123.747s">Yes. And this.</p>
+      <p begin="4126.458s" id="p1122" end="4128.022s">Now this one.</p>
+      <p begin="4147.42s" id="p1123" end="4149.298s">Got it! You're free.</p>
+      <p begin="4149.401s" id="p1124" end="4152.322s">- You're free.<br />- Thank you.</p>
+      <p begin="4157.014s" id="p1125" end="4158.266s">- Bye-bye.<br />- Ta-ta.</p>
+      <p begin="4158.37s" id="p1126" end="4158.995s">Bye.</p>
+      <p begin="4160.351s" id="p1127" end="4161.186s">Bye.</p>
+      <p begin="4161.707s" id="p1128" end="4163.793s">Prepare to be reborn, darling.</p>
+      <p begin="4164.418s" id="p1129" end="4166.4s">And remember...</p>
+      <p begin="4166.504s" id="p1130" end="4168.382s">Nothing's permanent.</p>
+      <p begin="4168.485s" id="p1131" end="4170.989s">Not even death.</p>
+      <p begin="4184.337s" id="p1132" end="4185.484s">Shit.</p>
+      <p begin="4193.827s" id="p1133" end="4195.6s">I um...</p>
+      <p begin="4195.704s" id="p1134" end="4197.268s">Have you... What if...</p>
+      <p begin="4197.373s" id="p1135" end="4198.937s">No, it's...</p>
+      <p begin="4199.041s" id="p1136" end="4199.876s">Oh.</p>
+      <p begin="4199.98s" id="p1137" end="4202.586s">What the hell just happened to me?<br />How did you do that?</p>
+      <p begin="4202.691s" id="p1138" end="4204.047s">Oh, it was nothing.</p>
+      <p begin="4204.151s" id="p1139" end="4207.383s">- Voila.<br />- Oh, voila.</p>
+      <p begin="4215.728s" id="p1140" end="4217.708s">Oh, oh, oh...</p>
+      <p begin="4222.505s" id="p1141" end="4223.652s">Oh, thank you.</p>
+      <p begin="4223.757s" id="p1142" end="4226.677s">That was so beautiful.</p>
+      <p begin="4226.782s" id="p1143" end="4227.824s">Oh, thank you, madame.</p>
+      <p begin="4227.928s" id="p1144" end="4231.578s">You have given me the strength to continue.<br />Bless you.</p>
+      <p begin="4231.683s" id="p1145" end="4232.83s">What name?</p>
+      <p begin="4232.934s" id="p1146" end="4234.915s">I'll leave it blank.</p>
+      <p begin="4239.505s" id="p1147" end="4240.651s">Thank you.</p>
+      <p begin="4244.928s" id="p1148" end="4246.387s">Madame, you've...</p>
+      <p begin="4247.326s" id="p1149" end="4249.306s">Take me!</p>
+      <p begin="4253.583s" id="p1150" end="4255.147s">Voila.</p>
+      <p begin="4259.735s" id="p1151" end="4261.822s">Fabulous.</p>
+      <p begin="4277.152s" id="p1152" end="4277.986s">Oh.</p>
+      <p begin="4278.089s" id="p1153" end="4279.341s">Oh, thanks.</p>
+      <p begin="4290.083s" id="p1154" end="4292.273s">One more to go and we're free.</p>
+      <p begin="4321.159s" id="p1155" end="4322.411s">Whoo!</p>
+      <p begin="4339.514s" id="p1156" end="4340.244s">Hey!</p>
+      <p begin="4340.348s" id="p1157" end="4342.226s">Anton!</p>
+      <p begin="4342.33s" id="p1158" end="4343.268s">Just wait...</p>
+      <p begin="4343.372s" id="p1159" end="4344.312s">Ooh!</p>
+      <p begin="4348.9s" id="p1160" end="4350.464s">Where are we?</p>
+      <p begin="4350.568s" id="p1161" end="4351.82s">Where did he go?</p>
+      <p begin="4351.924s" id="p1162" end="4353.176s">Boss, you speak English.</p>
+      <p begin="4353.281s" id="p1163" end="4355.158s">Yeah, me too.</p>
+      <p begin="4355.261s" id="p1164" end="4356.617s">Hi. Hello.</p>
+      <p begin="4356.722s" id="p1165" end="4359.432s">Today's special. "Reach for the Clouds."</p>
+      <p begin="4359.537s" id="p1166" end="4361.309s">Discover your true potential.</p>
+      <p begin="4361.414s" id="p1167" end="4364.335s">You too can become rich, famous, celebrated.</p>
+      <p begin="4364.439s" id="p1168" end="4367.149s">Using no organic produce or nut-free food,</p>
+      <p begin="4367.254s" id="p1169" end="4369.757s">discover the power within you.<br />Market research...</p>
+      <p begin="4369.862s" id="p1170" end="4372.26s">- There he is!<br />- Where? Where?</p>
+      <p begin="4372.364s" id="p1171" end="4374.033s">...only 30, I'm sure...<br />- After him!</p>
+      <p begin="4374.137s" id="p1172" end="4376.536s">- I'm sure.<br />- Relax.</p>
+      <p begin="4376.641s" id="p1173" end="4378.1s">Smell the flower.</p>
+      <p begin="4378.204s" id="p1174" end="4380.186s">- Quick, up the ladder!<br />- After him.</p>
+      <p begin="4380.394s" id="p1175" end="4381.124s">Quickly.</p>
+      <p begin="4384.565s" id="p1176" end="4385.922s">Oh!</p>
+      <p begin="4386.026s" id="p1177" end="4388.32s"><span tts:fontStyle="italic">Reach for the clouds!</span></p>
+      <p begin="4388.424s" id="p1178" end="4391.24s"><span tts:fontStyle="italic">Come on, achieve your potential.</span></p>
+      <p begin="4392.074s" id="p1179" end="4394.056s"><span tts:fontStyle="italic">It can be you.</span></p>
+      <p begin="4394.16s" id="p1180" end="4396.141s"><span tts:fontStyle="italic">It will be you.</span></p>
+      <p begin="4396.246s" id="p1181" end="4399.061s"><span tts:fontStyle="italic">It is you!</span></p>
+      <p begin="4401.355s" id="p1182" end="4403.337s"><span tts:fontStyle="italic">It will be you!</span></p>
+      <p begin="4404.379s" id="p1183" end="4406.361s"><span tts:fontStyle="italic">It is you!</span></p>
+      <p begin="4413.244s" id="p1184" end="4414.496s">Oh...</p>
+      <p begin="4414.6s" id="p1185" end="4416.686s">Get up there, quickly!</p>
+      <p begin="4416.791s" id="p1186" end="4418.667s">Quickly!</p>
+      <p begin="4428.261s" id="p1187" end="4429.826s">You idiots!</p>
+      <p begin="4436.604s" id="p1188" end="4437.334s">Aaargh!</p>
+      <p begin="4439.107s" id="p1189" end="4440.775s">Ohhh...</p>
+      <p begin="4440.88s" id="p1190" end="4442.652s">Waargh!</p>
+      <p begin="4449.015s" id="p1191" end="4451.1s">Get up! Come on!</p>
+      <p begin="4454.958s" id="p1192" end="4457.044s">Gregor, get up! Idiots!</p>
+      <p begin="4457.148s" id="p1193" end="4459.13s">I want him dead!</p>
+      <p begin="4499.698s" id="p1194" end="4500.635s">Oh...</p>
+      <p begin="4502.722s" id="p1195" end="4506.684s">It's OK! It's OK, I've got you!<br />I've got you!</p>
+      <p begin="4509.604s" id="p1196" end="4511.481s">I've got you!</p>
+      <p begin="4534.946s" id="p1197" end="4536.198s">Kill him!</p>
+      <p begin="4539.534s" id="p1198" end="4541.932s">- Give me a chance!<br />- That's not him!</p>
+      <p begin="4542.037s" id="p1199" end="4544.123s">I told you that's not him!</p>
+      <p begin="4545.062s" id="p1200" end="4546.835s">It's not?</p>
+      <p begin="4547.877s" id="p1201" end="4549.754s">- No, it's not. It's not.<br />- It has to be.</p>
+      <p begin="4549.859s" id="p1202" end="4552.153s">The boss is always right.</p>
+      <p begin="4552.258s" id="p1203" end="4553.509s">No, this has to be!</p>
+      <p begin="4553.613s" id="p1204" end="4555.803s">Wait, wait, wait!<br />He was right. It's not me.</p>
+      <p begin="4558.827s" id="p1205" end="4560.705s">It has to be.</p>
+      <p begin="4560.809s" id="p1206" end="4562.791s">Look!</p>
+      <p begin="4562.894s" id="p1207" end="4565.501s">You think you fool us? No way, Jose.</p>
+      <p begin="4565.606s" id="p1208" end="4566.962s">- No way!<br />- Stop.</p>
+      <p begin="4567.065s" id="p1209" end="4568.109s">Listen to me.</p>
+      <p begin="4568.213s" id="p1210" end="4569.987s">You stole my money.</p>
+      <p begin="4570.09s" id="p1211" end="4571.446s">I will make you die again.</p>
+      <p begin="4571.55s" id="p1212" end="4574.574s">This time... forever.</p>
+      <p begin="4578.954s" id="p1213" end="4579.997s">Hey, hey!</p>
+      <p begin="4580.102s" id="p1214" end="4581.978s">Hey, hey, hey!</p>
+      <p begin="4582.083s" id="p1215" end="4583.229s">What are you...?</p>
+      <p begin="4583.334s" id="p1216" end="4585.211s">Excuse me!</p>
+      <p begin="4585.316s" id="p1217" end="4588.445s">Would you mind putting him down?</p>
+      <p begin="4588.55s" id="p1218" end="4591.365s">What do you think you're playing at?<br />You're in your bedroom now?</p>
+      <p begin="4591.469s" id="p1219" end="4593.555s">You're playing with soldiers, with toys?</p>
+      <p begin="4593.659s" id="p1220" end="4595.746s">No, this is a human being!</p>
+      <p begin="4595.849s" id="p1221" end="4597.725s">Now, he's coming with me!</p>
+      <p begin="4598.978s" id="p1222" end="4602.002s">Or maybe we can settle this<br />with some fisticuffs.</p>
+      <p begin="4602.106s" id="p1223" end="4603.879s">All right? Who's first? You're up.</p>
+      <p begin="4603.983s" id="p1224" end="4605.756s">All right. Bring it on, man.</p>
+      <p begin="4605.861s" id="p1225" end="4607.529s">Bring it on. Let's do this.</p>
+      <p begin="4607.634s" id="p1226" end="4608.885s">Let's do this.</p>
+      <p begin="4608.988s" id="p1227" end="4610.866s">OK? You first? You first?</p>
+      <p begin="4610.97s" id="p1228" end="4613.055s">- You first?<br />- Relax.</p>
+      <p begin="4613.16s" id="p1229" end="4615.454s">Smell the flower.</p>
+      <p begin="4617.228s" id="p1230" end="4618.27s">Smell.</p>
+      <p begin="4618.375s" id="p1231" end="4619.73s">OK.</p>
+      <p begin="4623.38s" id="p1232" end="4624.944s">Oh, my...</p>
+      <p begin="4659.047s" id="p1233" end="4660.089s">'Ello, 'ello.</p>
+      <p begin="4660.194s" id="p1234" end="4662.488s">Hey, boys, channel that violence for the good.</p>
+      <p begin="4662.592s" id="p1235" end="4666.034s">Come on, join up. Come on, lads.</p>
+      <p begin="4666.138s" id="p1236" end="4667.702s">Join up today.</p>
+      <p begin="4668.64s" id="p1237" end="4669.995s"><span tts:fontStyle="italic">We love violence</span></p>
+      <p begin="4670.1s" id="p1238" end="4672.499s"><span tts:fontStyle="italic">With truncheon, badge and gun</span></p>
+      <p begin="4672.603s" id="p1239" end="4674.167s"><span tts:fontStyle="italic">Your right to silence ends, babe</span></p>
+      <p begin="4674.271s" id="p1240" end="4676.462s"><span tts:fontStyle="italic">When we begin our fun</span></p>
+      <p begin="4676.566s" id="p1241" end="4678.443s"><span tts:fontStyle="italic">But if you choose to join us</span></p>
+      <p begin="4678.548s" id="p1242" end="4680.111s"><span tts:fontStyle="italic">The choice is clearly yours</span></p>
+      <p begin="4680.216s" id="p1243" end="4682.093s"><span tts:fontStyle="italic">We'll swear that you'll be legal</span></p>
+      <p begin="4682.198s" id="p1244" end="4684.7s"><span tts:fontStyle="italic">When we batter down the doors</span></p>
+      <p begin="4684.805s" id="p1245" end="4686.473s"><span tts:fontStyle="italic">Of people we don't like, you know...</span></p>
+      <p begin="4692.522s" id="p1246" end="4694.503s"><span tts:fontStyle="italic">And split their flesh,</span><br /><span tts:fontStyle="italic">their bones, their skulls...</span></p>
+      <p begin="4694.607s" id="p1247" end="4695.651s">Mama!</p>
+      <p begin="4698.675s" id="p1248" end="4701.386s"><span tts:fontStyle="italic">We're the mothers of all fears, oi</span></p>
+      <p begin="4708.165s" id="p1249" end="4710.876s">- Mama!<br />- Wait!</p>
+      <p begin="4710.981s" id="p1250" end="4714.213s">Wrong way! Wrong choice!</p>
+      <p begin="4714.317s" id="p1251" end="4715.359s">Come back!</p>
+      <p begin="4715.464s" id="p1252" end="4718.384s">Mama!</p>
+      <p begin="4718.489s" id="p1253" end="4720.471s">Come back!</p>
+      <p begin="4732.985s" id="p1254" end="4735.278s">Hey, Parny!</p>
+      <p begin="4735.383s" id="p1255" end="4738.512s">I'm going to Chicago, baby.</p>
+      <p begin="4738.617s" id="p1256" end="4740.91s">I'm driving a stick.</p>
+      <p begin="4753.112s" id="p1257" end="4756.24s">Yea-a-a-a-he-a-a-a!</p>
+      <p begin="4759.369s" id="p1258" end="4760.725s">Ahh.</p>
+      <p begin="4773.551s" id="p1259" end="4774.387s">Anton!</p>
+      <p begin="4774.491s" id="p1260" end="4776.992s">Anton...</p>
+      <p begin="4777.097s" id="p1261" end="4778.245s">Wakey, wakey...</p>
+      <p begin="4778.349s" id="p1262" end="4779.496s">Wakey, wakey.</p>
+      <p begin="4779.6s" id="p1263" end="4780.852s">Anton... I need your help.</p>
+      <p begin="4780.956s" id="p1264" end="4782.938s">- Wakey, wakey. Help me.<br />- I'm awake.</p>
+      <p begin="4783.041s" id="p1265" end="4784.293s">- Did you see me?<br />- Yeah.</p>
+      <p begin="4784.397s" id="p1266" end="4785.648s">- Did you?<br />- You were great.</p>
+      <p begin="4785.753s" id="p1267" end="4787.943s">I climbed the ladder. It was unbelievable.</p>
+      <p begin="4788.047s" id="p1268" end="4790.968s">I mean, I nearly touched the clouds.<br />I felt incredible.</p>
+      <p begin="4791.071s" id="p1269" end="4793.47s">- I've been my true self.<br />- Who are you?</p>
+      <p begin="4795.034s" id="p1270" end="4796.494s">It's Tony.</p>
+      <p begin="4796.599s" id="p1271" end="4797.537s">Tony.</p>
+      <p begin="4798.581s" id="p1272" end="4799.415s">Tony.</p>
+      <p begin="4799.519s" id="p1273" end="4802.334s">No, it's not Tony. You're not Tony.<br />No, it's not Tony.</p>
+      <p begin="4802.439s" id="p1274" end="4804.629s">Use your imagination. Huh?</p>
+      <p begin="4805.047s" id="p1275" end="4807.028s">Use your imagination.</p>
+      <p begin="4808.279s" id="p1276" end="4810.156s">Listen...</p>
+      <p begin="4811.095s" id="p1277" end="4812.346s">I need your help.</p>
+      <p begin="4812.45s" id="p1278" end="4815.37s">- Yeah?<br />- You know Parnassus' mind.</p>
+      <p begin="4815.475s" id="p1279" end="4817.247s">How do I get back to those ladders?</p>
+      <p begin="4817.352s" id="p1280" end="4818.708s">Is there a map?</p>
+      <p begin="4818.812s" id="p1281" end="4820.271s">Hey, hey, hey!</p>
+      <p begin="4820.376s" id="p1282" end="4821.419s">So you're Tony, right?</p>
+      <p begin="4821.524s" id="p1283" end="4825.383s">If you're Tony, what's the name of my chicken?</p>
+      <p begin="4825.485s" id="p1284" end="4827.467s">What?</p>
+      <p begin="4828.093s" id="p1285" end="4829.658s">Plucked.</p>
+      <p begin="4829.761s" id="p1286" end="4832.578s">God, you've no idea what it's like to feel,<br />I mean, like a god.</p>
+      <p begin="4832.681s" id="p1287" end="4834.663s">My lungs were full of air.</p>
+      <p begin="4835.498s" id="p1288" end="4839.253s">Who were they? Who were those big<br />Russian men with the fists in my face?</p>
+      <p begin="4839.356s" id="p1289" end="4840.921s">- That's not important.<br />- It is important.</p>
+      <p begin="4841.024s" id="p1290" end="4843.84s">- Getting back to that... full body...<br />- You stole their money.</p>
+      <p begin="4843.945s" id="p1291" end="4846.656s">- No, I didn't.<br />- You stole their money.</p>
+      <p begin="4846.761s" id="p1292" end="4848.95s">That's what I heard them say,<br />with my own ears.</p>
+      <p begin="4849.054s" id="p1293" end="4851.244s">- You're going to believe them, before you believe me?<br />- Yeah I might.</p>
+      <p begin="4851.349s" id="p1294" end="4853.957s">And what are these?<br />Explain these marks on your forehead.</p>
+      <p begin="4854.061s" id="p1295" end="4856.459s">I don't know. Something satanic... Devil...</p>
+      <p begin="4856.564s" id="p1296" end="4859.066s">Listen, those were irredeemably bad men.</p>
+      <p begin="4859.17s" id="p1297" end="4861.048s">Hm?</p>
+      <p begin="4861.152s" id="p1298" end="4863.134s">OK? And I'm essentially good.</p>
+      <p begin="4865.532s" id="p1299" end="4868.869s">Oh, sorry, Tony's trying to be, what,</p>
+      <p begin="4869.599s" id="p1300" end="4870.85s">- prim?<br />- Self-righteous.</p>
+      <p begin="4870.955s" id="p1301" end="4872.728s">- Self-righteous?<br />- Yes.</p>
+      <p begin="4872.831s" id="p1302" end="4874.709s">- Well, you want me to be honest?<br />- Oh, yeah.</p>
+      <p begin="4874.813s" id="p1303" end="4876.377s">- You want the truth?<br />- I'd love it.</p>
+      <p begin="4876.481s" id="p1304" end="4878.151s">- Really?<br />- Think you can muster it up?</p>
+      <p begin="4878.254s" id="p1305" end="4881.175s">Do you think you can<br />get it out of that carcass of yours?</p>
+      <p begin="4881.279s" id="p1306" end="4883.677s">Just for once. Just for me.</p>
+      <p begin="4883.782s" id="p1307" end="4885.45s">Eh?</p>
+      <p begin="4885.554s" id="p1308" end="4887.953s">When I set up my charity, Anton</p>
+      <p begin="4888.058s" id="p1309" end="4889.935s">a charity for kids</p>
+      <p begin="4890.977s" id="p1310" end="4895.254s">I needed money,<br />and I accepted a loan from those men.</p>
+      <p begin="4900.258s" id="p1311" end="4902.136s">I had no id...</p>
+      <p begin="4902.24s" id="p1312" end="4904.639s">I didn't know.</p>
+      <p begin="4904.744s" id="p1313" end="4907.454s">They laundered dirty money<br />through the charity.</p>
+      <p begin="4912.044s" id="p1314" end="4914.025s">I know I was stupid.</p>
+      <p begin="4914.754s" id="p1315" end="4916.736s">I made a mistake...</p>
+      <p begin="4917.674s" id="p1316" end="4920.386s">...and the kids weren't to blame.</p>
+      <p begin="4921.638s" id="p1317" end="4923.828s">They were the innocents.</p>
+      <p begin="4923.932s" id="p1318" end="4925.809s">But I...</p>
+      <p begin="4925.914s" id="p1319" end="4928.416s">I carry that every day.</p>
+      <p begin="4928.52s" id="p1320" end="4930.502s">Every day of my life.</p>
+      <p begin="4935.404s" id="p1321" end="4937.386s">All right.</p>
+      <p begin="4938.323s" id="p1322" end="4940.931s">- You wanted the truth.<br />- Sorry.</p>
+      <p begin="4945.728s" id="p1323" end="4947.709s">Are you OK?</p>
+      <p begin="4948.648s" id="p1324" end="4950.629s">Thank you for that.</p>
+      <p begin="4951.15s" id="p1325" end="4953.237s">Where are the ladders?</p>
+      <p begin="4953.341s" id="p1326" end="4955.218s">Will you show me?</p>
+      <p begin="4956.052s" id="p1327" end="4958.033s">The clouds...</p>
+      <p begin="4959.077s" id="p1328" end="4960.641s">Nah.</p>
+      <p begin="4963.769s" id="p1329" end="4965.229s">Anton...</p>
+      <p begin="4965.334s" id="p1330" end="4967.211s">Hey, mate, don't leave...</p>
+      <p begin="4967.314s" id="p1331" end="4969.296s">- Ow, ow, ow.<br />- Don't leave me here.</p>
+      <p begin="4969.401s" id="p1332" end="4970.757s">Anton!</p>
+      <p begin="4970.861s" id="p1333" end="4972.008s">Don't leave me. Come on.</p>
+      <p begin="4972.111s" id="p1334" end="4974.093s">I almost died today.</p>
+      <p begin="4975.658s" id="p1335" end="4977.848s">Don't leave me. Mate, come on.</p>
+      <p begin="4977.952s" id="p1336" end="4978.995s">I ju...</p>
+      <p begin="4979.099s" id="p1337" end="4980.351s">Oh, this...</p>
+      <p begin="4980.456s" id="p1338" end="4982.437s">I needed the money!</p>
+      <p begin="4982.541s" id="p1339" end="4986.607s">When you run a charity,<br />you have to give lots of money away.</p>
+      <p begin="4986.712s" id="p1340" end="4988.277s">The red tape, the bureauc...</p>
+      <p begin="4988.38s" id="p1341" end="4992.239s">You have no idea what a bunch of fascists<br />the Charity Commission is.</p>
+      <p begin="4992.761s" id="p1342" end="4995.368s">How many more times<br />does he have to say sorry?</p>
+      <p begin="4995.471s" id="p1343" end="4999.226s">This is ridiculous. Bring him down.</p>
+      <p begin="4999.33s" id="p1344" end="5000.894s">Listen, Valentina. Look at me.</p>
+      <p begin="5000.999s" id="p1345" end="5005.484s">Why can't you see that he has betrayed us<br />and he has fooled us all? It's so obvious.</p>
+      <p begin="5005.587s" id="p1346" end="5008.09s">- Open the hatch!<br />- You're just jealous.</p>
+      <p begin="5008.194s" id="p1347" end="5010.593s">It's not funny.</p>
+      <p begin="5010.698s" id="p1348" end="5012.68s">I'm not jealous. I'm not jealous.</p>
+      <p begin="5012.783s" id="p1349" end="5014.139s">Percy, open the hatch.</p>
+      <p begin="5014.243s" id="p1350" end="5017.998s">Why would he wanna come down?<br />He knows we don't like him.</p>
+      <p begin="5018.103s" id="p1351" end="5020.709s">Come on, you guys. Look at this stuff.</p>
+      <p begin="5022.274s" id="p1352" end="5024.047s">Have you forgotten how it was before he came?</p>
+      <p begin="5024.152s" id="p1353" end="5026.131s">No, no, I haven't forgotten, Valentina.</p>
+      <p begin="5026.236s" id="p1354" end="5028.947s">It was so pure.<br />Will you please just unzip me here?</p>
+      <p begin="5029.052s" id="p1355" end="5030.72s">Pure?</p>
+      <p begin="5031.763s" id="p1356" end="5034.162s">And the women?<br />You saw their faces when they came out.</p>
+      <p begin="5034.267s" id="p1357" end="5035.935s">I saw his faces, Valentina.</p>
+      <p begin="5036.04s" id="p1358" end="5038.542s">I saw both of his faces.<br />He has at least two. If not more.</p>
+      <p begin="5038.647s" id="p1359" end="5042.089s">It's my birthday.<br />Percy, we're supposed to be celebrating.</p>
+      <p begin="5044.382s" id="p1360" end="5045.946s">At least Tony remembered.</p>
+      <p begin="5046.676s" id="p1361" end="5048.762s">Would you please just listen to me<br />for one second?</p>
+      <p begin="5053.142s" id="p1362" end="5054.603s">No.</p>
+      <p begin="5054.706s" id="p1363" end="5056.479s">Leave it.</p>
+      <p begin="5062.215s" id="p1364" end="5064.614s">Let him in, it's... Tony?</p>
+      <p begin="5064.718s" id="p1365" end="5066.594s">No, I think not.</p>
+      <p begin="5068.681s" id="p1366" end="5070.558s">Sit down.</p>
+      <p begin="5079.736s" id="p1367" end="5081.925s">Can somebody please answer the door?</p>
+      <p begin="5082.03s" id="p1368" end="5084.532s">I can't stand not answering the door,<br />or the telephone.</p>
+      <p begin="5084.636s" id="p1369" end="5087.139s">Drives me crazy. It's not in my nature.</p>
+      <p begin="5087.244s" id="p1370" end="5088.912s">I won't be able to sleep.</p>
+      <p begin="5089.017s" id="p1371" end="5092.562s">The knock-knock-knocking<br />is gonna be in my head all night.</p>
+      <p begin="5092.667s" id="p1372" end="5094.023s">Just things like that.</p>
+      <p begin="5107.579s" id="p1373" end="5108.519s">Well...</p>
+      <p begin="5110.187s" id="p1374" end="5111.334s">...you've won.</p>
+      <p begin="5112.272s" id="p1375" end="5113.732s">It's over.</p>
+      <p begin="5113.837s" id="p1376" end="5117.278s">- Four rotten Russkies?<br />- And the girl from the pub.</p>
+      <p begin="5117.383s" id="p1377" end="5119.572s">Ahh, Sal.</p>
+      <p begin="5121.659s" id="p1378" end="5123.952s">She don't count. Do you, Sal?</p>
+      <p begin="5124.057s" id="p1379" end="5126.559s">And that's how you take your pleasure,<br />is it?</p>
+      <p begin="5126.664s" id="p1380" end="5128.436s">Toying with me?</p>
+      <p begin="5128.541s" id="p1381" end="5130.105s">Like a cat with a mouse?</p>
+      <p begin="5130.209s" id="p1382" end="5133.338s">Come on.<br />Sal didn't get to make a real choice.</p>
+      <p begin="5133.442s" id="p1383" end="5136.362s">You were out for the count.<br />It wouldn't be fair.</p>
+      <p begin="5136.466s" id="p1384" end="5140.012s">You got four...<br />So, you know, you get your friend Tony.</p>
+      <p begin="5140.743s" id="p1385" end="5142.306s">Come on.</p>
+      <p begin="5143.141s" id="p1386" end="5144.496s">We're even.</p>
+      <p begin="5145.227s" id="p1387" end="5147.208s">It's not quite over.</p>
+      <p begin="5149.711s" id="p1388" end="5151.379s">Not quite.</p>
+      <p begin="5152.423s" id="p1389" end="5154.091s">Ho-ho, look at the time.</p>
+      <p begin="5154.195s" id="p1390" end="5156.073s">It's almost eleven.</p>
+      <p begin="5164.52s" id="p1391" end="5165.457s">Dad?</p>
+      <p begin="5165.562s" id="p1392" end="5167.022s">What?</p>
+      <p begin="5167.127s" id="p1393" end="5171.611s">Oh. We're going to have to give<br />another performance.</p>
+      <p begin="5171.715s" id="p1394" end="5173.488s">Now, quickly.</p>
+      <p begin="5173.593s" id="p1395" end="5174.947s">Er...</p>
+      <p begin="5175.887s" id="p1396" end="5177.868s">Get ready to move out.</p>
+      <p begin="5177.971s" id="p1397" end="5180.162s">- Who was that?<br />- Just somebody asking the way.</p>
+      <p begin="5180.267s" id="p1398" end="5182.457s">I overheard you. He wasn't asking the way.</p>
+      <p begin="5182.561s" id="p1399" end="5184.647s">Yes. Tony! Percy!</p>
+      <p begin="5184.751s" id="p1400" end="5187.671s">- What's going on?<br />- Not now, Scrumpy, not now.</p>
+      <p begin="5187.775s" id="p1401" end="5190.59s">- Where's Tony?<br />- What are you hiding?</p>
+      <p begin="5190.695s" id="p1402" end="5195.388s">It's to do with that bloody rambling story<br />you started telling and never finished.</p>
+      <p begin="5195.492s" id="p1403" end="5196.848s">What are you hiding?</p>
+      <p begin="5196.953s" id="p1404" end="5198.204s">Oh, you...</p>
+      <p begin="5201.645s" id="p1405" end="5203.627s">I want to know the truth.</p>
+      <p begin="5207.38s" id="p1406" end="5209.362s">The truth?</p>
+      <p begin="5212.803s" id="p1407" end="5214.576s">I am thousands of years old.</p>
+      <p begin="5215.516s" id="p1408" end="5217.705s">I have been immortal.</p>
+      <p begin="5218.54s" id="p1409" end="5220.208s">And...</p>
+      <p begin="5221.042s" id="p1410" end="5223.024s">...I did make a bargain with the Devil.</p>
+      <p begin="5224.275s" id="p1411" end="5226.153s">For that woman, in the story?</p>
+      <p begin="5226.257s" id="p1412" end="5227.716s">Yes.</p>
+      <p begin="5230.22s" id="p1413" end="5231.993s">Your mother.</p>
+      <p begin="5237.728s" id="p1414" end="5242.526s">I regained my youth and I won her.</p>
+      <p begin="5242.629s" id="p1415" end="5244.402s">We lived in joy.</p>
+      <p begin="5245.132s" id="p1416" end="5247.323s">We grew old together.</p>
+      <p begin="5247.426s" id="p1417" end="5250.45s">And then one day<br />she came and told me that she was pregnant.</p>
+      <p begin="5250.555s" id="p1418" end="5252.641s">Imagine.</p>
+      <p begin="5252.745s" id="p1419" end="5255.353s">60 years old and pregnant.</p>
+      <p begin="5255.457s" id="p1420" end="5257.334s">It was a miracle.</p>
+      <p begin="5258.377s" id="p1421" end="5260.566s">But she died giving birth.</p>
+      <p begin="5263.695s" id="p1422" end="5264.946s">Me?</p>
+      <p begin="5265.051s" id="p1423" end="5266.615s">Yes.</p>
+      <p begin="5268.909s" id="p1424" end="5271.517s">Miracle or a mistake?</p>
+      <p begin="5271.621s" id="p1425" end="5273.81s">You're the best mistake I ever made.</p>
+      <p begin="5275.167s" id="p1426" end="5277.565s">And the bargain with the Devil?</p>
+      <p begin="5278.4s" id="p1427" end="5280.276s">There are two parts to a bargain.</p>
+      <p begin="5280.381s" id="p1428" end="5282.154s">He granted me mortality</p>
+      <p begin="5282.258s" id="p1429" end="5289.767s">on condition that any child I would father...<br />would, at the age of 16, belong to him.</p>
+      <p begin="5292.165s" id="p1430" end="5293.834s">No.</p>
+      <p begin="5293.938s" id="p1431" end="5295.919s">You're just telling a story.</p>
+      <p begin="5296.754s" id="p1432" end="5299.048s">A cruel story.</p>
+      <p begin="5299.152s" id="p1433" end="5301.551s">- Why should I believe it?<br />- Because it's true.</p>
+      <p begin="5301.656s" id="p1434" end="5304.575s">Every word of it's true.<br />But... But there's a new wager.</p>
+      <p begin="5304.68s" id="p1435" end="5307.705s">All is not lost. Now, we can win, we can win.</p>
+      <p begin="5307.808s" id="p1436" end="5309.685s">- You'll be mine again.<br />- Enough, enough!</p>
+      <p begin="5309.789s" id="p1437" end="5311.355s">- Stop!<br />- No, listen to me, Scrumpy.</p>
+      <p begin="5311.458s" id="p1438" end="5313.231s">Listen to yourself!</p>
+      <p begin="5314.065s" id="p1439" end="5316.986s">Who are you? I don't know any more!</p>
+      <p begin="5317.089s" id="p1440" end="5320.114s">All my life you've filled my head with dreams.</p>
+      <p begin="5320.219s" id="p1441" end="5321.991s">Your dreams.</p>
+      <p begin="5322.096s" id="p1442" end="5324.285s">You're making deals with the Devil.</p>
+      <p begin="5325.119s" id="p1443" end="5327.205s">What am I?</p>
+      <p begin="5327.31s" id="p1444" end="5329.916s">A pathetic bet?</p>
+      <p begin="5330.02s" id="p1445" end="5332.002s">Another mistake?</p>
+      <p begin="5333.775s" id="p1446" end="5336.069s">- Val!<br />- Oh, she's gone.</p>
+      <p begin="5337.425s" id="p1447" end="5339.929s">- She's gone.<br />- Telling the truth...</p>
+      <p begin="5340.762s" id="p1448" end="5342.639s">Always a bad idea.</p>
+      <p begin="5342.744s" id="p1449" end="5347.02s">Oh, hold your tongue, you smug little pustule!</p>
+      <p begin="5347.124s" id="p1450" end="5349.419s">Get out of my sight and stay out!</p>
+      <p begin="5358.387s" id="p1451" end="5362.142s">Perhaps you'll find a midget<br />If you'll get lucky</p>
+      <p begin="5366.834s" id="p1452" end="5368.502s">Valentina!</p>
+      <p begin="5371.944s" id="p1453" end="5373.716s">Valentina!</p>
+      <p begin="5378.097s" id="p1454" end="5379.765s">Valentina!</p>
+      <p begin="5382.163s" id="p1455" end="5383.833s">Valentina!</p>
+      <p begin="5387.17s" id="p1456" end="5389.047s">Fuck.</p>
+      <p begin="5391.549s" id="p1457" end="5393.218s">Come on.</p>
+      <p begin="5397.911s" id="p1458" end="5401.457s">- What are you doing?<br />- Trying to save your daughter's life, sir.</p>
+      <p begin="5401.562s" id="p1459" end="5402.916s">Save?</p>
+      <p begin="5403.021s" id="p1460" end="5404.272s">How?</p>
+      <p begin="5404.377s" id="p1461" end="5406.775s">Well, I figured I could be the fifth soul.</p>
+      <p begin="5406.88s" id="p1462" end="5409.382s">See. I could take that risk, sir.</p>
+      <p begin="5409.487s" id="p1463" end="5412.094s">You're a good lad, Tony, but it's no use.</p>
+      <p begin="5412.198s" id="p1464" end="5413.659s">We still have time, don't we?</p>
+      <p begin="5413.762s" id="p1465" end="5415.744s">Yes, of course there's still time, but...</p>
+      <p begin="5415.848s" id="p1466" end="5419.082s">You know I'd never ask for anything in return?<br />It's not in my nature.</p>
+      <p begin="5419.185s" id="p1467" end="5423.774s">Well, you're a saint, my boy, you're a saint,<br />but it... it's positively useless.</p>
+      <p begin="5423.877s" id="p1468" end="5425.65s">Actually, there is one thing.</p>
+      <p begin="5425.755s" id="p1469" end="5426.902s">Um...</p>
+      <p begin="5427.007s" id="p1470" end="5431.491s">How about an initiation<br />into the secrets of the trance?</p>
+      <p begin="5431.596s" id="p1471" end="5433.681s">- Oh, I can't do that, no.<br />- What? Why not?</p>
+      <p begin="5433.786s" id="p1472" end="5435.558s">- No, it won't work.<br />- I could do it.</p>
+      <p begin="5435.663s" id="p1473" end="5437.644s">- You'd be a great teacher.<br />- It hurts my head.</p>
+      <p begin="5437.748s" id="p1474" end="5439.626s">- What do you mean?<br />- Too up... Too upset.</p>
+      <p begin="5439.73s" id="p1475" end="5442.963s">Oh, it's not a time to be upset, sir.<br />It's time to be happy.</p>
+      <p begin="5443.067s" id="p1476" end="5444.736s">I mean, think about Valentina.</p>
+      <p begin="5444.839s" id="p1477" end="5447.446s">Now, we need you to be in a trance<br />for this to work.</p>
+      <p begin="5447.551s" id="p1478" end="5448.908s">- Mm.<br />- Can you give me that?</p>
+      <p begin="5449.01s" id="p1479" end="5451.097s">- Well...<br />- Come on. Close your eyes, come on.</p>
+      <p begin="5452.869s" id="p1480" end="5455.477s">Close your eyes. Think of the ocean.</p>
+      <p begin="5455.581s" id="p1481" end="5458.397s">The ocean going in and out.</p>
+      <p begin="5458.501s" id="p1482" end="5461.317s">In and... out.</p>
+      <p begin="5461.422s" id="p1483" end="5464.446s">Yes, in and... out.</p>
+      <p begin="5465.905s" id="p1484" end="5468.825s">In and out.</p>
+      <p begin="5470.911s" id="p1485" end="5473.101s">And in and out.</p>
+      <p begin="5480.818s" id="p1486" end="5482.278s">Shit!</p>
+      <p begin="5483.634s" id="p1487" end="5486.033s">I don't have time for this.<br />Pull yourself together.</p>
+      <p begin="5486.136s" id="p1488" end="5487.701s">This is not a time to be playing baby.</p>
+      <p begin="5487.806s" id="p1489" end="5489.057s">- It's no good.<br />- What isn't?</p>
+      <p begin="5489.161s" id="p1490" end="5490.205s">It's no good.</p>
+      <p begin="5490.308s" id="p1491" end="5492.081s">- Now concentrate.<br />- Won't work.</p>
+      <p begin="5492.186s" id="p1492" end="5494.688s">Damn it, Tony, just... I need to calm down.</p>
+      <p begin="5494.792s" id="p1493" end="5496.356s">You need to calm down.</p>
+      <p begin="5496.461s" id="p1494" end="5502.51s">You just need to relax<br />and try and um... think of... chocolate.</p>
+      <p begin="5502.614s" id="p1495" end="5505.743s">Um, melting away on a hot stove.</p>
+      <p begin="5505.846s" id="p1496" end="5508.662s">It's just melting, melting...</p>
+      <p begin="5515.128s" id="p1497" end="5516.692s">Good, good, good, good, good.</p>
+      <p begin="5516.797s" id="p1498" end="5519.091s">Right, stay with me, sir. Stay with me.</p>
+      <p begin="5521.073s" id="p1499" end="5523.471s">- Oi, what's wrong with you?<br />- Duty!</p>
+      <p begin="5523.575s" id="p1500" end="5525.556s">Truth!</p>
+      <p begin="5525.661s" id="p1501" end="5526.807s">- Oi.<br />- Justice!</p>
+      <p begin="5526.912s" id="p1502" end="5529.103s">- Now, what is your problem?<br />- It's lies.</p>
+      <p begin="5529.206s" id="p1503" end="5531.293s">Just listen. All right now, calm down.</p>
+      <p begin="5531.397s" id="p1504" end="5533.275s">Bloody hell, father like daughter.</p>
+      <p begin="5533.378s" id="p1505" end="5535.151s">- Now come here, look at me.<br />- No.</p>
+      <p begin="5535.255s" id="p1506" end="5536.82s">- Calm down.<br />- No, no.</p>
+      <p begin="5536.925s" id="p1507" end="5538.696s">- What is wrong? Talk to me.<br />- Lying...</p>
+      <p begin="5538.801s" id="p1508" end="5541.72s">- Who's lying?<br />- I used to think it was precious. It's not.</p>
+      <p begin="5541.825s" id="p1509" end="5544.849s">What, the lmaginarium?<br />What are you talking about?</p>
+      <p begin="5544.954s" id="p1510" end="5548.188s">- I can't even run away.<br />- You can't even run away from what?</p>
+      <p begin="5548.292s" id="p1511" end="5549.96s">- You wanna run away from this?<br />- Yes.</p>
+      <p begin="5550.065s" id="p1512" end="5553.401s">Listen, if you wanna get away,<br />I can take you to a beautiful place.</p>
+      <p begin="5553.506s" id="p1513" end="5555.799s">All right? I can take you somewhere.</p>
+      <p begin="5555.904s" id="p1514" end="5559.45s">I can get you out of this darkness.<br />I'll take you to the light, all right?</p>
+      <p begin="5559.554s" id="p1515" end="5561.327s">I'll take you somewhere beautiful.</p>
+      <p begin="5561.431s" id="p1516" end="5564.038s">Just you and me. Now trust me.<br />Come with me now.</p>
+      <p begin="5564.143s" id="p1517" end="5566.125s">We don't have time for this. All right?</p>
+      <p begin="5566.229s" id="p1518" end="5568.314s">Now, it's gonna be a paradise, all right?</p>
+      <p begin="5568.418s" id="p1519" end="5570.817s">It's my world. It could be our world.</p>
+      <p begin="5570.921s" id="p1520" end="5572.694s">Trust me, it'll be perfect.</p>
+      <p begin="5574.049s" id="p1521" end="5576.761s">Ah, now. No, see, yeah, that's bad.</p>
+      <p begin="5576.866s" id="p1522" end="5579.576s">- Did some light reading and found this.<br />- Can I have a look?</p>
+      <p begin="5579.681s" id="p1523" end="5582.184s">- Valentina might be interested.<br />- We don't have time.</p>
+      <p begin="5582.289s" id="p1524" end="5584.27s">- We gotta get inside.<br />- He's a liar!</p>
+      <p begin="5584.374s" id="p1525" end="5586.981s">- He's nothing but a liar, Val.<br />- This was in the past.</p>
+      <p begin="5587.086s" id="p1526" end="5589.276s">In the present, I have to get you in there.</p>
+      <p begin="5589.38s" id="p1527" end="5591.57s">- So come here and trust me...<br />- Shut up!</p>
+      <p begin="5592.821s" id="p1528" end="5594.489s">Shut up!</p>
+      <p begin="5595.22s" id="p1529" end="5596.888s">Val! Valentina!</p>
+      <p begin="5596.993s" id="p1530" end="5598.349s">No!</p>
+      <p begin="5599.6s" id="p1531" end="5601.685s">- Aarghh!<br />- Right.</p>
+      <p begin="5602.936s" id="p1532" end="5605.023s">I didn't want it to get to this point, mate.</p>
+      <p begin="5605.752s" id="p1533" end="5608.881s">You don't believe what you read<br />in the newspapers.</p>
+      <p begin="5610.341s" id="p1534" end="5611.697s">Especially The Mirror.</p>
+      <p begin="5623.481s" id="p1535" end="5625.567s">You were right.</p>
+      <p begin="5625.671s" id="p1536" end="5627.549s">The world is beautiful.</p>
+      <p begin="5628.486s" id="p1537" end="5632.136s">- Hmm.<br />- I always dreamed you'd be like this.</p>
+      <p begin="5632.241s" id="p1538" end="5634.223s">Yeah?</p>
+      <p begin="5639.541s" id="p1539" end="5643.4s">And er... well, didn't I say you'd be happy here?</p>
+      <p begin="5644.338s" id="p1540" end="5646.946s">Isn't it just... perfect?</p>
+      <p begin="5647.049s" id="p1541" end="5648.405s">Perfect.</p>
+      <p begin="5649.865s" id="p1542" end="5651.013s">Hmm.</p>
+      <p begin="5651.118s" id="p1543" end="5653.307s">If only we didn't have to make a choice.</p>
+      <p begin="5653.411s" id="p1544" end="5655.496s">There doesn't have to be a choice.</p>
+      <p begin="5655.601s" id="p1545" end="5658.209s">Sweetheart, a rule's a rule.</p>
+      <p begin="5658.313s" id="p1546" end="5659.877s">Those are my father's rules.</p>
+      <p begin="5659.982s" id="p1547" end="5661.545s">We're free.</p>
+      <p begin="5662.38s" id="p1548" end="5664.257s">- See?<br />- Oh.</p>
+      <p begin="5664.36s" id="p1549" end="5665.822s">- Really?<br />- Really.</p>
+      <p begin="5665.925s" id="p1550" end="5667.594s">Hmm.</p>
+      <p begin="5667.698s" id="p1551" end="5669.575s">Well, er... I suppose you are right.</p>
+      <p begin="5670.409s" id="p1552" end="5674.06s">Tony, we're free if we want to be.</p>
+      <p begin="5675.206s" id="p1553" end="5677.293s">Let's just let the river do the choosing.</p>
+      <p begin="5678.648s" id="p1554" end="5680.943s">Now... kiss me.</p>
+      <p begin="5693.04s" id="p1555" end="5695.751s">Oh, Val, you're a very naughty girl.</p>
+      <p begin="5700.965s" id="p1556" end="5703.573s"><span tts:fontStyle="italic">When the moon hits your eyes</span></p>
+      <p begin="5703.678s" id="p1557" end="5705.971s"><span tts:fontStyle="italic">Like a big pizza pie</span></p>
+      <p begin="5706.076s" id="p1558" end="5708.37s"><span tts:fontStyle="italic">That's amore</span></p>
+      <p begin="5708.474s" id="p1559" end="5711.185s"><span tts:fontStyle="italic">When the stars make you drool</span></p>
+      <p begin="5711.289s" id="p1560" end="5713.584s"><span tts:fontStyle="italic">Just like pasta fazool</span></p>
+      <p begin="5713.688s" id="p1561" end="5715.357s"><span tts:fontStyle="italic">You're in love</span></p>
+      <p begin="5718.485s" id="p1562" end="5720.467s">You know...</p>
+      <p begin="5722.031s" id="p1563" end="5723.699s">...I think maybe I love you, Tony.</p>
+      <p begin="5724.639s" id="p1564" end="5726.621s">Val.</p>
+      <p begin="5726.724s" id="p1565" end="5729.122s">We should lie here more often.</p>
+      <p begin="5730.999s" id="p1566" end="5733.086s">Get married.</p>
+      <p begin="5733.815s" id="p1567" end="5736.214s">Make babies.</p>
+      <p begin="5743.722s" id="p1568" end="5747.06s">- Well, maybe this is my, er... choice.<br />- What d'you mean?</p>
+      <p begin="5747.164s" id="p1569" end="5749.771s">That's a child. It's not a choice.</p>
+      <p begin="5749.876s" id="p1570" end="5751.649s">- She needs our help.<br />- Yes.</p>
+      <p begin="5751.752s" id="p1571" end="5754.568s">It's OK. It's OK.<br />Come here, we'll help you.</p>
+      <p begin="5754.673s" id="p1572" end="5756.758s">Look, don't worry. Don't worry, come here.</p>
+      <p begin="5756.863s" id="p1573" end="5758.845s">No, no, it's OK, we're here to help you.</p>
+      <p begin="5758.948s" id="p1574" end="5760.617s">- Tony, help me. She's strong.<br />- No!</p>
+      <p begin="5760.722s" id="p1575" end="5763.329s">Come, it's OK. Honestly, no.</p>
+      <p begin="5763.432s" id="p1576" end="5765.519s">No, we're friends. Come here.</p>
+      <p begin="5768.021s" id="p1577" end="5770.629s">Huh?</p>
+      <p begin="5771.671s" id="p1578" end="5774.278s">- Smile for the cameras, sweetheart.<br />- Lovely!</p>
+      <p begin="5774.383s" id="p1579" end="5776.468s">I think this is my world.</p>
+      <p begin="5776.573s" id="p1580" end="5778.136s"><span tts:fontStyle="italic">Ode To Joy</span></p>
+      <p begin="5779.598s" id="p1581" end="5782.934s">Well, sustainability's great.<br />I mean, if you can achieve it.</p>
+      <p begin="5783.039s" id="p1582" end="5785.75s">The problem in most cases<br />is you simply can't get there.</p>
+      <p begin="5785.855s" id="p1583" end="5790.234s">Don't you risk entrenching the need for charity<br />by institutionalising it?</p>
+      <p begin="5790.339s" id="p1584" end="5793.78s">It's an unfortunate truism that charity,<br />like poor little Olga here,</p>
+      <p begin="5793.885s" id="p1585" end="5795.866s">is always with us, to coin a phrase.</p>
+      <p begin="5795.97s" id="p1586" end="5797.951s">Ah, there you are, my darling.</p>
+      <p begin="5798.055s" id="p1587" end="5801.601s">Ladies and gentlemen, isn't she a wonder?<br />Hello. Big smiles.</p>
+      <p begin="5801.705s" id="p1588" end="5805.146s">- What's your message to the President?<br />- I wouldn't presume to have message to the President.</p>
+      <p begin="5805.251s" id="p1589" end="5809.215s">I think, luckily for the Foundation,<br />we see eye-to-eye on most things.</p>
+      <p begin="5809.318s" id="p1590" end="5811.509s">- Tony, I had something...<br />- Oh, one sec, love.</p>
+      <p begin="5815.472s" id="p1591" end="5817.245s">Mr President, thank you for coming.</p>
+      <p begin="5817.349s" id="p1592" end="5819.226s">- There he is.<br />- It's great to see you.</p>
+      <p begin="5819.331s" id="p1593" end="5823.188s"><span tts:fontStyle="italic">We are the children of the world</span></p>
+      <p begin="5823.293s" id="p1594" end="5826.943s"><span tts:fontStyle="italic">And we have suffered for your sins</span></p>
+      <p begin="5827.569s" id="p1595" end="5830.697s"><span tts:fontStyle="italic">But if you open up your heart</span></p>
+      <p begin="5830.801s" id="p1596" end="5833.826s"><span tts:fontStyle="italic">A beautiful new day begins...</span></p>
+      <p begin="5834.66s" id="p1597" end="5838.518s">Ladies and gentlemen,<br />please be upstanding for the President.</p>
+      <p begin="5839.874s" id="p1598" end="5841.856s">Yes, so many suffering children.</p>
+      <p begin="5841.96s" id="p1599" end="5846.132s">So much opportunity to do some good, really.<br />It'll be a big year for our Foundation.</p>
+      <p begin="5846.236s" id="p1600" end="5849.051s">President is getting ready to make a speech,<br />introduce me on the stage.</p>
+      <p begin="5849.156s" id="p1601" end="5851.033s">- Yeah.<br />- Lovely.</p>
+      <p begin="5851.137s" id="p1602" end="5853.014s">Talk to you tomorrow. Yes, absolutely.</p>
+      <p begin="5853.119s" id="p1603" end="5855.309s">I've only three words to say.</p>
+      <p begin="5856.873s" id="p1604" end="5859.168s">Well done, Tony.</p>
+      <p begin="5859.271s" id="p1605" end="5861.67s">Ah, the children. The children.</p>
+      <p begin="5863.129s" id="p1606" end="5865.737s">This is a vital moment<br />for the future of the Foundation.</p>
+      <p begin="5865.842s" id="p1607" end="5868.552s">- Children of the world depend on us.<br />- Valentina!</p>
+      <p begin="5871.89s" id="p1608" end="5873.664s">Valentina!</p>
+      <p begin="5873.767s" id="p1609" end="5875.436s">- Anton?<br />- Yep.</p>
+      <p begin="5876.896s" id="p1610" end="5879.503s">- Anton?<br />- Yes, yes, listen to me right now.</p>
+      <p begin="5879.607s" id="p1611" end="5881.588s">This is nothing to do with you. This is him.</p>
+      <p begin="5881.693s" id="p1612" end="5883.674s">- Where are you?<br />- This is his imagination.</p>
+      <p begin="5883.779s" id="p1613" end="5885.03s">Right, call security now!</p>
+      <p begin="5885.135s" id="p1614" end="5887.011s">Down here, under your arm. Yes, yes.</p>
+      <p begin="5887.115s" id="p1615" end="5889.514s">- What... Anton, what are you doing here?<br />- Look.</p>
+      <p begin="5889.619s" id="p1616" end="5893.164s">"Disgraced Director of children's<br />charity, Suffer The Little Children..."</p>
+      <p begin="5893.269s" id="p1617" end="5895.354s">He's lying. It's not right, he's jeal...</p>
+      <p begin="5895.458s" id="p1618" end="5899.839s">"...was arrested last week on charges<br />of stealing organs of Third World children</p>
+      <p begin="5899.943s" id="p1619" end="5902.238s">and selling them to wealthy Westerners."</p>
+      <p begin="5903.801s" id="p1620" end="5905.679s">- Come back.<br />- What are you doing?</p>
+      <p begin="5905.783s" id="p1621" end="5907.243s">- That's Anton.<br />- He's lying.</p>
+      <p begin="5907.347s" id="p1622" end="5909.329s">- Stop!<br />- Whose side are you on?</p>
+      <p begin="5911.52s" id="p1623" end="5913.396s">You, you've betrayed me, haven't you?</p>
+      <p begin="5913.499s" id="p1624" end="5916.733s">- After all we've been through.<br />- Don't you touch her!</p>
+      <p begin="5916.838s" id="p1625" end="5921.112s">I'll show 'em! I'll show them all, Tony.<br />I'll show 'em all.</p>
+      <p begin="5921.217s" id="p1626" end="5923.825s">Have had the courage<br />to fight poverty...</p>
+      <p begin="5923.929s" id="p1627" end="5926.744s">- He's a liar, he's a fraud!<br />- Come here, you little bastard!</p>
+      <p begin="5926.849s" id="p1628" end="5928.622s">- Do not believe him.<br />- I'll kill you.</p>
+      <p begin="5928.726s" id="p1629" end="5931.541s">...passion... and dedication...<br />- All right, all right...</p>
+      <p begin="5931.646s" id="p1630" end="5933.731s">- Trying to...<br />...careers and struggles...</p>
+      <p begin="5933.835s" id="p1631" end="5936.234s">Shut up! Trying to ruin my world!</p>
+      <p begin="5936.339s" id="p1632" end="5938.112s">Stop him!</p>
+      <p begin="5938.216s" id="p1633" end="5940.406s">- My God.<br />- Somebody stop him.</p>
+      <p begin="5940.511s" id="p1634" end="5942.699s">- He's a monster!<br />- Stop him!</p>
+      <p begin="5942.804s" id="p1635" end="5944.995s">He was being a very naughty little boy.</p>
+      <p begin="5948.644s" id="p1636" end="5950.521s">Christ. Mr President.</p>
+      <p begin="5950.626s" id="p1637" end="5952.086s">Fuck.</p>
+      <p begin="5952.191s" id="p1638" end="5953.545s">Right.</p>
+      <p begin="5954.38s" id="p1639" end="5955.527s">Stop him!</p>
+      <p begin="5955.632s" id="p1640" end="5957.822s">Get out of me way! Christ.</p>
+      <p begin="5959.699s" id="p1641" end="5961.576s">Er, exit sign?</p>
+      <p begin="5961.681s" id="p1642" end="5963.14s">Er, oh, no.</p>
+      <p begin="5963.244s" id="p1643" end="5965.434s">No! No!</p>
+      <p begin="5965.539s" id="p1644" end="5967.521s">No! I can't. No, no, no...</p>
+      <p begin="5968.876s" id="p1645" end="5970.754s">No, not good. Er...</p>
+      <p begin="5971.9s" id="p1646" end="5974.403s">I'm coming after you, Tony!<br />I'm coming after you!</p>
+      <p begin="5974.507s" id="p1647" end="5976.072s">No, get off me.</p>
+      <p begin="5976.176s" id="p1648" end="5977.74s">Get off of me.</p>
+      <p begin="5985.562s" id="p1649" end="5987.231s">Anton! Anton!</p>
+      <p begin="5987.335s" id="p1650" end="5988.794s">- Are you OK?<br />- Are you all right?</p>
+      <p begin="5988.899s" id="p1651" end="5990.672s">Val! Val, watch out!</p>
+      <p begin="5990.776s" id="p1652" end="5992.34s">Be careful. Are you all right?</p>
+      <p begin="5992.444s" id="p1653" end="5994.217s">Valentina.</p>
+      <p begin="5994.322s" id="p1654" end="5996.095s">- Val. Val!<br />- Anton.</p>
+      <p begin="5998.91s" id="p1655" end="6000.057s">Anton.</p>
+      <p begin="6001.517s" id="p1656" end="6003.707s">Val, help me.</p>
+      <p begin="6003.811s" id="p1657" end="6005.688s">Hold on to me. Hold on to me, please.</p>
+      <p begin="6005.793s" id="p1658" end="6007.775s">Hold on!</p>
+      <p begin="6008.504s" id="p1659" end="6011.633s">Aaarrghh! Ohh! Ohh!</p>
+      <p begin="6012.676s" id="p1660" end="6014.032s">I'm sorry.</p>
+      <p begin="6014.136s" id="p1661" end="6015.7s">I was so wrong.</p>
+      <p begin="6015.804s" id="p1662" end="6017.16s">Yeah, I know, I know.</p>
+      <p begin="6019.559s" id="p1663" end="6021.436s">But I love you.</p>
+      <p begin="6031.03s" id="p1664" end="6034.68s">Who are you working for?<br />You didn't come up with all this by yourself.</p>
+      <p begin="6034.785s" id="p1665" end="6037.184s">- You bastard!<br />- Nah, somebody's got to you.</p>
+      <p begin="6037.287s" id="p1666" end="6040.311s">Somebody's paid you.<br />Speak a little Russian, do we?</p>
+      <p begin="6041.459s" id="p1667" end="6043.752s">- Valentina! Scrumpy!<br />- Huh?</p>
+      <p begin="6045.421s" id="p1668" end="6047.611s">Miraculous child, there you are.</p>
+      <p begin="6047.716s" id="p1669" end="6049.175s">You old bastard.</p>
+      <p begin="6049.28s" id="p1670" end="6050.948s">After everything we've been through.</p>
+      <p begin="6051.052s" id="p1671" end="6052.93s">How could you? Is this how you repay me?</p>
+      <p begin="6053.034s" id="p1672" end="6055.329s">I can't believe it. After everything.</p>
+      <p begin="6055.433s" id="p1673" end="6057.623s">- And this is all your doing.<br />- Yeah, all my doing?</p>
+      <p begin="6057.728s" id="p1674" end="6059.605s">- How could you, Doc?<br />- No, no, no, no, no.</p>
+      <p begin="6059.709s" id="p1675" end="6064.193s">I'm Felicity. I-I mean I'm the falicitator<br />the facilitator dear boy.</p>
+      <p begin="6064.297s" id="p1676" end="6067.217s">I create the opportunity.<br />It's not my fault if you're not up to it.</p>
+      <p begin="6067.321s" id="p1677" end="6069.616s">I'll forgive you.</p>
+      <p begin="6079.315s" id="p1678" end="6080.67s">Dad!</p>
+      <p begin="6081.505s" id="p1679" end="6083.381s">Dad!</p>
+      <p begin="6086.51s" id="p1680" end="6087.866s">Wake up.</p>
+      <p begin="6087.971s" id="p1681" end="6089.43s">Dad!</p>
+      <p begin="6089.534s" id="p1682" end="6090.89s">Please.</p>
+      <p begin="6092.559s" id="p1683" end="6094.748s">- Please.<br />- Step back, miss. Step back.</p>
+      <p begin="6096.313s" id="p1684" end="6097.773s">Sir? Can...?</p>
+      <p begin="6099.025s" id="p1685" end="6101.632s">Please, miss. There's n-nothing you can do.</p>
+      <p begin="6101.736s" id="p1686" end="6103.926s">- He's, he's d-d-dead...<br />- No!</p>
+      <p begin="6104.03s" id="p1687" end="6106.22s">D-D-Dead drunk.</p>
+      <p begin="6107.159s" id="p1688" end="6109.661s">- Bollocks.<br />- Haven't we seen this guy before?</p>
+      <p begin="6109.766s" id="p1689" end="6112.477s">- Oh, they all look the same.<br />- Aye, bloody drunks.</p>
+      <p begin="6116.962s" id="p1690" end="6118.944s">I hate you!</p>
+      <p begin="6119.048s" id="p1691" end="6121.133s">You make me sick!</p>
+      <p begin="6132.395s" id="p1692" end="6134.377s">This is to be my choice?</p>
+      <p begin="6141.677s" id="p1693" end="6145.118s">Hold your horses.<br />There's absolutely no need for that.</p>
+      <p begin="6145.223s" id="p1694" end="6147.1s">That's just plain contrariness.</p>
+      <p begin="6147.205s" id="p1695" end="6150.646s">Oh, you really think you deserve punishment,<br />don't you?</p>
+      <p begin="6151.377s" id="p1696" end="6154.818s">You have no idea. You're just a kid.</p>
+      <p begin="6154.922s" id="p1697" end="6155.755s">Huh!</p>
+      <p begin="6155.86s" id="p1698" end="6158.468s">Where have you been? I'm a woman now.</p>
+      <p begin="6158.572s" id="p1699" end="6160.867s">Selfish bitch.</p>
+      <p begin="6161.804s" id="p1700" end="6165.142s">- Only fit for...<br />- Only fit for Hell.</p>
+      <p begin="6167.332s" id="p1701" end="6169.314s">If only.</p>
+      <p begin="6170.982s" id="p1702" end="6173.59s">God, stop. Your pop'd never forgive me.</p>
+      <p begin="6174.528s" id="p1703" end="6176.091s">That'd be a shame.</p>
+      <p begin="6179.637s" id="p1704" end="6180.993s">Let's dance.</p>
+      <p begin="6224.793s" id="p1705" end="6225.941s">Damn.</p>
+      <p begin="6227.714s" id="p1706" end="6229.277s">I've won.</p>
+      <p begin="6256.183s" id="p1707" end="6260.772s">You know it's... not exactly<br />what I had in mind, you know.</p>
+      <p begin="6263.171s" id="p1708" end="6265.048s">All this.</p>
+      <p begin="6265.151s" id="p1709" end="6267.967s">I mean, Valentina being the fifth.</p>
+      <p begin="6269.323s" id="p1710" end="6273.286s">I mean, she's supposed to be the prize,<br />not part of the final score.</p>
+      <p begin="6274.954s" id="p1711" end="6276.936s">Just doesn't seem fair.</p>
+      <p begin="6279.23s" id="p1712" end="6282.359s">I hope they get that bastard<br />and tear him limb from limb.</p>
+      <p begin="6282.462s" id="p1713" end="6284.132s">But they won't.</p>
+      <p begin="6284.861s" id="p1714" end="6286.843s">He leads a charmed life, that one.</p>
+      <p begin="6286.948s" id="p1715" end="6288.408s">Mm.</p>
+      <p begin="6289.45s" id="p1716" end="6291.64s">I've been trying to get that bastard<br />for years.</p>
+      <p begin="6291.745s" id="p1717" end="6293.934s">I thought I had him this time,<br />but, you know,</p>
+      <p begin="6294.039s" id="p1718" end="6297.063s">some prat always seems<br />to come along and rescue him.</p>
+      <p begin="6298.003s" id="p1719" end="6299.357s">Aargh!</p>
+      <p begin="6300.922s" id="p1720" end="6302.903s">You know those er...</p>
+      <p begin="6303.007s" id="p1721" end="6306.345s">weird markings that he had<br />on his forehead when you found him?</p>
+      <p begin="6307.179s" id="p1722" end="6309.056s">What is all that about?</p>
+      <p begin="6312.602s" id="p1723" end="6314.479s">Do they protect him or... What is it?</p>
+      <p begin="6315.731s" id="p1724" end="6318.13s">I've never been into<br />all black magic stuff.</p>
+      <p begin="6318.234s" id="p1725" end="6320.214s">I just couldn't get the hang of it.</p>
+      <p begin="6322.717s" id="p1726" end="6326.681s">Can I offer you a stick of gum<br />or a breath mint?</p>
+      <p begin="6328.662s" id="p1727" end="6331.164s">Oh, Jesus.<br />I hate to see you like this, Parny.</p>
+      <p begin="6331.269s" id="p1728" end="6332.73s">I mean...</p>
+      <p begin="6332.833s" id="p1729" end="6334.814s">I tell you what.</p>
+      <p begin="6334.919s" id="p1730" end="6338.36s">If you can get me the lowdown<br />on all those satanic markings...</p>
+      <p begin="6338.464s" id="p1731" end="6342.115s">Better, if you can help me wipe<br />that self-righteous little creep</p>
+      <p begin="6342.219s" id="p1732" end="6343.992s">off the face of the universe...</p>
+      <p begin="6344.723s" id="p1733" end="6346.703s">I'll give you Valentina back.</p>
+      <p begin="6354.004s" id="p1734" end="6355.985s">What do you say?</p>
+      <p begin="6361.199s" id="p1735" end="6363.077s">Oh!</p>
+      <p begin="6363.181s" id="p1736" end="6365.162s">Thank God for that.</p>
+      <p begin="6374.235s" id="p1737" end="6375.174s">Huh?</p>
+      <p begin="6376.32s" id="p1738" end="6377.259s">Oh...</p>
+      <p begin="6380.7s" id="p1739" end="6382.682s">Huh? Oh, shit.</p>
+      <p begin="6382.787s" id="p1740" end="6384.455s">Give it to me.</p>
+      <p begin="6384.559s" id="p1741" end="6386.228s">Oh, no.</p>
+      <p begin="6386.332s" id="p1742" end="6388.209s">Look, I'm in a bit of a hurry.</p>
+      <p begin="6388.314s" id="p1743" end="6390.92s">Now just give us a second, please, everybody.</p>
+      <p begin="6393.84s" id="p1744" end="6394.884s">Oh!</p>
+      <p begin="6394.987s" id="p1745" end="6397.178s">Here's your tube and there's mine.</p>
+      <p begin="6397.283s" id="p1746" end="6401.558s">Mine's a cheap counterfeit, you know.<br />It breaks so easily.</p>
+      <p begin="6403.331s" id="p1747" end="6405.311s">Oh, here's another.</p>
+      <p begin="6406.147s" id="p1748" end="6406.876s">Stop!</p>
+      <p begin="6406.98s" id="p1749" end="6408.752s">You're not amused?</p>
+      <p begin="6408.857s" id="p1750" end="6411.987s">You've been talking to the Devil,<br />haven't you? What did he say?</p>
+      <p begin="6412.091s" id="p1751" end="6413.968s">No, wait, let me.</p>
+      <p begin="6414.072s" id="p1752" end="6417.514s">If you manage to kill me,<br />then he'll release Valentina, right?</p>
+      <p begin="6418.87s" id="p1753" end="6420.538s">It's all lies. He can't release her.</p>
+      <p begin="6420.643s" id="p1754" end="6422.937s">He can't release her<br />cos he doesn't have her.</p>
+      <p begin="6423.041s" id="p1755" end="6425.543s">He doesn't have her<br />because she's the prize.</p>
+      <p begin="6425.647s" id="p1756" end="6427.525s">He still doesn't have the five wins.</p>
+      <p begin="6427.629s" id="p1757" end="6429.611s">But if you kill me, he will, won't he?</p>
+      <p begin="6429.716s" id="p1758" end="6431.905s">Then you'll have lost Valentina forever.</p>
+      <p begin="6432.01s" id="p1759" end="6433.052s">Choose.</p>
+      <p begin="6433.157s" id="p1760" end="6435.137s">- This is ridiculous!<br />- Choose!</p>
+      <p begin="6435.867s" id="p1761" end="6436.598s">Right.</p>
+      <p begin="6441.916s" id="p1762" end="6443.167s">That one.</p>
+      <p begin="6443.272s" id="p1763" end="6445.149s">Sure you made the right choice?</p>
+      <p begin="6445.254s" id="p1764" end="6447.235s">Oh, look...</p>
+      <p begin="6448.174s" id="p1765" end="6449.842s">Let's find out.</p>
+      <p begin="6455.786s" id="p1766" end="6457.038s">Voila.</p>
+      <p begin="6467.675s" id="p1767" end="6469.657s">Jesus! Spit it out, you old goat.</p>
+      <p begin="6475.392s" id="p1768" end="6477.061s">Gotcha!</p>
+      <p begin="6486.134s" id="p1769" end="6489.158s">Thank you all for coming.<br />It's been a splendid success.</p>
+      <p begin="6489.262s" id="p1770" end="6490.721s">Uh...</p>
+      <p begin="6490.826s" id="p1771" end="6492.599s">Round the neck.</p>
+      <p begin="6534.522s" id="p1772" end="6536.19s">Hey!</p>
+      <p begin="6537.233s" id="p1773" end="6540.884s">There are three cardinal rules, Mr Nick.</p>
+      <p begin="6541.822s" id="p1774" end="6545.889s">There is no black magic,<br />only cheap tricks.</p>
+      <p begin="6546.619s" id="p1775" end="6548.601s">And I forget the others.</p>
+      <p begin="6548.705s" id="p1776" end="6551.312s">Now where's my daughter?</p>
+      <p begin="6551.417s" id="p1777" end="6553.398s">Oh, for Christ's sakes.</p>
+      <p begin="6553.502s" id="p1778" end="6555.38s">How should I know?</p>
+      <p begin="6555.483s" id="p1779" end="6558.404s">You're her father.<br />You're her loving father.</p>
+      <p begin="6566.224s" id="p1780" end="6568.102s">I mean, she is free, isn't she?</p>
+      <p begin="6569.041s" id="p1781" end="6569.874s">Jesus.</p>
+      <p begin="6585.831s" id="p1782" end="6587.707s"><span tts:fontStyle="italic">And the years roll on.</span></p>
+      <p begin="6589.584s" id="p1783" end="6591.462s"><span tts:fontStyle="italic">Winds still blow.</span></p>
+      <p begin="6592.401s" id="p1784" end="6594.278s"><span tts:fontStyle="italic">Snows still fall.</span></p>
+      <p begin="6594.382s" id="p1785" end="6597.406s"><span tts:fontStyle="italic">Fires... still burn.</span></p>
+      <p begin="6599.388s" id="p1786" end="6601.37s"><span tts:fontStyle="italic">And yet...</span></p>
+      <p begin="6601.473s" id="p1787" end="6603.455s"><span tts:fontStyle="italic">everything has changed.</span></p>
+      <p begin="6605.749s" id="p1788" end="6607.626s"><span tts:fontStyle="italic">Is that my punishment?</span></p>
+      <p begin="6610.546s" id="p1789" end="6612.528s"><span tts:fontStyle="italic">Am I never to find her?</span></p>
+      <p begin="6630.882s" id="p1790" end="6632.863s">Please stop.</p>
+      <p begin="6634.011s" id="p1791" end="6635.888s">No more choices.</p>
+      <p begin="6636.93s" id="p1792" end="6638.912s">No more choices.</p>
+      <p begin="6773.962s" id="p1793" end="6775.944s">So you found her?</p>
+      <p begin="6776.048s" id="p1794" end="6777.926s">Yes.</p>
+      <p begin="6779.073s" id="p1795" end="6780.846s">Yes, I found her.</p>
+      <p begin="6783.139s" id="p1796" end="6784.599s">I think...</p>
+      <p begin="6785.643s" id="p1797" end="6787.624s">...she may have a daughter.</p>
+      <p begin="6788.77s" id="p1798" end="6790.648s">You're not going in there, are you?</p>
+      <p begin="6793.151s" id="p1799" end="6794.09s">Er...</p>
+      <p begin="6794.924s" id="p1800" end="6797.739s">You wouldn't want to scar a child<br />for life, would you?</p>
+      <p begin="6798.991s" id="p1801" end="6800.867s">Look at you.</p>
+      <p begin="6800.972s" id="p1802" end="6802.954s">No.</p>
+      <p begin="6804.727s" id="p1803" end="6805.979s">Ohh.</p>
+      <p begin="6806.916s" id="p1804" end="6808.794s">The Great Doctor Parnassus.</p>
+      <p begin="6809.732s" id="p1805" end="6812.027s">You're an utter disgrace.</p>
+      <p begin="6816.302s" id="p1806" end="6817.971s">This is gonna take some time.</p>
+      <p begin="6818.075s" id="p1807" end="6819.952s">Oh, Percy.</p>
+      <p begin="6821.099s" id="p1808" end="6822.976s">What would I do without you?</p>
+      <p begin="6825.375s" id="p1809" end="6827.357s">Get a midget.</p>
+      <p begin="6828.19s" id="p1810" end="6831.112s">Let Doctor Parnassus<br />open your imagination.</p>
+      <p begin="6831.215s" id="p1811" end="6834.448s">Transcend heights<br />on Beauty's open wing</p>
+      <p begin="6834.553s" id="p1812" end="6837.577s">and be transported to worlds<br />you've never dreamed of.</p>
+      <p begin="6840.393s" id="p1813" end="6842.375s">Does it come with a happy ending?</p>
+      <p begin="6843.626s" id="p1814" end="6845.607s">Sorry, we can't guarantee that.</p>
+      <p begin="6852.176s" id="p1815" end="6853.116s">Ladies.</p>
+      <p begin="6854.053s" id="p1816" end="6855.931s">God bless you, son.</p>
+      <p begin="6865.004s" id="p1817" end="6866.881s">Get back to work.</p>
+      <p begin="7283.091s" id="p1818" end="7287.433s"><span tts:fontStyle="italic">We are the children of the world</span></p>
+      <p begin="7287.539s" id="p1819" end="7291.245s"><span tts:fontStyle="italic">And we have suffered for your sins</span></p>
+      <p begin="7291.668s" id="p1820" end="7295.057s"><span tts:fontStyle="italic">But if you open up your heart</span></p>
+      <p begin="7295.163s" id="p1821" end="7298.128s"><span tts:fontStyle="italic">A beautiful new day begins</span></p>
+      <p begin="7298.234s" id="p1822" end="7302.469s"><span tts:fontStyle="italic">To lead us all to pastures green</span></p>
+      <p begin="7302.575s" id="p1823" end="7307.023s"><span tts:fontStyle="italic">Where we are free to laugh and run</span></p>
+      <p begin="7307.129s" id="p1824" end="7310.2s"><span tts:fontStyle="italic">With our good Shepherd Tony</span></p>
+      <p begin="7310.306s" id="p1825" end="7314.435s"><span tts:fontStyle="italic">Please let his will be done</span></p>
+    </div>
+  </body>
+</tt>
